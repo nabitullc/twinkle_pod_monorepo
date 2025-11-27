@@ -40,7 +40,7 @@ if (process.env.DEPLOY_PIPELINE === 'true') {
     env,
     stage,
     githubOwner: process.env.GITHUB_OWNER || 'nabitullc',
-    githubRepo: 'twinkle_pod_infra',  // TODO: Rename repo to 'twinklepod'
+    githubRepo: 'twinkle_pod_monorepo',
     githubBranch: 'main',
   });
 }
