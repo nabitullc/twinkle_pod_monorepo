@@ -1,0 +1,19 @@
+{
+  "name": "twinklepod",
+  "version": "1.0.0",
+  "private": true,
+  "workspaces": [
+    "packages/*"
+  ],
+  "scripts": {
+    "build": "npm run build --workspaces",
+    "build:infra": "npm run build -w packages/infra",
+    "build:api": "npm run build -w packages/api",
+    "build:ui": "npm run build -w packages/ui",
+    "deploy": "npm run build && npm run cdk:deploy -w packages/infra",
+    "cdk:deploy": "npm run cdk:deploy -w packages/infra"
+  },
+  "devDependencies": {
+    "typescript": "^5.4.5"
+  }
+}
