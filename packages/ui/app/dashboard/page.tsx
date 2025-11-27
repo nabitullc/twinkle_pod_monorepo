@@ -36,63 +36,88 @@ export default function DashboardPage() {
   };
 
   return (
-    <div className="max-w-4xl mx-auto px-4 py-12">
+    <div className="max-w-6xl mx-auto px-4 py-12">
       <div className="flex justify-between items-center mb-8">
-        <h1 className="text-3xl font-bold">My Children</h1>
-        <Button onClick={() => setIsModalOpen(true)}>Add Child</Button>
+        <div>
+          <h1 className="text-4xl font-bold text-gray-900 mb-2">👶 My Children</h1>
+          <p className="text-gray-600">Manage your children&apos;s reading profiles</p>
+        </div>
+        <Button onClick={() => setIsModalOpen(true)} size="lg">
+          ➕ Add Child
+        </Button>
       </div>
 
-      <div className="grid md:grid-cols-2 gap-6">
-        {children.map((child) => (
-          <div key={child.child_id} className="bg-white rounded-lg shadow p-6">
-            <div className="flex justify-between items-start mb-4">
-              <div>
-                <h3 className="text-xl font-bold">{child.name}</h3>
-                <p className="text-gray-600">Age {child.age}</p>
+      {children.length === 0 ? (
+        <div className="text-center py-20 bg-gradient-to-br from-purple-50 to-pink-50 rounded-3xl border-2 border-dashed border-purple-200">
+          <div className="text-6xl mb-4">👶</div>
+          <h3 className="text-2xl font-bold text-gray-900 mb-2">No children yet</h3>
+          <p className="text-gray-600 mb-6">Add your first child to start their reading journey!</p>
+          <Button onClick={() => setIsModalOpen(true)} size="lg">
+            ✨ Add Your First Child
+          </Button>
+        </div>
+      ) : (
+        <div className="grid md:grid-cols-2 lg:grid-cols-3 gap-6">
+          {children.map((child) => (
+            <div 
+              key={child.child_id} 
+              className="bg-white rounded-2xl shadow-sm hover:shadow-md transition-all p-6 border border-gray-100"
+            >
+              <div className="flex justify-between items-start mb-4">
+                <div className="flex items-center gap-3">
+                  <div className="w-12 h-12 bg-gradient-to-br from-purple-400 to-pink-400 rounded-full flex items-center justify-center text-2xl">
+                    👧
+                  </div>
+                  <div>
+                    <h3 className="text-xl font-bold text-gray-900">{child.name}</h3>
+                    <p className="text-gray-600">Age {child.age}</p>
+                  </div>
+                </div>
+                <button
+                  onClick={() => handleDeleteChild(child.child_id)}
+                  className="text-red-400 hover:text-red-600 text-xl transition-colors"
+                  title="Delete"
+                >
+                  🗑️
+                </button>
               </div>
-              <button
-                onClick={() => handleDeleteChild(child.child_id)}
-                className="text-red-600 hover:text-red-700"
-              >
-                Delete
-              </button>
+              <div className="pt-4 border-t border-gray-100">
+                <p className="text-sm text-gray-500">Reading journey started! 📚</p>
+              </div>
             </div>
-          </div>
-        ))}
-      </div>
-
-      {children.length === 0 && (
-        <div className="text-center py-12 text-gray-500">
-          <p className="mb-4">No children added yet</p>
-          <Button onClick={() => setIsModalOpen(true)}>Add Your First Child</Button>
+          ))}
         </div>
       )}
 
-      <Modal isOpen={isModalOpen} onClose={() => setIsModalOpen(false)} title="Add Child">
+      <Modal isOpen={isModalOpen} onClose={() => setIsModalOpen(false)} title="✨ Add Child">
         <form onSubmit={handleAddChild} className="space-y-4">
           <div>
-            <label className="block text-sm font-medium mb-1">Name</label>
+            <label className="block text-sm font-semibold text-gray-700 mb-2">Child&apos;s Name</label>
             <input
               type="text"
               value={name}
               onChange={(e) => setName(e.target.value)}
-              className="w-full border rounded px-3 py-2"
+              className="w-full border-2 border-gray-200 rounded-xl px-4 py-3 focus:outline-none focus:ring-2 focus:ring-purple-500 focus:border-transparent transition-all"
+              placeholder="Emma"
               required
             />
           </div>
           <div>
-            <label className="block text-sm font-medium mb-1">Age</label>
+            <label className="block text-sm font-semibold text-gray-700 mb-2">Age</label>
             <input
               type="number"
               value={age}
               onChange={(e) => setAge(e.target.value)}
-              className="w-full border rounded px-3 py-2"
+              className="w-full border-2 border-gray-200 rounded-xl px-4 py-3 focus:outline-none focus:ring-2 focus:ring-purple-500 focus:border-transparent transition-all"
+              placeholder="5"
               required
               min="3"
               max="12"
             />
           </div>
-          <Button type="submit" className="w-full">Add Child</Button>
+          <Button type="submit" className="w-full" size="lg">
+            🎉 Add Child
+          </Button>
         </form>
       </Modal>
     </div>

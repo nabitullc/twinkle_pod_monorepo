@@ -1,26 +1,83 @@
-@import "tailwindcss";
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
 
 :root {
-  --background: #ffffff;
-  --foreground: #171717;
-}
-
-@theme inline {
-  --color-background: var(--background);
-  --color-foreground: var(--foreground);
-  --font-sans: var(--font-geist-sans);
-  --font-mono: var(--font-geist-mono);
-}
-
-@media (prefers-color-scheme: dark) {
-  :root {
-    --background: #0a0a0a;
-    --foreground: #ededed;
-  }
+  /* Professional shadows (from Qualtrim) */
+  --shadow-xs: 0 0.1rem 0.75rem 0.25rem rgba(0, 0, 0, 0.05);
+  --shadow-sm: 0 0.1rem 1rem 0.25rem rgba(0, 0, 0, 0.05);
+  --shadow-md: 0 0.5rem 1.5rem 0.5rem rgba(0, 0, 0, 0.075);
+  --shadow-lg: 0px 0px 50px 0px rgba(82, 63, 105, 0.15);
+  
+  /* Kid-friendly colors (warm, playful) */
+  --primary: #8b5cf6;
+  --primary-light: #c4b5fd;
+  --primary-dark: #7c3aed;
+  --secondary: #f59e0b;
+  --accent: #ec4899;
+  
+  /* Soft backgrounds */
+  --bg-primary: #ffffff;
+  --bg-secondary: #faf5ff;
+  --bg-tertiary: #f3e8ff;
+  
+  /* Subtle grays */
+  --gray-50: #fafafa;
+  --gray-100: #f5f5f5;
+  --gray-200: #e5e5e5;
+  --gray-300: #d4d4d4;
+  --gray-600: #525252;
+  --gray-700: #404040;
+  --gray-900: #171717;
+  
+  /* Borders */
+  --border-color: #e5e5e5;
+  --border-radius: 0.75rem;
+  --border-radius-lg: 1rem;
 }
 
 body {
-  background: var(--background);
-  color: var(--foreground);
-  font-family: Arial, Helvetica, sans-serif;
+  font-family: 'Inter', -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  background: linear-gradient(135deg, #faf5ff 0%, #ffffff 100%);
+}
+
+/* Enhanced card styles */
+.card {
+  background: white;
+  border-radius: var(--border-radius-lg);
+  box-shadow: var(--shadow-sm);
+  border: 1px solid var(--border-color);
+  transition: all 0.3s ease;
+}
+
+.card:hover {
+  box-shadow: var(--shadow-md);
+  transform: translateY(-2px);
+}
+
+/* Smooth transitions */
+* {
+  transition: background-color 0.2s ease, color 0.2s ease, border-color 0.2s ease;
+}
+
+/* Custom scrollbar */
+::-webkit-scrollbar {
+  width: 8px;
+  height: 8px;
+}
+
+::-webkit-scrollbar-track {
+  background: var(--gray-100);
+  border-radius: 4px;
+}
+
+::-webkit-scrollbar-thumb {
+  background: var(--gray-300);
+  border-radius: 4px;
+}
+
+::-webkit-scrollbar-thumb:hover {
+  background: var(--gray-600);
 }
