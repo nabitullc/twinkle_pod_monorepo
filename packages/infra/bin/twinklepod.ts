@@ -36,17 +36,14 @@ const apiStack = new ApiStack(app, `TwinklePod-Api-${stage}`, {
 });
 
 // Amplify stack (depends on API and Auth)
-if (process.env.GITHUB_TOKEN) {
-  new AmplifyStack(app, `TwinklePod-Amplify-${stage}`, {
-    env,
-    stage,
-    apiUrl: apiStack.apiUrl || '',
-    userPoolId: authStack.userPoolId,
-    userPoolClientId: authStack.userPoolClient.userPoolClientId,
-    cloudfrontUrl: storageStack.cloudfrontUrl || '',
-    githubToken: process.env.GITHUB_TOKEN,
-  });
-}
+new AmplifyStack(app, `TwinklePod-Amplify-${stage}`, {
+  env,
+  stage,
+  apiUrl: apiStack.apiUrl || '',
+  userPoolId: authStack.userPoolId,
+  userPoolClientId: authStack.userPoolClient.userPoolClientId,
+  cloudfrontUrl: storageStack.cloudfrontUrl || '',
+});
 
 // Pipeline stack (only for beta/prod, not for local dev)
 if (process.env.DEPLOY_PIPELINE === 'true') {

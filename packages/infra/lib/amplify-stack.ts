@@ -8,7 +8,6 @@ interface AmplifyStackProps extends cdk.StackProps {
   userPoolId: string;
   userPoolClientId: string;
   cloudfrontUrl: string;
-  githubToken: string;
 }
 
 export class AmplifyStack extends cdk.Stack {
@@ -18,29 +17,30 @@ export class AmplifyStack extends cdk.Stack {
   constructor(scope: Construct, id: string, props: AmplifyStackProps) {
     super(scope, id, props);
 
-    const { stage, apiUrl, userPoolId, userPoolClientId, cloudfrontUrl, githubToken } = props;
+    const { stage, apiUrl, userPoolId, userPoolClientId, cloudfrontUrl } = props;
 
     const amplifyApp = new amplify.CfnApp(this, 'App', {
       name: `twinklepod-ui-${stage}`,
-      repository: 'https://github.com/rithvicca/twinklepod',
-      accessToken: githubToken,
+      repository: 'https://github.com/nabitullc/twinkle_pod_monorepo',
+      accessToken: cdk.SecretValue.secretsManager('github-token').unsafeUnwrap(),
       buildSpec: `version: 1
-frontend:
-  phases:
-    preBuild:
-      commands:
-        - cd packages/ui
-        - npm ci
-    build:
-      commands:
-        - npm run build
-  artifacts:
-    baseDirectory: packages/ui/.next
-    files:
-      - '**/*'
-  cache:
-    paths:
-      - packages/ui/node_modules/**/*`,
+applications:
+  - appRoot: packages/ui
+    frontend:
+      phases:
+        preBuild:
+          commands:
+            - npm ci
+        build:
+          commands:
+            - npm run build
+      artifacts:
+        baseDirectory: .next
+        files:
+          - '**/*'
+      cache:
+        paths:
+          - node_modules/**/*`,
       environmentVariables: [
         { name: 'NEXT_PUBLIC_API_URL', value: apiUrl },
         { name: 'NEXT_PUBLIC_COGNITO_USER_POOL_ID', value: userPoolId },
