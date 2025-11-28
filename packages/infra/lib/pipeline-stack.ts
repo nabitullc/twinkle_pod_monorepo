@@ -10,6 +10,10 @@ interface PipelineStackProps extends cdk.StackProps {
   githubOwner: string;
   githubRepo: string;
   githubBranch: string;
+  userPoolId?: string;
+  userPoolClientId?: string;
+  apiUrl?: string;
+  cloudfrontUrl?: string;
 }
 
 export class PipelineStack extends cdk.Stack {
@@ -34,6 +38,23 @@ export class PipelineStack extends cdk.Stack {
       environment: {
         buildImage: codebuild.LinuxBuildImage.STANDARD_7_0,
         computeType: codebuild.ComputeType.SMALL,
+      },
+      environmentVariables: {
+        NEXT_PUBLIC_COGNITO_USER_POOL_ID: {
+          value: props.userPoolId || '',
+        },
+        NEXT_PUBLIC_COGNITO_CLIENT_ID: {
+          value: props.userPoolClientId || '',
+        },
+        NEXT_PUBLIC_COGNITO_REGION: {
+          value: this.region,
+        },
+        NEXT_PUBLIC_API_URL: {
+          value: props.apiUrl || '',
+        },
+        NEXT_PUBLIC_CLOUDFRONT_URL: {
+          value: props.cloudfrontUrl || '',
+        },
       },
       buildSpec: codebuild.BuildSpec.fromObject({
         version: '0.2',

@@ -56,6 +56,10 @@ if (process.env.DEPLOY_PIPELINE === 'true') {
     githubOwner: process.env.GITHUB_OWNER || 'nabitullc',
     githubRepo: 'twinkle_pod_monorepo',
     githubBranch: 'main',
+    userPoolId: authStack.userPoolId,
+    userPoolClientId: authStack.userPoolClient.userPoolClientId,
+    apiUrl: apiStack.apiUrl,
+    cloudfrontUrl: storageStack.cloudfrontUrl,
   });
 }
 
