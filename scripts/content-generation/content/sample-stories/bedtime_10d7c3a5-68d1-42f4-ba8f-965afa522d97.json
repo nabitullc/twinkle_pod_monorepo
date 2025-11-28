@@ -1,0 +1,31 @@
+{
+  "story_id": "10d7c3a5-68d1-42f4-ba8f-965afa522d97",
+  "title": "The Sleepy Moon",
+  "pages": [
+    {
+      "text": "Once upon a time, the moon was very sleepy.",
+      "image": "https://cdn.twinklepod.com/images/10d7c3a5-68d1-42f4-ba8f-965afa522d97/moon-1.jpg"
+    },
+    {
+      "text": "All the stars sang a lullaby to help the moon sleep.",
+      "image": "https://cdn.twinklepod.com/images/10d7c3a5-68d1-42f4-ba8f-965afa522d97/moon-2.jpg"
+    },
+    {
+      "text": "And the moon fell asleep with a smile.",
+      "image": "https://cdn.twinklepod.com/images/10d7c3a5-68d1-42f4-ba8f-965afa522d97/moon-3.jpg"
+    }
+  ],
+  "age_range": "3-5",
+  "category": "bedtime",
+  "tags": [
+    "bedtime",
+    "moon",
+    "sleep"
+  ],
+  "moral": "Everyone needs rest",
+  "duration_minutes": 3,
+  "page_count": 3,
+  "author": "TwinklePod",
+  "license": "Sample Content",
+  "created_at": "2025-11-28T23:04:08.945002"
+}

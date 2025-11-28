@@ -1,0 +1,31 @@
+{
+  "story_id": "f0f5db15-7b57-4204-ac64-3c43a6b82943",
+  "title": "The Brave Little Rabbit",
+  "pages": [
+    {
+      "text": "Ruby the rabbit loved to explore the meadow.",
+      "image": "https://cdn.twinklepod.com/images/f0f5db15-7b57-4204-ac64-3c43a6b82943/rabbit-1.jpg"
+    },
+    {
+      "text": "One day, she found a baby bird that needed help.",
+      "image": "https://cdn.twinklepod.com/images/f0f5db15-7b57-4204-ac64-3c43a6b82943/rabbit-2.jpg"
+    },
+    {
+      "text": "Ruby helped the bird back to its nest.",
+      "image": "https://cdn.twinklepod.com/images/f0f5db15-7b57-4204-ac64-3c43a6b82943/rabbit-3.jpg"
+    }
+  ],
+  "age_range": "3-5",
+  "category": "animals",
+  "tags": [
+    "animals",
+    "courage",
+    "kindness"
+  ],
+  "moral": "Helping others makes you brave",
+  "duration_minutes": 3,
+  "page_count": 3,
+  "author": "TwinklePod",
+  "license": "Sample Content",
+  "created_at": "2025-11-28T23:04:08.945293"
+}
