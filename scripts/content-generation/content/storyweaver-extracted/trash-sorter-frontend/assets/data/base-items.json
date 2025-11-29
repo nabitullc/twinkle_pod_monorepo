@@ -1,0 +1,1272 @@
+[
+  {
+    "name": "Aluminum can",
+    "keywords": [
+      "aluminium",
+      "soda can",
+      "beer can",
+      "can"
+    ],
+    "category": "RECYCLE",
+    "tips": [
+      "Empty and lightly rinse.",
+      "Crush to save space if allowed."
+    ]
+  },
+  {
+    "name": "Steel/Tin can",
+    "keywords": [
+      "tin can",
+      "steel can",
+      "food can"
+    ],
+    "category": "RECYCLE",
+    "tips": [
+      "Rinse. Labels okay in most programs."
+    ]
+  },
+  {
+    "name": "Glass bottle (clear)",
+    "keywords": [
+      "glass bottle clear",
+      "clear bottle"
+    ],
+    "category": "RECYCLE",
+    "tips": [
+      "Rinse. Remove caps."
+    ]
+  },
+  {
+    "name": "Glass bottle (brown/green)",
+    "keywords": [
+      "green bottle",
+      "brown bottle",
+      "beer bottle"
+    ],
+    "category": "RECYCLE",
+    "tips": [
+      "Rinse. Remove caps."
+    ]
+  },
+  {
+    "name": "Glass jar",
+    "keywords": [
+      "mason jar",
+      "sauce jar",
+      "jam jar"
+    ],
+    "category": "RECYCLE",
+    "tips": [
+      "Rinse. Metal lids may be recyclable separately."
+    ]
+  },
+  {
+    "name": "Paper (mixed)",
+    "keywords": [
+      "paper",
+      "office paper",
+      "copy paper"
+    ],
+    "category": "RECYCLE",
+    "tips": [
+      "Keep clean and dry."
+    ]
+  },
+  {
+    "name": "Newspaper",
+    "keywords": [
+      "newsprint",
+      "newspaper bundle"
+    ],
+    "category": "RECYCLE",
+    "tips": [
+      "Keep dry. Remove plastic bag."
+    ]
+  },
+  {
+    "name": "Magazines & catalogs",
+    "keywords": [
+      "magazine",
+      "catalog"
+    ],
+    "category": "RECYCLE",
+    "tips": [
+      "Keep dry. No plastic wrap."
+    ]
+  },
+  {
+    "name": "Cardboard box",
+    "keywords": [
+      "corrugated",
+      "shipping box",
+      "amazon box"
+    ],
+    "category": "RECYCLE",
+    "tips": [
+      "Flatten. Remove excess tape if requested."
+    ]
+  },
+  {
+    "name": "Paperboard (cereal box)",
+    "keywords": [
+      "cereal box",
+      "shoe box",
+      "paperboard"
+    ],
+    "category": "RECYCLE",
+    "tips": [
+      "Flatten. Remove plastic liner."
+    ]
+  },
+  {
+    "name": "Mail & envelopes",
+    "keywords": [
+      "envelope",
+      "junk mail",
+      "mail"
+    ],
+    "category": "RECYCLE",
+    "tips": [
+      "Plastic windows acceptable in many programs."
+    ]
+  },
+  {
+    "name": "Paper bags",
+    "keywords": [
+      "grocery paper bag",
+      "kraft bag"
+    ],
+    "category": "RECYCLE",
+    "tips": [
+      "Flatten. Remove receipts."
+    ]
+  },
+  {
+    "name": "Plastic bottle (PET #1)",
+    "keywords": [
+      "water bottle",
+      "soda bottle",
+      "pet bottle",
+      "#1 plastic"
+    ],
+    "category": "RECYCLE",
+    "tips": [
+      "Empty. Caps on/off per local rules."
+    ]
+  },
+  {
+    "name": "Plastic jug (HDPE #2)",
+    "keywords": [
+      "milk jug",
+      "detergent jug",
+      "hdpe jug",
+      "#2 plastic"
+    ],
+    "category": "RECYCLE",
+    "tips": [
+      "Rinse. Keep cap on if accepted."
+    ]
+  },
+  {
+    "name": "Rigid plastic container (#5 PP)",
+    "keywords": [
+      "yogurt tub",
+      "pp container",
+      "#5 plastic"
+    ],
+    "category": "RECYCLE",
+    "tips": [
+      "Rinse. Check local acceptance for #5."
+    ]
+  },
+  {
+    "name": "Aseptic carton",
+    "keywords": [
+      "juice box",
+      "soup carton",
+      "tetra pak"
+    ],
+    "category": "RECYCLE",
+    "tips": [
+      "Rinse. Check local acceptance."
+    ]
+  },
+  {
+    "name": "Aluminum foil (clean)",
+    "keywords": [
+      "foil sheet",
+      "aluminium foil"
+    ],
+    "category": "RECYCLE",
+    "tips": [
+      "Clean and ball up to fist size."
+    ]
+  },
+  {
+    "name": "Aluminum tray (clean)",
+    "keywords": [
+      "foil tray",
+      "baking tray foil"
+    ],
+    "category": "RECYCLE",
+    "tips": [
+      "Remove food residue; clean."
+    ]
+  },
+  {
+    "name": "Scrap paper (non-glossy)",
+    "keywords": [
+      "notebook paper",
+      "printer paper"
+    ],
+    "category": "RECYCLE",
+    "tips": [
+      "Remove metal spirals if requested."
+    ]
+  },
+  {
+    "name": "Telephone books",
+    "keywords": [
+      "phone book"
+    ],
+    "category": "RECYCLE",
+    "tips": [
+      "Recycle with mixed paper."
+    ]
+  },
+  {
+    "name": "Cardboard tube",
+    "keywords": [
+      "paper towel tube",
+      "toilet paper roll"
+    ],
+    "category": "RECYCLE",
+    "tips": [
+      "Keep dry. Flatten if possible."
+    ]
+  },
+  {
+    "name": "Clear clamshell plastic (PET #1)",
+    "keywords": [
+      "berry clamshell",
+      "salad container"
+    ],
+    "category": "RECYCLE",
+    "tips": [
+      "Rinse. Check local acceptance for PET clamshells."
+    ]
+  },
+  {
+    "name": "Metal lid",
+    "keywords": [
+      "jar lid metal",
+      "bottle cap metal"
+    ],
+    "category": "RECYCLE",
+    "tips": [
+      "Collect in a can and crimp closed if tiny."
+    ]
+  },
+  {
+    "name": "Plastic lid (rigid)",
+    "keywords": [
+      "yogurt lid rigid",
+      "tub lid"
+    ],
+    "category": "RECYCLE",
+    "tips": [
+      "Check # and local rules; keep attached if possible."
+    ]
+  },
+  {
+    "name": "Food scraps (plant-based)",
+    "keywords": [
+      "vegetable scraps",
+      "fruit peels",
+      "food waste"
+    ],
+    "category": "COMPOST",
+    "tips": [
+      "Drain liquids. Avoid plastic bags unless compostable."
+    ]
+  },
+  {
+    "name": "Eggshells",
+    "keywords": [
+      "egg shells",
+      "eggshell"
+    ],
+    "category": "COMPOST",
+    "tips": [
+      "Crush for faster breakdown."
+    ]
+  },
+  {
+    "name": "Coffee grounds & filters",
+    "keywords": [
+      "coffee grounds",
+      "paper filters"
+    ],
+    "category": "COMPOST",
+    "tips": [
+      "Paper filters ok. No plastic pods unless program allows."
+    ]
+  },
+  {
+    "name": "Tea bags (paper)",
+    "keywords": [
+      "tea bag paper",
+      "loose tea"
+    ],
+    "category": "COMPOST",
+    "tips": [
+      "Remove staples if present. Avoid plastic mesh bags."
+    ]
+  },
+  {
+    "name": "Yard trimmings",
+    "keywords": [
+      "leaves",
+      "grass clippings",
+      "branches"
+    ],
+    "category": "COMPOST",
+    "tips": [
+      "Follow local bundling/size rules."
+    ]
+  },
+  {
+    "name": "Pumpkin (post-holiday)",
+    "keywords": [
+      "jack-o-lantern",
+      "pumpkin scraps"
+    ],
+    "category": "COMPOST",
+    "tips": [
+      "Remove candles and wax."
+    ]
+  },
+  {
+    "name": "Uncoated paper napkins",
+    "keywords": [
+      "paper napkin soiled",
+      "tissue napkin"
+    ],
+    "category": "COMPOST",
+    "tips": [
+      "Only uncoated. If clean and unsoiled, landfill or recycle per rules."
+    ]
+  },
+  {
+    "name": "Paper towels (soiled)",
+    "keywords": [
+      "paper towel greasy",
+      "shop towel paper"
+    ],
+    "category": "COMPOST",
+    "tips": [
+      "Only uncoated. Avoid chemicals/solvents."
+    ]
+  },
+  {
+    "name": "Pizza box (greasy)",
+    "keywords": [
+      "greasy pizza box",
+      "oily pizza box"
+    ],
+    "category": "COMPOST",
+    "tips": [
+      "Grease contaminates paper recycling. Compost if accepted."
+    ]
+  },
+  {
+    "name": "Compostable liner bag (BPI)",
+    "keywords": [
+      "compostable bag",
+      "bpi bag"
+    ],
+    "category": "COMPOST",
+    "tips": [
+      "Look for BPI certification. Check program rules."
+    ]
+  },
+  {
+    "name": "Wooden toothpicks/stirrers",
+    "keywords": [
+      "wood stirrer",
+      "toothpick wood"
+    ],
+    "category": "COMPOST",
+    "tips": [
+      "No plastic."
+    ]
+  },
+  {
+    "name": "Uncoated paper plates (soiled)",
+    "keywords": [
+      "paper plate uncoated"
+    ],
+    "category": "COMPOST",
+    "tips": [
+      "Only if uncoated. Heavily soiled is ok."
+    ]
+  },
+  {
+    "name": "Plastic film & bags",
+    "keywords": [
+      "grocery bag",
+      "shrink wrap",
+      "cling film",
+      "bubble wrap"
+    ],
+    "category": "LANDFILL",
+    "tips": [
+      "Curbside rarely accepts; try retail drop-off if available.",
+      "Keep out of recycle bin; it tangles machinery."
+    ]
+  },
+  {
+    "name": "Plastic wrap (cling)",
+    "keywords": [
+      "saran wrap",
+      "cling film"
+    ],
+    "category": "LANDFILL",
+    "tips": [
+      "Not recyclable curbside."
+    ]
+  },
+  {
+    "name": "Bubble mailer (plastic)",
+    "keywords": [
+      "poly mailer",
+      "amazon mailer plastic"
+    ],
+    "category": "LANDFILL",
+    "tips": [
+      "Mixed materials; remove label and reuse if possible."
+    ]
+  },
+  {
+    "name": "Chip bag",
+    "keywords": [
+      "potato chip bag",
+      "crisps bag"
+    ],
+    "category": "LANDFILL",
+    "tips": [
+      "Metalized plastic; not recyclable curbside."
+    ]
+  },
+  {
+    "name": "Candy wrapper",
+    "keywords": [
+      "chocolate wrapper",
+      "bar wrapper"
+    ],
+    "category": "LANDFILL",
+    "tips": [
+      "Not recyclable curbside."
+    ]
+  },
+  {
+    "name": "Snack pouch",
+    "keywords": [
+      "yogurt pouch",
+      "puree pouch"
+    ],
+    "category": "LANDFILL",
+    "tips": [
+      "Multi-layer film; not recyclable curbside."
+    ]
+  },
+  {
+    "name": "Disposable coffee cup (plastic-lined)",
+    "keywords": [
+      "paper cup coffee",
+      "to-go cup"
+    ],
+    "category": "LANDFILL",
+    "tips": [
+      "Plastic lining blocks recycling in most cities."
+    ]
+  },
+  {
+    "name": "Coffee cup lid (PS #6)",
+    "keywords": [
+      "plastic lid cup"
+    ],
+    "category": "LANDFILL",
+    "tips": [
+      "Check number; many lids are not accepted."
+    ]
+  },
+  {
+    "name": "Straw (plastic)",
+    "keywords": [
+      "drinking straw"
+    ],
+    "category": "LANDFILL",
+    "tips": [
+      "Too small for sorting equipment."
+    ]
+  },
+  {
+    "name": "Plastic utensils",
+    "keywords": [
+      "fork",
+      "spoon",
+      "knife"
+    ],
+    "category": "LANDFILL",
+    "tips": [
+      "Not recyclable curbside. Consider reusables."
+    ]
+  },
+  {
+    "name": "Paper straw (soiled)",
+    "keywords": [
+      "straw paper"
+    ],
+    "category": "LANDFILL",
+    "tips": [
+      "Often soiled; compost only if accepted."
+    ]
+  },
+  {
+    "name": "Foam cup (EPS)",
+    "keywords": [
+      "styrofoam cup"
+    ],
+    "category": "LANDFILL",
+    "tips": [
+      "Not accepted curbside in most areas."
+    ]
+  },
+  {
+    "name": "Foam clamshell (EPS)",
+    "keywords": [
+      "takeout foam box"
+    ],
+    "category": "LANDFILL",
+    "tips": [
+      "Not accepted curbside in most areas."
+    ]
+  },
+  {
+    "name": "Foam peanuts",
+    "keywords": [
+      "packing peanuts foam"
+    ],
+    "category": "LANDFILL",
+    "tips": [
+      "Reuse or take to shipping stores if accepted."
+    ]
+  },
+  {
+    "name": "Ceramics",
+    "keywords": [
+      "plate ceramic",
+      "mug ceramic"
+    ],
+    "category": "LANDFILL",
+    "tips": [
+      "Not the same as glass bottles; wrap sharp edges."
+    ]
+  },
+  {
+    "name": "Mirror glass",
+    "keywords": [
+      "mirror"
+    ],
+    "category": "LANDFILL",
+    "tips": [
+      "Do not recycle with bottles/jars; different melting point."
+    ]
+  },
+  {
+    "name": "Window glass",
+    "keywords": [
+      "tempered glass",
+      "window pane"
+    ],
+    "category": "LANDFILL",
+    "tips": [
+      "Do not place in bottle recycling."
+    ]
+  },
+  {
+    "name": "Hangers (plastic)",
+    "keywords": [
+      "clothes hanger plastic"
+    ],
+    "category": "LANDFILL",
+    "tips": [
+      "Reuse or donate; not recyclable curbside."
+    ]
+  },
+  {
+    "name": "Hangers (wire)",
+    "keywords": [
+      "wire hanger"
+    ],
+    "category": "LANDFILL",
+    "tips": [
+      "Take to dry cleaner reuse. Avoid curbside bins."
+    ]
+  },
+  {
+    "name": "Textiles (soiled/torn)",
+    "keywords": [
+      "clothes worn out",
+      "fabric scraps"
+    ],
+    "category": "LANDFILL",
+    "tips": [
+      "Donate if reusable; otherwise landfill or textile recycling if available."
+    ]
+  },
+  {
+    "name": "Vacuum cleaner bag",
+    "keywords": [
+      "vacuum bag"
+    ],
+    "category": "LANDFILL",
+    "tips": [
+      "Contains dust/debris; landfill."
+    ]
+  },
+  {
+    "name": "Wet wipes",
+    "keywords": [
+      "baby wipes",
+      "cleaning wipes"
+    ],
+    "category": "LANDFILL",
+    "tips": [
+      "Do not flush; landfill only."
+    ]
+  },
+  {
+    "name": "Disposable diapers",
+    "keywords": [
+      "diaper",
+      "baby diaper"
+    ],
+    "category": "LANDFILL",
+    "tips": [
+      "Seal in bag. Do not compost or recycle."
+    ]
+  },
+  {
+    "name": "Sanitary products",
+    "keywords": [
+      "pads",
+      "tampons"
+    ],
+    "category": "LANDFILL",
+    "tips": [
+      "Do not flush."
+    ]
+  },
+  {
+    "name": "Latex gloves (household)",
+    "keywords": [
+      "rubber gloves"
+    ],
+    "category": "LANDFILL",
+    "tips": [
+      "Dispose in landfill; not recyclable."
+    ]
+  },
+  {
+    "name": "Garden hose",
+    "keywords": [
+      "hose"
+    ],
+    "category": "LANDFILL",
+    "tips": [
+      "Tangles sorting machinery; keep out of recycle bin."
+    ]
+  },
+  {
+    "name": "Christmas lights (string)",
+    "keywords": [
+      "string lights"
+    ],
+    "category": "LANDFILL",
+    "tips": [
+      "E-waste recycling/drop-off preferred; not curbside."
+    ]
+  },
+  {
+    "name": "Small electronics",
+    "keywords": [
+      "phone",
+      "tablet",
+      "camera"
+    ],
+    "category": "LANDFILL",
+    "tips": [
+      "Use e-waste drop-off; avoid landfill."
+    ]
+  },
+  {
+    "name": "Batteries (household)",
+    "keywords": [
+      "aa battery",
+      "aaa battery"
+    ],
+    "category": "LANDFILL",
+    "tips": [
+      "Hazardous\u2014use battery drop-off; do not trash if prohibited."
+    ]
+  },
+  {
+    "name": "Light bulbs (incandescent)",
+    "keywords": [
+      "bulb incandescent"
+    ],
+    "category": "LANDFILL",
+    "tips": [
+      "Wrap before trashing. CFL/LED require special handling."
+    ]
+  },
+  {
+    "name": "CFL bulbs (mercury)",
+    "keywords": [
+      "cfl bulb"
+    ],
+    "category": "LANDFILL",
+    "tips": [
+      "Do NOT landfill; bring to hazardous waste drop-off."
+    ]
+  },
+  {
+    "name": "LED bulbs",
+    "keywords": [
+      "led bulb"
+    ],
+    "category": "LANDFILL",
+    "tips": [
+      "Take to e-waste drop-off if available; otherwise landfill if allowed."
+    ]
+  },
+  {
+    "name": "Paint cans (empty/dry)",
+    "keywords": [
+      "paint can dry"
+    ],
+    "category": "LANDFILL",
+    "tips": [
+      "If completely dry. Otherwise hazardous waste."
+    ]
+  },
+  {
+    "name": "Paper shred (bagged)",
+    "keywords": [
+      "shredded paper"
+    ],
+    "category": "LANDFILL",
+    "tips": [
+      "Often not accepted loose; check drop-off or bag-and-landfill."
+    ]
+  },
+  {
+    "name": "Receipts (thermal)",
+    "keywords": [
+      "receipt paper"
+    ],
+    "category": "LANDFILL",
+    "tips": [
+      "Thermal paper often not recyclable."
+    ]
+  },
+  {
+    "name": "Ice pack (gel)",
+    "keywords": [
+      "lunch pack gel"
+    ],
+    "category": "LANDFILL",
+    "tips": [
+      "Non-recyclable; drain gel if allowed and trash."
+    ]
+  },
+  {
+    "name": "Beer can (aluminum)",
+    "keywords": [
+      "beer can aluminium"
+    ],
+    "category": "RECYCLE",
+    "tips": [
+      "Rinse. Crush if allowed."
+    ]
+  },
+  {
+    "name": "Soup can (steel)",
+    "keywords": [
+      "steel can soup"
+    ],
+    "category": "RECYCLE",
+    "tips": [
+      "Rinse. Labels ok."
+    ]
+  },
+  {
+    "name": "Wine bottle",
+    "keywords": [
+      "wine glass bottle"
+    ],
+    "category": "RECYCLE",
+    "tips": [
+      "Rinse. Cork separate."
+    ]
+  },
+  {
+    "name": "Jar lid (metal)",
+    "keywords": [
+      "lid metal"
+    ],
+    "category": "RECYCLE",
+    "tips": [
+      "Collect small lids into can."
+    ]
+  },
+  {
+    "name": "Catalog mailer (paper)",
+    "keywords": [
+      "mailer paper"
+    ],
+    "category": "RECYCLE",
+    "tips": [
+      "Remove plastic wrap."
+    ]
+  },
+  {
+    "name": "Shoe box",
+    "keywords": [
+      "shoe box cardboard"
+    ],
+    "category": "RECYCLE",
+    "tips": [
+      "Flatten."
+    ]
+  },
+  {
+    "name": "Detergent bottle (#2)",
+    "keywords": [
+      "laundry bottle hdpe"
+    ],
+    "category": "RECYCLE",
+    "tips": [
+      "Rinse. Cap on if accepted."
+    ]
+  },
+  {
+    "name": "Shampoo bottle (#2/#1)",
+    "keywords": [
+      "toiletry bottle plastic"
+    ],
+    "category": "RECYCLE",
+    "tips": [
+      "Empty and rinse."
+    ]
+  },
+  {
+    "name": "Milk carton (gable-top)",
+    "keywords": [
+      "milk carton"
+    ],
+    "category": "RECYCLE",
+    "tips": [
+      "Rinse. Check local acceptance."
+    ]
+  },
+  {
+    "name": "Clear PET tray",
+    "keywords": [
+      "salad tray pet"
+    ],
+    "category": "RECYCLE",
+    "tips": [
+      "Rinse. Check local acceptance."
+    ]
+  },
+  {
+    "name": "Frozen food box (paperboard)",
+    "keywords": [
+      "frozen box"
+    ],
+    "category": "RECYCLE",
+    "tips": [
+      "Some have coatings\u2014check local rules."
+    ]
+  },
+  {
+    "name": "Office file folders",
+    "keywords": [
+      "manila folder"
+    ],
+    "category": "RECYCLE",
+    "tips": [
+      "Remove metal parts if required."
+    ]
+  },
+  {
+    "name": "Paperback book",
+    "keywords": [
+      "book softcover"
+    ],
+    "category": "RECYCLE",
+    "tips": [
+      "Donate if usable; recycle if worn."
+    ]
+  },
+  {
+    "name": "Cardboard beverage carrier",
+    "keywords": [
+      "six-pack holder cardboard"
+    ],
+    "category": "RECYCLE",
+    "tips": [
+      "Flatten."
+    ]
+  },
+  {
+    "name": "Paper egg carton",
+    "keywords": [
+      "egg carton paper"
+    ],
+    "category": "RECYCLE",
+    "tips": [
+      "Recycle or compost if soiled."
+    ]
+  },
+  {
+    "name": "Bread & grains (small amounts)",
+    "keywords": [
+      "stale bread",
+      "rice leftovers"
+    ],
+    "category": "COMPOST",
+    "tips": [
+      "Check program\u2014some accept cooked grains."
+    ]
+  },
+  {
+    "name": "Fruit pits & cores",
+    "keywords": [
+      "apple core",
+      "peach pit"
+    ],
+    "category": "COMPOST",
+    "tips": [
+      "Break large pieces."
+    ]
+  },
+  {
+    "name": "Vegetable stems",
+    "keywords": [
+      "broccoli stems",
+      "herb stems"
+    ],
+    "category": "COMPOST",
+    "tips": [
+      "Chop for faster breakdown."
+    ]
+  },
+  {
+    "name": "Stale pastries (no packaging)",
+    "keywords": [
+      "donut stale",
+      "pastry"
+    ],
+    "category": "COMPOST",
+    "tips": [
+      "Remove liners/packaging."
+    ]
+  },
+  {
+    "name": "Paper coffee filters",
+    "keywords": [
+      "filter coffee"
+    ],
+    "category": "COMPOST",
+    "tips": [
+      "Okay to compost."
+    ]
+  },
+  {
+    "name": "Pizza box (clean portions removed)",
+    "keywords": [
+      "pizza box partial"
+    ],
+    "category": "COMPOST",
+    "tips": [
+      "Compost only greasy parts."
+    ]
+  },
+  {
+    "name": "Compostable utensils (BPI)",
+    "keywords": [
+      "compostable fork",
+      "pla utensil"
+    ],
+    "category": "COMPOST",
+    "tips": [
+      "Only if program accepts compostable plastics."
+    ]
+  },
+  {
+    "name": "Plastic cutlery (black)",
+    "keywords": [
+      "black plastic fork"
+    ],
+    "category": "LANDFILL",
+    "tips": [
+      "Not recyclable curbside."
+    ]
+  },
+  {
+    "name": "Clamshell black plastic",
+    "keywords": [
+      "black takeout container"
+    ],
+    "category": "LANDFILL",
+    "tips": [
+      "Black plastic often not detected; landfill."
+    ]
+  },
+  {
+    "name": "Foil with food residue",
+    "keywords": [
+      "dirty foil"
+    ],
+    "category": "LANDFILL",
+    "tips": [
+      "Too soiled to recycle."
+    ]
+  },
+  {
+    "name": "Paper cup sleeves (clean)",
+    "keywords": [
+      "coffee sleeve"
+    ],
+    "category": "RECYCLE",
+    "tips": [
+      "If clean paperboard; otherwise compost if soiled."
+    ]
+  },
+  {
+    "name": "Greasy paper bag",
+    "keywords": [
+      "oily paper bag"
+    ],
+    "category": "COMPOST",
+    "tips": [
+      "Only if uncoated."
+    ]
+  },
+  {
+    "name": "Vacuum-formed packaging (PVC #3)",
+    "keywords": [
+      "toy shell pvc"
+    ],
+    "category": "LANDFILL",
+    "tips": [
+      "Not recyclable curbside."
+    ]
+  },
+  {
+    "name": "Blister pack (mixed)",
+    "keywords": [
+      "pill blister",
+      "battery blister"
+    ],
+    "category": "LANDFILL",
+    "tips": [
+      "Mixed materials; landfill."
+    ]
+  },
+  {
+    "name": "Plastic netting (produce)",
+    "keywords": [
+      "orange bag net"
+    ],
+    "category": "LANDFILL",
+    "tips": [
+      "Tangles machinery; landfill."
+    ]
+  },
+  {
+    "name": "Twist ties",
+    "keywords": [
+      "bag tie"
+    ],
+    "category": "LANDFILL",
+    "tips": [
+      "Too small for sorting."
+    ]
+  },
+  {
+    "name": "Rubber bands",
+    "keywords": [
+      "elastic band"
+    ],
+    "category": "LANDFILL",
+    "tips": [
+      "Too small; reuse if possible."
+    ]
+  },
+  {
+    "name": "Staples (loose)",
+    "keywords": [
+      "staple"
+    ],
+    "category": "LANDFILL",
+    "tips": [
+      "Too small; leave on paper if already attached."
+    ]
+  },
+  {
+    "name": "Paper clips (loose)",
+    "keywords": [
+      "clip small"
+    ],
+    "category": "LANDFILL",
+    "tips": [
+      "Too small for sorting."
+    ]
+  },
+  {
+    "name": "Tape (adhesive)",
+    "keywords": [
+      "packing tape",
+      "duct tape"
+    ],
+    "category": "LANDFILL",
+    "tips": [
+      "Remove from cardboard if required."
+    ]
+  },
+  {
+    "name": "Napkins (clean)",
+    "keywords": [
+      "unused napkin"
+    ],
+    "category": "LANDFILL",
+    "tips": [
+      "Can be composted if uncoated and program accepts."
+    ]
+  },
+  {
+    "name": "Grease-soaked pizza insert",
+    "keywords": [
+      "pizza insert"
+    ],
+    "category": "COMPOST",
+    "tips": [
+      "If plain paperboard and soiled; otherwise recycle if clean."
+    ]
+  },
+  {
+    "name": "Motor oil bottle (empty)",
+    "keywords": [
+      "oil bottle empty"
+    ],
+    "category": "LANDFILL",
+    "tips": [
+      "Residue may contaminate; use HHW/e-waste centers if possible."
+    ]
+  },
+  {
+    "name": "Motor oil (liquid)",
+    "keywords": [
+      "used oil"
+    ],
+    "category": "LANDFILL",
+    "tips": [
+      "Do NOT landfill; hazardous waste drop-off required."
+    ]
+  },
+  {
+    "name": "Propane tank (small)",
+    "keywords": [
+      "camping propane"
+    ],
+    "category": "LANDFILL",
+    "tips": [
+      "Do NOT landfill; take to HHW or exchange."
+    ]
+  },
+  {
+    "name": "BBQ charcoal ash (cold)",
+    "keywords": [
+      "charcoal ash"
+    ],
+    "category": "LANDFILL",
+    "tips": [
+      "Fully cooled ash to landfill; avoid compost unless wood-only and clean."
+    ]
+  },
+  {
+    "name": "Wood scraps (untreated)",
+    "keywords": [
+      "raw wood pieces"
+    ],
+    "category": "COMPOST",
+    "tips": [
+      "Chip small pieces; check program."
+    ]
+  },
+  {
+    "name": "Wood scraps (treated/painted)",
+    "keywords": [
+      "painted wood"
+    ],
+    "category": "LANDFILL",
+    "tips": [
+      "Landfill or special facility; not compostable."
+    ]
+  },
+  {
+    "name": "Shoebox tissue (clean)",
+    "keywords": [
+      "tissue paper"
+    ],
+    "category": "LANDFILL",
+    "tips": [
+      "Often not recyclable due to fibers; compost if accepted."
+    ]
+  },
+  {
+    "name": "Junk mail with plastic window",
+    "keywords": [
+      "window envelope"
+    ],
+    "category": "RECYCLE",
+    "tips": [
+      "Windows ok in many programs."
+    ]
+  },
+  {
+    "name": "Paper receipts glossy",
+    "keywords": [
+      "glossy receipt"
+    ],
+    "category": "LANDFILL",
+    "tips": [
+      "Likely thermal\u2014landfill."
+    ]
+  },
+  {
+    "name": "Aluminum pie pan (clean)",
+    "keywords": [
+      "pie tin"
+    ],
+    "category": "RECYCLE",
+    "tips": [
+      "Rinse before recycling."
+    ]
+  }
+]

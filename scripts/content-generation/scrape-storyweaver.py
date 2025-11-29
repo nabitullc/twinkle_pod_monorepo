@@ -17,24 +17,36 @@ STORY_URLS = {
 async def scrape_story_list(page, url, limit=20):
     """Scrape story links from listing page"""
     print(f"📖 Loading: {url}")
-    await page.goto(url, wait_until="networkidle")
+    await page.goto(url, wait_until="load", timeout=60000)
     
     # Wait for stories to load
-    await page.wait_for_selector('[data-testid="story-card"]', timeout=10000)
+    await page.wait_for_timeout(3000)  # Give page time to render
+    await page.wait_for_selector('.pb-story-card, .story-card, a[href*="/stories/"]', timeout=15000)
     
-    # Extract story links
-    story_cards = await page.query_selector_all('[data-testid="story-card"]')
+    # Extract story links (try multiple selectors)
+    story_cards = await page.query_selector_all('.pb-story-card, .story-card')
+    
+    if not story_cards:
+        # Fallback: find all story links
+        story_links = await page.query_selector_all('a[href*="/stories/"]')
+        story_cards = story_links[:limit]
     
     stories = []
     for card in story_cards[:limit]:
-        link = await card.query_selector('a')
-        if link:
-            href = await link.get_attribute('href')
-            title = await link.text_content()
-            stories.append({
-                "url": f"https://storyweaver.org.in{href}",
-                "title": title.strip()
-            })
+        try:
+            link = await card.query_selector('a') if await card.query_selector('a') else card
+            if link:
+                href = await link.get_attribute('href')
+                if href and '/stories/' in href and not href.endswith('/stories'):
+                    title_elem = await card.query_selector('h3, h4, .title')
+                    title = await title_elem.text_content() if title_elem else href.split('/')[-1]
+                    stories.append({
+                        "url": f"https://storyweaver.org.in{href}" if href.startswith('/') else href,
+                        "title": title.strip()
+                    })
+        except Exception as e:
+            print(f"    ⚠️  Skipping card: {e}")
+            continue
     
     print(f"  Found {len(stories)} stories")
     return stories

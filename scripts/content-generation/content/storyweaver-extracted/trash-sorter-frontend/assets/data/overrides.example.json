@@ -1,0 +1,17 @@
+{
+  "city": "Sample City",
+  "rules": {
+    "Pizza box (clean)": {
+      "category": "LANDFILL",
+      "tips": [
+        "Local rule: pizza boxes not allowed in recycling."
+      ]
+    },
+    "Glass bottle (brown/green)": {
+      "category": "RECYCLE",
+      "tips": [
+        "Rinse. Caps off. Place in glass bin if your city separates colors."
+      ]
+    }
+  }
+}

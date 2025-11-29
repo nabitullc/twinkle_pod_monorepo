@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Music Player</title>
+    <link rel="stylesheet" type="text/css" href="style.css" />
+    <script src="videos.js"></script>
+  </head>
+
+  <body>
+    <div class="music-player">
+      <div class="player-info">
+        <h3 id="video-title"></h3>
+        <p id="video-artist"></p>
+      </div>
+      <div class="controls">
+        <button id="prev-button">Previous</button>
+        <button id="play-button">Play</button>
+        <button id="next-button">Next</button>
+        <button id="shuffle-button">Click to Shuffle</button>
+        <video id="video" controls preload="auto">
+          <source id="video-src" type="video/mp4" />
+        </video>
+      </div>
+      <div class="video-list-box">
+        <input type="text" id="search-input" placeholder="Search video" />
+        <div class="playlist">
+          <ul id="video-list"></ul>
+        </div>
+      </div>
+    </div>
+    <script src="script.js"></script>
+  </body>
+</html>

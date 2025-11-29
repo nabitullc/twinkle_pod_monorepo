@@ -1,0 +1,55 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Trash Sorter</title>
+  <link rel="stylesheet" href="assets/css/styles.css" />
+</head>
+<body>
+  <div class="wrap">
+    <header class="header">
+      <div class="logo">♻️</div>
+      <div>
+        <h1>Trash Sorter</h1>
+        <p class="sub">Type an item to see if it goes to <b>Recycle</b>, <b>Compost</b>, or <b>Landfill</b>.</p>
+      </div>
+    </header>
+
+    <div class="search">
+      <input id="q" placeholder="e.g., pizza box, plastic bag, coffee grounds" autocomplete="off" />
+      <button id="clear" aria-label="Clear">✕</button>
+    </div>
+
+    <div id="city-banner" class="notice" hidden></div>
+
+    <section id="result"></section>
+    <section id="related"></section>
+
+    <section id="empty" class="empty" hidden>
+      <p>Start typing above. Try one of these:</p>
+      <div class="chips">
+        <button class="chip" data-example>Plastic bag</button>
+        <button class="chip" data-example>Pizza box</button>
+        <button class="chip" data-example>Coffee grounds</button>
+        <button class="chip" data-example>Glass bottle</button>
+      </div>
+      <details class="mt">
+        <summary><b>What goes where?</b></summary>
+        <div class="grid mt">
+          <div class="card"><b>Recycle</b>: clean paper/cardboard, metal cans, #1/#2 rigid plastics, clear glass bottles.</div>
+          <div class="card"><b>Compost</b>: food scraps, yard trimmings, uncoated soiled paper.</div>
+          <div class="card"><b>Landfill</b>: plastic films/bags, styrofoam, diapers, ceramics, mixed-material items.</div>
+        </div>
+      </details>
+    </section>
+
+    <footer class="foot">Always check your city's rules — programs vary.</footer>
+  </div>
+
+  <script src="js/search.js" type="module"></script>
+  <script src="js/ui.js" type="module"></script>
+  <script src="js/data.js" type="module"></script>
+  <script src="js/app.js" type="module"></script>
+</body>
+</html>

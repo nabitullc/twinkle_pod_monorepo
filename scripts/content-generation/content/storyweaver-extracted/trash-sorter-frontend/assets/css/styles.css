@@ -1,0 +1,33 @@
+:root{ --ink:#0f172a; --muted:#475569; --line:#e5e7eb; --bg:#f8fafc; --card:#fff;
+  --rec:#065f46; --rec-bg:#d1fae5; --com:#3f6212; --com-bg:#ecfccb; --lan:#111827; --lan-bg:#e5e7eb;
+  --radius:18px; --shadow:0 1px 3px rgba(0,0,0,.08);
+}
+*{box-sizing:border-box}
+body{margin:0;background:linear-gradient(#fff,#f7f7f7);color:var(--ink);
+  font:16px/1.45 ui-sans-serif,system-ui,-apple-system,Segoe UI,Roboto,Arial}
+.wrap{max-width:720px;margin:auto;padding:20px}
+.header{display:flex;gap:12px;align-items:center;margin-bottom:16px}
+.logo{width:40px;height:40px;display:grid;place-items:center;border-radius:12px;background:#f4f4f5;box-shadow:var(--shadow)}
+.sub{color:var(--muted);font-size:14px}
+.search{display:flex;gap:8px;align-items:center;border:1px solid var(--line);background:#fff;padding:10px 12px;border-radius:14px;box-shadow:var(--shadow)}
+.search input{border:0;outline:0;width:100%;font-size:16px;background:transparent}
+.search button{border:0;background:none;font-size:16px;cursor:pointer}
+.card{background:var(--card);border:1px solid var(--line);border-radius:var(--radius);box-shadow:var(--shadow);padding:16px}
+.row{display:flex;justify-content:space-between;align-items:center;gap:12px}
+.name{font-weight:700}
+.tips{margin:8px 0 0 0;padding-left:18px}
+.tips li{color:#374151;font-size:14px}
+.badge{font-size:12px;font-weight:700;padding:4px 8px;border-radius:999px;display:inline-block}
+.b-rec{color:var(--rec);background:var(--rec-bg)}
+.b-com{color:var(--com);background:var(--com-bg)}
+.b-lan{color:var(--lan);background:var(--lan-bg)}
+.details{margin-top:10px;border:1px dashed var(--line);border-radius:12px;background:#fafafa;padding:10px;font-size:14px;color:#374151}
+.related{display:grid;grid-template-columns:1fr;gap:8px}
+@media(min-width:560px){.related{grid-template-columns:1fr 1fr}}
+.chips{display:flex;flex-wrap:wrap;gap:8px;margin-top:8px}
+.chip{border:1px solid var(--line);background:#fff;padding:8px 12px;border-radius:999px;box-shadow:0 1px 2px rgba(0,0,0,.04);cursor:pointer}
+.empty{border:1px dashed var(--line);border-radius:var(--radius);background:#f9fafb;padding:16px;margin-top:16px}
+.notice{margin-top:10px;padding:10px;border:1px dashed var(--line);border-radius:12px;background:#fafafa;color:#334155;font-size:14px}
+.foot{color:var(--muted);font-size:12px;margin-top:24px}
+:focus-visible{outline:3px solid #93c5fd;outline-offset:2px}
+@media(prefers-reduced-motion: reduce){*{scroll-behavior:auto}}
