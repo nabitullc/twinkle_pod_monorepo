@@ -46,8 +46,8 @@ export class DatabaseStack extends cdk.Stack {
       removalPolicy: cdk.RemovalPolicy.RETAIN,
     });
     this.progressTable.addGlobalSecondaryIndex({
-      indexName: 'child-progress-index',
-      partitionKey: { name: 'child_key', type: dynamodb.AttributeType.STRING },
+      indexName: 'user-child-progress-index',
+      partitionKey: { name: 'user_child_key', type: dynamodb.AttributeType.STRING },
       sortKey: { name: 'last_read', type: dynamodb.AttributeType.STRING },
     });
 
@@ -57,8 +57,13 @@ export class DatabaseStack extends cdk.Stack {
       removalPolicy: cdk.RemovalPolicy.RETAIN,
     });
     this.eventsTable.addGlobalSecondaryIndex({
-      indexName: 'child-events-index',
-      partitionKey: { name: 'child_key', type: dynamodb.AttributeType.STRING },
+      indexName: 'user-child-events-index',
+      partitionKey: { name: 'user_child_key', type: dynamodb.AttributeType.STRING },
+      sortKey: { name: 'timestamp', type: dynamodb.AttributeType.STRING },
+    });
+    this.eventsTable.addGlobalSecondaryIndex({
+      indexName: 'user-child-story-events-index',
+      partitionKey: { name: 'user_child_story_key', type: dynamodb.AttributeType.STRING },
       sortKey: { name: 'timestamp', type: dynamodb.AttributeType.STRING },
     });
 
