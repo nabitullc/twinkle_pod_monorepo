@@ -46,7 +46,7 @@ const apiStack = new ApiStack(app, `TwinklePod-Api-${stage}`, {
 new AmplifyStack(app, `TwinklePod-Amplify-${stage}`, {
   env,
   stage,
-  apiUrl: apiStack.apiUrl || '',
+  apiUrl: `https://${apiStack.restApiId}.execute-api.${env.region}.amazonaws.com/${stage}`,
   userPoolId: authStack.userPoolId,
   userPoolClientId: authStack.userPoolClient.userPoolClientId,
   cloudfrontUrl: storageStack.cloudfrontUrl || '',
