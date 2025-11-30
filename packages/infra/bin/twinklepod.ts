@@ -43,10 +43,15 @@ const apiStack = new ApiStack(app, `TwinklePod-Api-${stage}`, {
 });
 
 // Amplify stack (depends on API and Auth)
+// Temporarily hardcoded to break cross-stack reference during stage migration
+const apiUrl = stage === 'beta' 
+  ? 'https://dkbdtxdkj0.execute-api.us-east-1.amazonaws.com/beta'
+  : 'https://api-prod.twinklepod.com';
+
 new AmplifyStack(app, `TwinklePod-Amplify-${stage}`, {
   env,
   stage,
-  apiUrl: `https://${apiStack.restApiId}.execute-api.${env.region}.amazonaws.com/${stage}`,
+  apiUrl,
   userPoolId: authStack.userPoolId,
   userPoolClientId: authStack.userPoolClient.userPoolClientId,
   cloudfrontUrl: storageStack.cloudfrontUrl || '',
