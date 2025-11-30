@@ -17,7 +17,7 @@ const env = {
 
 // Application stacks
 const storageStack = new StorageStack(app, `TwinklePod-Storage-${stage}`, { env, stage });
-const databaseStack = new DatabaseStack(app, `TwinklePod-Database-${stage}`, { env, stage });
+const databaseStack = new DatabaseStack(app, `TwinklePod-Database-v2-${stage}`, { env, stage });
 const authStack = new AuthStack(app, `TwinklePod-Auth-${stage}`, { env, stage });
 
 // API stack (depends on auth and database)
