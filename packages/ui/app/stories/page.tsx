@@ -101,7 +101,7 @@ export default function StoriesPage() {
                 <div className="relative aspect-[3/2] bg-gray-200 rounded-lg overflow-hidden mb-3 shadow-md group-hover:shadow-xl transition-shadow">
                   {story.thumbnail_url ? (
                     <Image
-                      src={story.thumbnail_url}
+                      src={story.thumbnail_url.replace('https://cdn.twinklepod.com', process.env.NEXT_PUBLIC_CLOUDFRONT_URL || '')}
                       alt={story.title}
                       fill
                       className="object-cover group-hover:scale-105 transition-transform duration-300"
