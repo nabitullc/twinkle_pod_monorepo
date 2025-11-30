@@ -58,9 +58,7 @@ export default function StoryReaderPage() {
   const fetchStory = async () => {
     try {
       const { data } = await api.get(`/stories/${params.id}`);
-      const storyResponse = await fetch(data.s3_url);
-      const storyData = await storyResponse.json();
-      setStory(storyData);
+      setStory(data);
       
       if (user && selectedChild) {
         await api.post('/api/interaction', {
