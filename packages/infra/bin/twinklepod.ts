@@ -33,6 +33,13 @@ const apiStack = new ApiStack(app, `TwinklePod-Api-${stage}`, {
     progress: databaseStack.progressTable.tableArn,
     events: databaseStack.eventsTable.tableArn,
   },
+  tableNames: {
+    users: databaseStack.usersTable.tableName,
+    children: databaseStack.childProfilesTable.tableName,
+    stories: databaseStack.storiesTable.tableName,
+    progress: databaseStack.progressTable.tableName,
+    events: databaseStack.eventsTable.tableName,
+  },
 });
 
 // Amplify stack (depends on API and Auth)

@@ -1,0 +1,5070 @@
+[
+  {
+    "story_id": "00b8a887-9e40-45f9-a866-91f419024375",
+    "title": "The fish that couldn\u2019t swim",
+    "age_range": "5-7",
+    "categories": [
+      "animals",
+      "adventure",
+      "friendship",
+      "food"
+    ],
+    "tags": [
+      "bookdash"
+    ],
+    "s3_key": "stories/00b8a887-9e40-45f9-a866-91f419024375.json",
+    "thumbnail_url": "https://cdn.twinklepod.com/images/00b8a887-9e40-45f9-a866-91f419024375/page-1.jpg",
+    "duration_minutes": 18,
+    "page_count": 18,
+    "author": "Book Dash",
+    "license": "CC-BY 4.0",
+    "source": "https://bookdash.org/books/the-fish-that-couldnt-swim",
+    "published": true,
+    "created_at": "2025-01-01T00:00:00Z"
+  },
+  {
+    "story_id": "02fecac4-fbbc-4c14-9cd7-e4041731e94d",
+    "title": "Tata comes home",
+    "age_range": "5-7",
+    "categories": [
+      "animals",
+      "family",
+      "friendship",
+      "learning",
+      "food"
+    ],
+    "tags": [
+      "bookdash"
+    ],
+    "s3_key": "stories/02fecac4-fbbc-4c14-9cd7-e4041731e94d.json",
+    "thumbnail_url": "https://cdn.twinklepod.com/images/02fecac4-fbbc-4c14-9cd7-e4041731e94d/page-1.jpg",
+    "duration_minutes": 18,
+    "page_count": 18,
+    "author": "Book Dash",
+    "license": "CC-BY 4.0",
+    "source": "https://bookdash.org/books/tata-comes-home",
+    "published": true,
+    "created_at": "2025-01-01T00:00:00Z"
+  },
+  {
+    "story_id": "03eea6ca-e41b-49aa-bdbd-242bd50acd2f",
+    "title": "The one in the middle",
+    "age_range": "5-7",
+    "categories": [
+      "animals",
+      "friendship",
+      "learning",
+      "food"
+    ],
+    "tags": [
+      "bookdash"
+    ],
+    "s3_key": "stories/03eea6ca-e41b-49aa-bdbd-242bd50acd2f.json",
+    "thumbnail_url": "https://cdn.twinklepod.com/images/03eea6ca-e41b-49aa-bdbd-242bd50acd2f/page-1.jpg",
+    "duration_minutes": 18,
+    "page_count": 18,
+    "author": "Book Dash",
+    "license": "CC-BY 4.0",
+    "source": "https://bookdash.org/books/the-one-in-the-middle",
+    "published": true,
+    "created_at": "2025-01-01T00:00:00Z"
+  },
+  {
+    "story_id": "04d7f076-eea0-4921-bc4c-cc4d6dffa020",
+    "title": "Tumi Goes to the Park",
+    "age_range": "5-7",
+    "categories": [
+      "animals",
+      "friendship",
+      "food"
+    ],
+    "tags": [
+      "bookdash"
+    ],
+    "s3_key": "stories/04d7f076-eea0-4921-bc4c-cc4d6dffa020.json",
+    "thumbnail_url": "https://cdn.twinklepod.com/images/04d7f076-eea0-4921-bc4c-cc4d6dffa020/page-1.jpg",
+    "duration_minutes": 18,
+    "page_count": 18,
+    "author": "Book Dash",
+    "license": "CC-BY 4.0",
+    "source": "https://bookdash.org/books/tumi-goes-to-the-park",
+    "published": true,
+    "created_at": "2025-01-01T00:00:00Z"
+  },
+  {
+    "story_id": "070a0306-5487-4570-854c-cb46dbc87ce0",
+    "title": "Grumpy Cloud",
+    "age_range": "5-7",
+    "categories": [
+      "animals",
+      "family",
+      "friendship",
+      "emotions",
+      "learning",
+      "food"
+    ],
+    "tags": [
+      "bookdash"
+    ],
+    "s3_key": "stories/070a0306-5487-4570-854c-cb46dbc87ce0.json",
+    "thumbnail_url": "https://cdn.twinklepod.com/images/070a0306-5487-4570-854c-cb46dbc87ce0/page-1.jpg",
+    "duration_minutes": 18,
+    "page_count": 18,
+    "author": "Book Dash",
+    "license": "CC-BY 4.0",
+    "source": "https://bookdash.org/books/grumpy-cloud",
+    "published": true,
+    "created_at": "2025-01-01T00:00:00Z"
+  },
+  {
+    "story_id": "077a0844-b8cd-49bd-b8ef-6e46d92a9122",
+    "title": "Hippo Wants to Dance",
+    "age_range": "5-7",
+    "categories": [
+      "animals",
+      "friendship",
+      "food"
+    ],
+    "tags": [
+      "bookdash"
+    ],
+    "s3_key": "stories/077a0844-b8cd-49bd-b8ef-6e46d92a9122.json",
+    "thumbnail_url": "https://cdn.twinklepod.com/images/077a0844-b8cd-49bd-b8ef-6e46d92a9122/page-1.jpg",
+    "duration_minutes": 18,
+    "page_count": 18,
+    "author": "Book Dash",
+    "license": "CC-BY 4.0",
+    "source": "https://bookdash.org/books/hippo-wants-to-dance",
+    "published": true,
+    "created_at": "2025-01-01T00:00:00Z"
+  },
+  {
+    "story_id": "097b19e4-383f-4116-bdbd-164c44fae223",
+    "title": "The Dream Pillow",
+    "age_range": "5-7",
+    "categories": [
+      "animals",
+      "bedtime",
+      "friendship",
+      "food"
+    ],
+    "tags": [
+      "bookdash"
+    ],
+    "s3_key": "stories/097b19e4-383f-4116-bdbd-164c44fae223.json",
+    "thumbnail_url": "https://cdn.twinklepod.com/images/097b19e4-383f-4116-bdbd-164c44fae223/page-1.jpg",
+    "duration_minutes": 18,
+    "page_count": 18,
+    "author": "Book Dash",
+    "license": "CC-BY 4.0",
+    "source": "https://bookdash.org/books/the-dream-pillow",
+    "published": true,
+    "created_at": "2025-01-01T00:00:00Z"
+  },
+  {
+    "story_id": "0f4db56e-0d78-4524-a14a-b341cb167a67",
+    "title": "Teju's Shadow",
+    "age_range": "5-7",
+    "categories": [
+      "animals",
+      "friendship",
+      "food"
+    ],
+    "tags": [
+      "bookdash"
+    ],
+    "s3_key": "stories/0f4db56e-0d78-4524-a14a-b341cb167a67.json",
+    "thumbnail_url": "https://cdn.twinklepod.com/images/0f4db56e-0d78-4524-a14a-b341cb167a67/page-1.jpg",
+    "duration_minutes": 18,
+    "page_count": 18,
+    "author": "Book Dash",
+    "license": "CC-BY 4.0",
+    "source": "https://bookdash.org/books/tejus-shadow",
+    "published": true,
+    "created_at": "2025-01-01T00:00:00Z"
+  },
+  {
+    "story_id": "11112efc-d957-4014-a6a5-64fe85935df7",
+    "title": "Auntie Boi's Gift",
+    "age_range": "5-7",
+    "categories": [
+      "animals",
+      "family",
+      "adventure",
+      "friendship",
+      "food"
+    ],
+    "tags": [
+      "bookdash"
+    ],
+    "s3_key": "stories/11112efc-d957-4014-a6a5-64fe85935df7.json",
+    "thumbnail_url": "https://cdn.twinklepod.com/images/11112efc-d957-4014-a6a5-64fe85935df7/page-1.jpg",
+    "duration_minutes": 18,
+    "page_count": 18,
+    "author": "Book Dash",
+    "license": "CC-BY 4.0",
+    "source": "https://bookdash.org/books/auntie-bois-gift",
+    "published": true,
+    "created_at": "2025-01-01T00:00:00Z"
+  },
+  {
+    "story_id": "1160c62a-2c7f-43d9-8116-0a2544a69712",
+    "title": "Hugs in the City",
+    "age_range": "5-7",
+    "categories": [
+      "animals",
+      "friendship",
+      "emotions",
+      "food"
+    ],
+    "tags": [
+      "bookdash"
+    ],
+    "s3_key": "stories/1160c62a-2c7f-43d9-8116-0a2544a69712.json",
+    "thumbnail_url": "https://cdn.twinklepod.com/images/1160c62a-2c7f-43d9-8116-0a2544a69712/page-1.jpg",
+    "duration_minutes": 18,
+    "page_count": 18,
+    "author": "Book Dash",
+    "license": "CC-BY 4.0",
+    "source": "https://bookdash.org/books/hugs-in-the-city",
+    "published": true,
+    "created_at": "2025-01-01T00:00:00Z"
+  },
+  {
+    "story_id": "11739168-f0e9-41a9-bad7-6984864535da",
+    "title": "Why is there a hole in the wall?",
+    "age_range": "5-7",
+    "categories": [
+      "animals",
+      "friendship",
+      "food"
+    ],
+    "tags": [
+      "bookdash"
+    ],
+    "s3_key": "stories/11739168-f0e9-41a9-bad7-6984864535da.json",
+    "thumbnail_url": "https://cdn.twinklepod.com/images/11739168-f0e9-41a9-bad7-6984864535da/page-1.jpg",
+    "duration_minutes": 18,
+    "page_count": 18,
+    "author": "Book Dash",
+    "license": "CC-BY 4.0",
+    "source": "https://bookdash.org/books/why-is-there-a-hole-in-the-wall",
+    "published": true,
+    "created_at": "2025-01-01T00:00:00Z"
+  },
+  {
+    "story_id": "11a7c3cb-d948-4f77-83b0-a31767d62ef4",
+    "title": "What is it?",
+    "age_range": "5-7",
+    "categories": [
+      "animals",
+      "friendship",
+      "food"
+    ],
+    "tags": [
+      "bookdash"
+    ],
+    "s3_key": "stories/11a7c3cb-d948-4f77-83b0-a31767d62ef4.json",
+    "thumbnail_url": "https://cdn.twinklepod.com/images/11a7c3cb-d948-4f77-83b0-a31767d62ef4/page-1.jpg",
+    "duration_minutes": 18,
+    "page_count": 18,
+    "author": "Book Dash",
+    "license": "CC-BY 4.0",
+    "source": "https://bookdash.org/books/what-is-it",
+    "published": true,
+    "created_at": "2025-01-01T00:00:00Z"
+  },
+  {
+    "story_id": "1451d629-0acd-4fd8-83f9-ab0c1ad1029b",
+    "title": "Mina and the Birthday Dress",
+    "age_range": "5-7",
+    "categories": [
+      "animals",
+      "friendship",
+      "food"
+    ],
+    "tags": [
+      "bookdash"
+    ],
+    "s3_key": "stories/1451d629-0acd-4fd8-83f9-ab0c1ad1029b.json",
+    "thumbnail_url": "https://cdn.twinklepod.com/images/1451d629-0acd-4fd8-83f9-ab0c1ad1029b/page-1.jpg",
+    "duration_minutes": 18,
+    "page_count": 18,
+    "author": "Book Dash",
+    "license": "CC-BY 4.0",
+    "source": "https://bookdash.org/books/mina-and-the-birthday-dress",
+    "published": true,
+    "created_at": "2025-01-01T00:00:00Z"
+  },
+  {
+    "story_id": "15ff53ac-ad8b-4f48-9ebe-53d2c0ac685b",
+    "title": "Maddy Moona's Menagerie",
+    "age_range": "5-7",
+    "categories": [
+      "animals",
+      "bedtime",
+      "adventure",
+      "friendship",
+      "food"
+    ],
+    "tags": [
+      "bookdash"
+    ],
+    "s3_key": "stories/15ff53ac-ad8b-4f48-9ebe-53d2c0ac685b.json",
+    "thumbnail_url": "https://cdn.twinklepod.com/images/15ff53ac-ad8b-4f48-9ebe-53d2c0ac685b/page-1.jpg",
+    "duration_minutes": 19,
+    "page_count": 19,
+    "author": "Book Dash",
+    "license": "CC-BY 4.0",
+    "source": "https://bookdash.org/books/maddy-moonas-menagerie",
+    "published": true,
+    "created_at": "2025-01-01T00:00:00Z"
+  },
+  {
+    "story_id": "16be2bee-c39a-43fe-95cb-79135e1b5c58",
+    "title": "To The Top!",
+    "age_range": "5-7",
+    "categories": [
+      "animals",
+      "adventure",
+      "friendship",
+      "food"
+    ],
+    "tags": [
+      "bookdash"
+    ],
+    "s3_key": "stories/16be2bee-c39a-43fe-95cb-79135e1b5c58.json",
+    "thumbnail_url": "https://cdn.twinklepod.com/images/16be2bee-c39a-43fe-95cb-79135e1b5c58/page-1.jpg",
+    "duration_minutes": 18,
+    "page_count": 18,
+    "author": "Book Dash",
+    "license": "CC-BY 4.0",
+    "source": "https://bookdash.org/books/to-the-top",
+    "published": true,
+    "created_at": "2025-01-01T00:00:00Z"
+  },
+  {
+    "story_id": "18630fcd-aa83-46d1-b9bf-51b7365da5c4",
+    "title": "Baby Babble",
+    "age_range": "5-7",
+    "categories": [
+      "animals",
+      "bedtime",
+      "family",
+      "friendship",
+      "food"
+    ],
+    "tags": [
+      "bookdash"
+    ],
+    "s3_key": "stories/18630fcd-aa83-46d1-b9bf-51b7365da5c4.json",
+    "thumbnail_url": "https://cdn.twinklepod.com/images/18630fcd-aa83-46d1-b9bf-51b7365da5c4/page-1.jpg",
+    "duration_minutes": 18,
+    "page_count": 18,
+    "author": "Book Dash",
+    "license": "CC-BY 4.0",
+    "source": "https://bookdash.org/books/baby-babble",
+    "published": true,
+    "created_at": "2025-01-01T00:00:00Z"
+  },
+  {
+    "story_id": "18c80c62-febb-432b-a13f-54adfa40ebdb",
+    "title": "Monkey business",
+    "age_range": "5-7",
+    "categories": [
+      "animals",
+      "friendship",
+      "learning",
+      "food"
+    ],
+    "tags": [
+      "bookdash"
+    ],
+    "s3_key": "stories/18c80c62-febb-432b-a13f-54adfa40ebdb.json",
+    "thumbnail_url": "https://cdn.twinklepod.com/images/18c80c62-febb-432b-a13f-54adfa40ebdb/page-1.jpg",
+    "duration_minutes": 18,
+    "page_count": 18,
+    "author": "Book Dash",
+    "license": "CC-BY 4.0",
+    "source": "https://bookdash.org/books/monkey-business",
+    "published": true,
+    "created_at": "2025-01-01T00:00:00Z"
+  },
+  {
+    "story_id": "19127114-a7a3-47e6-90af-5a9ec5fe38aa",
+    "title": "Oyisa and the Giant Tree",
+    "age_range": "5-7",
+    "categories": [
+      "animals",
+      "friendship",
+      "emotions",
+      "learning",
+      "fantasy",
+      "food"
+    ],
+    "tags": [
+      "bookdash"
+    ],
+    "s3_key": "stories/19127114-a7a3-47e6-90af-5a9ec5fe38aa.json",
+    "thumbnail_url": "https://cdn.twinklepod.com/images/19127114-a7a3-47e6-90af-5a9ec5fe38aa/page-1.jpg",
+    "duration_minutes": 18,
+    "page_count": 18,
+    "author": "Book Dash",
+    "license": "CC-BY 4.0",
+    "source": "https://bookdash.org/books/oyisa-and-the-giant-tree",
+    "published": true,
+    "created_at": "2025-01-01T00:00:00Z"
+  },
+  {
+    "story_id": "199cc0a1-a389-4f46-8869-912905e96bcb",
+    "title": "And Also!",
+    "age_range": "5-7",
+    "categories": [
+      "animals",
+      "family",
+      "friendship",
+      "food"
+    ],
+    "tags": [
+      "bookdash"
+    ],
+    "s3_key": "stories/199cc0a1-a389-4f46-8869-912905e96bcb.json",
+    "thumbnail_url": "https://cdn.twinklepod.com/images/199cc0a1-a389-4f46-8869-912905e96bcb/page-1.jpg",
+    "duration_minutes": 18,
+    "page_count": 18,
+    "author": "Book Dash",
+    "license": "CC-BY 4.0",
+    "source": "https://bookdash.org/books/and-also",
+    "published": true,
+    "created_at": "2025-01-01T00:00:00Z"
+  },
+  {
+    "story_id": "19ae2d67-ae58-430a-9a0c-c7df897021f9",
+    "title": "Hello, baby!",
+    "age_range": "5-7",
+    "categories": [
+      "animals",
+      "family",
+      "friendship",
+      "food"
+    ],
+    "tags": [
+      "bookdash"
+    ],
+    "s3_key": "stories/19ae2d67-ae58-430a-9a0c-c7df897021f9.json",
+    "thumbnail_url": "https://cdn.twinklepod.com/images/19ae2d67-ae58-430a-9a0c-c7df897021f9/page-1.jpg",
+    "duration_minutes": 18,
+    "page_count": 18,
+    "author": "Book Dash",
+    "license": "CC-BY 4.0",
+    "source": "https://bookdash.org/books/hello-baby",
+    "published": true,
+    "created_at": "2025-01-01T00:00:00Z"
+  },
+  {
+    "story_id": "1a32679c-df22-41e2-a47b-f02c5526913b",
+    "title": "Mama, What's For Lunch?",
+    "age_range": "5-7",
+    "categories": [
+      "animals",
+      "family",
+      "friendship",
+      "fantasy",
+      "food"
+    ],
+    "tags": [
+      "bookdash"
+    ],
+    "s3_key": "stories/1a32679c-df22-41e2-a47b-f02c5526913b.json",
+    "thumbnail_url": "https://cdn.twinklepod.com/images/1a32679c-df22-41e2-a47b-f02c5526913b/page-1.jpg",
+    "duration_minutes": 18,
+    "page_count": 18,
+    "author": "Book Dash",
+    "license": "CC-BY 4.0",
+    "source": "https://bookdash.org/books/mama-whats-for-lunch",
+    "published": true,
+    "created_at": "2025-01-01T00:00:00Z"
+  },
+  {
+    "story_id": "1a87b02b-ad1c-4b70-b96f-df9e9fb4fc20",
+    "title": "Alex's Super Medicine",
+    "age_range": "5-7",
+    "categories": [
+      "animals",
+      "friendship",
+      "food"
+    ],
+    "tags": [
+      "bookdash"
+    ],
+    "s3_key": "stories/1a87b02b-ad1c-4b70-b96f-df9e9fb4fc20.json",
+    "thumbnail_url": "https://cdn.twinklepod.com/images/1a87b02b-ad1c-4b70-b96f-df9e9fb4fc20/page-1.jpg",
+    "duration_minutes": 18,
+    "page_count": 18,
+    "author": "Book Dash",
+    "license": "CC-BY 4.0",
+    "source": "https://bookdash.org/books/alexs-super-medicine",
+    "published": true,
+    "created_at": "2025-01-01T00:00:00Z"
+  },
+  {
+    "story_id": "1a9e6b83-1526-4c05-98f6-0c0b035df257",
+    "title": "The Best Gift",
+    "age_range": "5-7",
+    "categories": [
+      "animals",
+      "adventure",
+      "friendship",
+      "emotions",
+      "food"
+    ],
+    "tags": [
+      "bookdash"
+    ],
+    "s3_key": "stories/1a9e6b83-1526-4c05-98f6-0c0b035df257.json",
+    "thumbnail_url": "https://cdn.twinklepod.com/images/1a9e6b83-1526-4c05-98f6-0c0b035df257/page-1.jpg",
+    "duration_minutes": 18,
+    "page_count": 18,
+    "author": "Book Dash",
+    "license": "CC-BY 4.0",
+    "source": "https://bookdash.org/books/the-best-gift",
+    "published": true,
+    "created_at": "2025-01-01T00:00:00Z"
+  },
+  {
+    "story_id": "1b6a6272-780d-4cd8-9b68-e83098b8c628",
+    "title": "The Pumpkin Chase",
+    "age_range": "5-7",
+    "categories": [
+      "animals",
+      "friendship",
+      "food"
+    ],
+    "tags": [
+      "bookdash"
+    ],
+    "s3_key": "stories/1b6a6272-780d-4cd8-9b68-e83098b8c628.json",
+    "thumbnail_url": "https://cdn.twinklepod.com/images/1b6a6272-780d-4cd8-9b68-e83098b8c628/page-1.jpg",
+    "duration_minutes": 18,
+    "page_count": 18,
+    "author": "Book Dash",
+    "license": "CC-BY 4.0",
+    "source": "https://bookdash.org/books/the-pumpkin-chase",
+    "published": true,
+    "created_at": "2025-01-01T00:00:00Z"
+  },
+  {
+    "story_id": "21419156-1fdd-4ac1-b0ef-6e54855e99c7",
+    "title": "Khaya Wants to Row",
+    "age_range": "5-7",
+    "categories": [
+      "animals",
+      "bedtime",
+      "family",
+      "friendship",
+      "learning",
+      "food"
+    ],
+    "tags": [
+      "bookdash"
+    ],
+    "s3_key": "stories/21419156-1fdd-4ac1-b0ef-6e54855e99c7.json",
+    "thumbnail_url": "https://cdn.twinklepod.com/images/21419156-1fdd-4ac1-b0ef-6e54855e99c7/page-1.jpg",
+    "duration_minutes": 18,
+    "page_count": 18,
+    "author": "Book Dash",
+    "license": "CC-BY 4.0",
+    "source": "https://bookdash.org/books/khaya-wants-to-row",
+    "published": true,
+    "created_at": "2025-01-01T00:00:00Z"
+  },
+  {
+    "story_id": "216a16fb-2ac1-4c70-a727-24357979173b",
+    "title": "The Window Seat",
+    "age_range": "5-7",
+    "categories": [
+      "animals",
+      "family",
+      "adventure",
+      "friendship",
+      "learning",
+      "fantasy",
+      "food"
+    ],
+    "tags": [
+      "bookdash"
+    ],
+    "s3_key": "stories/216a16fb-2ac1-4c70-a727-24357979173b.json",
+    "thumbnail_url": "https://cdn.twinklepod.com/images/216a16fb-2ac1-4c70-a727-24357979173b/page-1.jpg",
+    "duration_minutes": 18,
+    "page_count": 18,
+    "author": "Book Dash",
+    "license": "CC-BY 4.0",
+    "source": "https://bookdash.org/books/the-window-seat",
+    "published": true,
+    "created_at": "2025-01-01T00:00:00Z"
+  },
+  {
+    "story_id": "2249cf66-1f71-4667-af28-cf7d47b5c3ed",
+    "title": "A Tiny Seed",
+    "age_range": "5-7",
+    "categories": [
+      "animals",
+      "family",
+      "friendship",
+      "food"
+    ],
+    "tags": [
+      "bookdash"
+    ],
+    "s3_key": "stories/2249cf66-1f71-4667-af28-cf7d47b5c3ed.json",
+    "thumbnail_url": "https://cdn.twinklepod.com/images/2249cf66-1f71-4667-af28-cf7d47b5c3ed/page-1.jpg",
+    "duration_minutes": 18,
+    "page_count": 18,
+    "author": "Book Dash",
+    "license": "CC-BY 4.0",
+    "source": "https://bookdash.org/books/a-tiny-seed",
+    "published": true,
+    "created_at": "2025-01-01T00:00:00Z"
+  },
+  {
+    "story_id": "23305026-0dc0-402d-9966-27940350bc5a",
+    "title": "Shongololo",
+    "age_range": "5-7",
+    "categories": [
+      "animals",
+      "adventure",
+      "friendship",
+      "fantasy",
+      "food"
+    ],
+    "tags": [
+      "bookdash"
+    ],
+    "s3_key": "stories/23305026-0dc0-402d-9966-27940350bc5a.json",
+    "thumbnail_url": "https://cdn.twinklepod.com/images/23305026-0dc0-402d-9966-27940350bc5a/page-1.jpg",
+    "duration_minutes": 18,
+    "page_count": 18,
+    "author": "Book Dash",
+    "license": "CC-BY 4.0",
+    "source": "https://bookdash.org/books/shongololo",
+    "published": true,
+    "created_at": "2025-01-01T00:00:00Z"
+  },
+  {
+    "story_id": "26b8b797-a244-4911-98dc-371429aba8b5",
+    "title": "Where is Thabo?",
+    "age_range": "5-7",
+    "categories": [
+      "animals",
+      "friendship",
+      "food"
+    ],
+    "tags": [
+      "bookdash"
+    ],
+    "s3_key": "stories/26b8b797-a244-4911-98dc-371429aba8b5.json",
+    "thumbnail_url": "https://cdn.twinklepod.com/images/26b8b797-a244-4911-98dc-371429aba8b5/page-1.jpg",
+    "duration_minutes": 18,
+    "page_count": 18,
+    "author": "Book Dash",
+    "license": "CC-BY 4.0",
+    "source": "https://bookdash.org/books/where-is-thabo",
+    "published": true,
+    "created_at": "2025-01-01T00:00:00Z"
+  },
+  {
+    "story_id": "27ff4270-bd5e-47ef-9d8f-40a9b298bbf1",
+    "title": "Toast",
+    "age_range": "5-7",
+    "categories": [
+      "animals",
+      "friendship",
+      "food"
+    ],
+    "tags": [
+      "bookdash"
+    ],
+    "s3_key": "stories/27ff4270-bd5e-47ef-9d8f-40a9b298bbf1.json",
+    "thumbnail_url": "https://cdn.twinklepod.com/images/27ff4270-bd5e-47ef-9d8f-40a9b298bbf1/page-1.jpg",
+    "duration_minutes": 18,
+    "page_count": 18,
+    "author": "Book Dash",
+    "license": "CC-BY 4.0",
+    "source": "https://bookdash.org/books/toast",
+    "published": true,
+    "created_at": "2025-01-01T00:00:00Z"
+  },
+  {
+    "story_id": "298203cd-3fc4-4a31-b2a8-ea62aec77af2",
+    "title": "Graca's Dream",
+    "age_range": "5-7",
+    "categories": [
+      "animals",
+      "bedtime",
+      "family",
+      "friendship",
+      "emotions",
+      "learning",
+      "food"
+    ],
+    "tags": [
+      "bookdash"
+    ],
+    "s3_key": "stories/298203cd-3fc4-4a31-b2a8-ea62aec77af2.json",
+    "thumbnail_url": "https://cdn.twinklepod.com/images/298203cd-3fc4-4a31-b2a8-ea62aec77af2/page-1.jpg",
+    "duration_minutes": 18,
+    "page_count": 18,
+    "author": "Book Dash",
+    "license": "CC-BY 4.0",
+    "source": "https://bookdash.org/books/gracas-dream",
+    "published": true,
+    "created_at": "2025-01-01T00:00:00Z"
+  },
+  {
+    "story_id": "29ee9024-96b9-431e-b888-97abc6ba8298",
+    "title": "Let's go on a litter hunt",
+    "age_range": "5-7",
+    "categories": [
+      "animals",
+      "family",
+      "friendship",
+      "emotions",
+      "learning",
+      "food"
+    ],
+    "tags": [
+      "bookdash"
+    ],
+    "s3_key": "stories/29ee9024-96b9-431e-b888-97abc6ba8298.json",
+    "thumbnail_url": "https://cdn.twinklepod.com/images/29ee9024-96b9-431e-b888-97abc6ba8298/page-1.jpg",
+    "duration_minutes": 18,
+    "page_count": 18,
+    "author": "Book Dash",
+    "license": "CC-BY 4.0",
+    "source": "https://bookdash.org/books/lets-go-on-a-litter-hunt",
+    "published": true,
+    "created_at": "2025-01-01T00:00:00Z"
+  },
+  {
+    "story_id": "2e12464a-ff75-4e87-b059-3616917fa67f",
+    "title": "Who is our friend?",
+    "age_range": "5-7",
+    "categories": [
+      "animals",
+      "friendship",
+      "food"
+    ],
+    "tags": [
+      "bookdash"
+    ],
+    "s3_key": "stories/2e12464a-ff75-4e87-b059-3616917fa67f.json",
+    "thumbnail_url": "https://cdn.twinklepod.com/images/2e12464a-ff75-4e87-b059-3616917fa67f/page-1.jpg",
+    "duration_minutes": 18,
+    "page_count": 18,
+    "author": "Book Dash",
+    "license": "CC-BY 4.0",
+    "source": "https://bookdash.org/books/who-is-our-friend",
+    "published": true,
+    "created_at": "2025-01-01T00:00:00Z"
+  },
+  {
+    "story_id": "2e499f30-6134-4d22-aaba-0617f3380875",
+    "title": "That's not Thabi, That's a hippopotamus",
+    "age_range": "5-7",
+    "categories": [
+      "animals",
+      "family",
+      "friendship",
+      "food"
+    ],
+    "tags": [
+      "bookdash"
+    ],
+    "s3_key": "stories/2e499f30-6134-4d22-aaba-0617f3380875.json",
+    "thumbnail_url": "https://cdn.twinklepod.com/images/2e499f30-6134-4d22-aaba-0617f3380875/page-1.jpg",
+    "duration_minutes": 18,
+    "page_count": 18,
+    "author": "Book Dash",
+    "license": "CC-BY 4.0",
+    "source": "https://bookdash.org/books/thats-not-thabi-thats-a-hippopotamus",
+    "published": true,
+    "created_at": "2025-01-01T00:00:00Z"
+  },
+  {
+    "story_id": "303c28bf-92e2-4b27-9f99-186c80b9aa32",
+    "title": "The 3 Doof-Doofs",
+    "age_range": "5-7",
+    "categories": [
+      "animals",
+      "friendship",
+      "food"
+    ],
+    "tags": [
+      "bookdash"
+    ],
+    "s3_key": "stories/303c28bf-92e2-4b27-9f99-186c80b9aa32.json",
+    "thumbnail_url": "https://cdn.twinklepod.com/images/303c28bf-92e2-4b27-9f99-186c80b9aa32/page-1.jpg",
+    "duration_minutes": 18,
+    "page_count": 18,
+    "author": "Book Dash",
+    "license": "CC-BY 4.0",
+    "source": "https://bookdash.org/books/the-three-doof-doofs",
+    "published": true,
+    "created_at": "2025-01-01T00:00:00Z"
+  },
+  {
+    "story_id": "30947c80-ad59-46c1-ab46-2a732d599e57",
+    "title": "Tikky! Boom! Tish!",
+    "age_range": "5-7",
+    "categories": [
+      "animals",
+      "friendship",
+      "food"
+    ],
+    "tags": [
+      "bookdash"
+    ],
+    "s3_key": "stories/30947c80-ad59-46c1-ab46-2a732d599e57.json",
+    "thumbnail_url": "https://cdn.twinklepod.com/images/30947c80-ad59-46c1-ab46-2a732d599e57/page-1.jpg",
+    "duration_minutes": 18,
+    "page_count": 18,
+    "author": "Book Dash",
+    "license": "CC-BY 4.0",
+    "source": "https://bookdash.org/books/tikky-boom-tish",
+    "published": true,
+    "created_at": "2025-01-01T00:00:00Z"
+  },
+  {
+    "story_id": "33d97a0a-3a3e-4821-8760-fbde963ce983",
+    "title": "AAAAAHHH!!!! Mmawe!",
+    "age_range": "4-6",
+    "categories": [
+      "animals",
+      "friendship",
+      "emotions",
+      "learning",
+      "food"
+    ],
+    "tags": [
+      "bookdash"
+    ],
+    "s3_key": "stories/33d97a0a-3a3e-4821-8760-fbde963ce983.json",
+    "thumbnail_url": "https://cdn.twinklepod.com/images/33d97a0a-3a3e-4821-8760-fbde963ce983/page-1.jpg",
+    "duration_minutes": 18,
+    "page_count": 18,
+    "author": "Book Dash",
+    "license": "CC-BY 4.0",
+    "source": "https://bookdash.org/books/aaaaahhh-mmawe",
+    "published": true,
+    "created_at": "2025-01-01T00:00:00Z"
+  },
+  {
+    "story_id": "33e51bb9-ddf8-4507-b750-41cd8ea27291",
+    "title": "Mama Antelope's House",
+    "age_range": "5-7",
+    "categories": [
+      "animals",
+      "family",
+      "friendship",
+      "food"
+    ],
+    "tags": [
+      "bookdash"
+    ],
+    "s3_key": "stories/33e51bb9-ddf8-4507-b750-41cd8ea27291.json",
+    "thumbnail_url": "https://cdn.twinklepod.com/images/33e51bb9-ddf8-4507-b750-41cd8ea27291/page-1.jpg",
+    "duration_minutes": 17,
+    "page_count": 17,
+    "author": "Book Dash",
+    "license": "CC-BY 4.0",
+    "source": "https://bookdash.org/books/mama-antelopes-house",
+    "published": true,
+    "created_at": "2025-01-01T00:00:00Z"
+  },
+  {
+    "story_id": "367d6855-a888-428f-b3b8-de86cea05e3b",
+    "title": "Catch That Cat!",
+    "age_range": "5-7",
+    "categories": [
+      "animals",
+      "friendship",
+      "food"
+    ],
+    "tags": [
+      "bookdash"
+    ],
+    "s3_key": "stories/367d6855-a888-428f-b3b8-de86cea05e3b.json",
+    "thumbnail_url": "https://cdn.twinklepod.com/images/367d6855-a888-428f-b3b8-de86cea05e3b/page-1.jpg",
+    "duration_minutes": 18,
+    "page_count": 18,
+    "author": "Book Dash",
+    "license": "CC-BY 4.0",
+    "source": "https://bookdash.org/books/catch-that-cat",
+    "published": true,
+    "created_at": "2025-01-01T00:00:00Z"
+  },
+  {
+    "story_id": "36daadae-38fa-4716-916f-6d8f47840d46",
+    "title": "Yes you can!",
+    "age_range": "5-7",
+    "categories": [
+      "animals",
+      "friendship",
+      "learning",
+      "food"
+    ],
+    "tags": [
+      "bookdash"
+    ],
+    "s3_key": "stories/36daadae-38fa-4716-916f-6d8f47840d46.json",
+    "thumbnail_url": "https://cdn.twinklepod.com/images/36daadae-38fa-4716-916f-6d8f47840d46/page-1.jpg",
+    "duration_minutes": 18,
+    "page_count": 18,
+    "author": "Book Dash",
+    "license": "CC-BY 4.0",
+    "source": "https://bookdash.org/books/yes-you-can",
+    "published": true,
+    "created_at": "2025-01-01T00:00:00Z"
+  },
+  {
+    "story_id": "37b80ac8-5ba9-4ff3-969e-b76ae2f7c50f",
+    "title": "Shaka and Mazi",
+    "age_range": "5-7",
+    "categories": [
+      "animals",
+      "friendship",
+      "food"
+    ],
+    "tags": [
+      "bookdash"
+    ],
+    "s3_key": "stories/37b80ac8-5ba9-4ff3-969e-b76ae2f7c50f.json",
+    "thumbnail_url": "https://cdn.twinklepod.com/images/37b80ac8-5ba9-4ff3-969e-b76ae2f7c50f/page-1.jpg",
+    "duration_minutes": 18,
+    "page_count": 18,
+    "author": "Book Dash",
+    "license": "CC-BY 4.0",
+    "source": "https://bookdash.org/books/shaka-and-mazi",
+    "published": true,
+    "created_at": "2025-01-01T00:00:00Z"
+  },
+  {
+    "story_id": "37e753e1-53ec-4af6-950c-2b6a14c8115f",
+    "title": "Pako the Pigeon Disappears",
+    "age_range": "5-7",
+    "categories": [
+      "animals",
+      "adventure",
+      "friendship",
+      "food"
+    ],
+    "tags": [
+      "bookdash"
+    ],
+    "s3_key": "stories/37e753e1-53ec-4af6-950c-2b6a14c8115f.json",
+    "thumbnail_url": "https://cdn.twinklepod.com/images/37e753e1-53ec-4af6-950c-2b6a14c8115f/page-1.jpg",
+    "duration_minutes": 18,
+    "page_count": 18,
+    "author": "Book Dash",
+    "license": "CC-BY 4.0",
+    "source": "https://bookdash.org/books/pako-the-pigeon-disappears",
+    "published": true,
+    "created_at": "2025-01-01T00:00:00Z"
+  },
+  {
+    "story_id": "3b7eeaa3-7312-4abd-8ee0-aec654cee4f2",
+    "title": "Miss Helen's Magical World",
+    "age_range": "5-7",
+    "categories": [
+      "animals",
+      "adventure",
+      "friendship",
+      "emotions",
+      "fantasy",
+      "food"
+    ],
+    "tags": [
+      "bookdash"
+    ],
+    "s3_key": "stories/3b7eeaa3-7312-4abd-8ee0-aec654cee4f2.json",
+    "thumbnail_url": "https://cdn.twinklepod.com/images/3b7eeaa3-7312-4abd-8ee0-aec654cee4f2/page-1.jpg",
+    "duration_minutes": 19,
+    "page_count": 19,
+    "author": "Book Dash",
+    "license": "CC-BY 4.0",
+    "source": "https://bookdash.org/books/miss-helens-magical-world",
+    "published": true,
+    "created_at": "2025-01-01T00:00:00Z"
+  },
+  {
+    "story_id": "3df35af9-66f8-4c60-a5d8-7a8ab1ba0840",
+    "title": "The Box",
+    "age_range": "5-7",
+    "categories": [
+      "animals",
+      "friendship",
+      "food"
+    ],
+    "tags": [
+      "bookdash"
+    ],
+    "s3_key": "stories/3df35af9-66f8-4c60-a5d8-7a8ab1ba0840.json",
+    "thumbnail_url": "https://cdn.twinklepod.com/images/3df35af9-66f8-4c60-a5d8-7a8ab1ba0840/page-1.jpg",
+    "duration_minutes": 18,
+    "page_count": 18,
+    "author": "Book Dash",
+    "license": "CC-BY 4.0",
+    "source": "https://bookdash.org/books/the-box",
+    "published": true,
+    "created_at": "2025-01-01T00:00:00Z"
+  },
+  {
+    "story_id": "3e57c05f-f2db-4fad-bc7f-446df2efba67",
+    "title": "Mazi Learns to Play!",
+    "age_range": "5-7",
+    "categories": [
+      "animals",
+      "family",
+      "friendship",
+      "emotions",
+      "learning",
+      "food"
+    ],
+    "tags": [
+      "bookdash"
+    ],
+    "s3_key": "stories/3e57c05f-f2db-4fad-bc7f-446df2efba67.json",
+    "thumbnail_url": "https://cdn.twinklepod.com/images/3e57c05f-f2db-4fad-bc7f-446df2efba67/page-1.jpg",
+    "duration_minutes": 18,
+    "page_count": 18,
+    "author": "Book Dash",
+    "license": "CC-BY 4.0",
+    "source": "https://bookdash.org/books/mazi-learns-to-play",
+    "published": true,
+    "created_at": "2025-01-01T00:00:00Z"
+  },
+  {
+    "story_id": "3e8d3560-30bc-483f-bd64-87b195e13be1",
+    "title": "Zanele Situ: My Story",
+    "age_range": "5-7",
+    "categories": [
+      "animals",
+      "adventure",
+      "friendship",
+      "food"
+    ],
+    "tags": [
+      "bookdash"
+    ],
+    "s3_key": "stories/3e8d3560-30bc-483f-bd64-87b195e13be1.json",
+    "thumbnail_url": "https://cdn.twinklepod.com/images/3e8d3560-30bc-483f-bd64-87b195e13be1/page-1.jpg",
+    "duration_minutes": 19,
+    "page_count": 19,
+    "author": "Book Dash",
+    "license": "CC-BY 4.0",
+    "source": "https://bookdash.org/books/zanele-situ-my-story",
+    "published": true,
+    "created_at": "2025-01-01T00:00:00Z"
+  },
+  {
+    "story_id": "41475c51-a0d1-4e67-9f50-95c5c4bd7ac6",
+    "title": "The Elephant in the Room",
+    "age_range": "5-7",
+    "categories": [
+      "animals",
+      "family",
+      "friendship",
+      "food"
+    ],
+    "tags": [
+      "bookdash"
+    ],
+    "s3_key": "stories/41475c51-a0d1-4e67-9f50-95c5c4bd7ac6.json",
+    "thumbnail_url": "https://cdn.twinklepod.com/images/41475c51-a0d1-4e67-9f50-95c5c4bd7ac6/page-1.jpg",
+    "duration_minutes": 18,
+    "page_count": 18,
+    "author": "Book Dash",
+    "license": "CC-BY 4.0",
+    "source": "https://bookdash.org/books/the-elephant-in-the-room",
+    "published": true,
+    "created_at": "2025-01-01T00:00:00Z"
+  },
+  {
+    "story_id": "429b82c5-80aa-4893-8ee3-e5b70fa4e53b",
+    "title": "The Sausage Dog",
+    "age_range": "5-7",
+    "categories": [
+      "animals",
+      "family",
+      "friendship",
+      "food"
+    ],
+    "tags": [
+      "bookdash"
+    ],
+    "s3_key": "stories/429b82c5-80aa-4893-8ee3-e5b70fa4e53b.json",
+    "thumbnail_url": "https://cdn.twinklepod.com/images/429b82c5-80aa-4893-8ee3-e5b70fa4e53b/page-1.jpg",
+    "duration_minutes": 18,
+    "page_count": 18,
+    "author": "Book Dash",
+    "license": "CC-BY 4.0",
+    "source": "https://bookdash.org/books/the-sausage-dog",
+    "published": true,
+    "created_at": "2025-01-01T00:00:00Z"
+  },
+  {
+    "story_id": "438a7310-b274-44b4-a98b-09eb331fe56c",
+    "title": "Jock and Me",
+    "age_range": "5-7",
+    "categories": [
+      "animals",
+      "friendship",
+      "learning",
+      "food"
+    ],
+    "tags": [
+      "bookdash"
+    ],
+    "s3_key": "stories/438a7310-b274-44b4-a98b-09eb331fe56c.json",
+    "thumbnail_url": "https://cdn.twinklepod.com/images/438a7310-b274-44b4-a98b-09eb331fe56c/page-1.jpg",
+    "duration_minutes": 18,
+    "page_count": 18,
+    "author": "Book Dash",
+    "license": "CC-BY 4.0",
+    "source": "https://bookdash.org/books/jock-and-me",
+    "published": true,
+    "created_at": "2025-01-01T00:00:00Z"
+  },
+  {
+    "story_id": "43d927a4-0fc3-4099-ae9a-18e51197fddb",
+    "title": "Hello",
+    "age_range": "5-7",
+    "categories": [
+      "animals",
+      "bedtime",
+      "friendship",
+      "emotions",
+      "food"
+    ],
+    "tags": [
+      "bookdash"
+    ],
+    "s3_key": "stories/43d927a4-0fc3-4099-ae9a-18e51197fddb.json",
+    "thumbnail_url": "https://cdn.twinklepod.com/images/43d927a4-0fc3-4099-ae9a-18e51197fddb/page-1.jpg",
+    "duration_minutes": 18,
+    "page_count": 18,
+    "author": "Book Dash",
+    "license": "CC-BY 4.0",
+    "source": "https://bookdash.org/books/hello",
+    "published": true,
+    "created_at": "2025-01-01T00:00:00Z"
+  },
+  {
+    "story_id": "44348b48-3a08-4991-8425-2013ccbd35c0",
+    "title": "There's an alien in my house!",
+    "age_range": "5-7",
+    "categories": [
+      "animals",
+      "friendship",
+      "fantasy",
+      "food"
+    ],
+    "tags": [
+      "bookdash"
+    ],
+    "s3_key": "stories/44348b48-3a08-4991-8425-2013ccbd35c0.json",
+    "thumbnail_url": "https://cdn.twinklepod.com/images/44348b48-3a08-4991-8425-2013ccbd35c0/page-1.jpg",
+    "duration_minutes": 17,
+    "page_count": 17,
+    "author": "Book Dash",
+    "license": "CC-BY 4.0",
+    "source": "https://bookdash.org/books/theres-an-alien-in-my-house",
+    "published": true,
+    "created_at": "2025-01-01T00:00:00Z"
+  },
+  {
+    "story_id": "46b9cb1c-5a74-4d70-8b9b-cf9f21537816",
+    "title": "The Memory Tree",
+    "age_range": "5-7",
+    "categories": [
+      "animals",
+      "family",
+      "friendship",
+      "emotions",
+      "food"
+    ],
+    "tags": [
+      "bookdash"
+    ],
+    "s3_key": "stories/46b9cb1c-5a74-4d70-8b9b-cf9f21537816.json",
+    "thumbnail_url": "https://cdn.twinklepod.com/images/46b9cb1c-5a74-4d70-8b9b-cf9f21537816/page-1.jpg",
+    "duration_minutes": 18,
+    "page_count": 18,
+    "author": "Book Dash",
+    "license": "CC-BY 4.0",
+    "source": "https://bookdash.org/books/the-memory-tree",
+    "published": true,
+    "created_at": "2025-01-01T00:00:00Z"
+  },
+  {
+    "story_id": "481c31d5-c0f4-43c1-bdc7-3a0db53070bd",
+    "title": "My little garden",
+    "age_range": "5-7",
+    "categories": [
+      "animals",
+      "friendship",
+      "food"
+    ],
+    "tags": [
+      "bookdash"
+    ],
+    "s3_key": "stories/481c31d5-c0f4-43c1-bdc7-3a0db53070bd.json",
+    "thumbnail_url": "https://cdn.twinklepod.com/images/481c31d5-c0f4-43c1-bdc7-3a0db53070bd/page-1.jpg",
+    "duration_minutes": 18,
+    "page_count": 18,
+    "author": "Book Dash",
+    "license": "CC-BY 4.0",
+    "source": "https://bookdash.org/books/my-little-garden",
+    "published": true,
+    "created_at": "2025-01-01T00:00:00Z"
+  },
+  {
+    "story_id": "4963c029-09bc-49de-b735-dae189a6cadf",
+    "title": "A Dancer's Tale",
+    "age_range": "5-7",
+    "categories": [
+      "animals",
+      "family",
+      "adventure",
+      "friendship",
+      "emotions",
+      "food"
+    ],
+    "tags": [
+      "bookdash"
+    ],
+    "s3_key": "stories/4963c029-09bc-49de-b735-dae189a6cadf.json",
+    "thumbnail_url": "https://cdn.twinklepod.com/images/4963c029-09bc-49de-b735-dae189a6cadf/page-1.jpg",
+    "duration_minutes": 18,
+    "page_count": 18,
+    "author": "Book Dash",
+    "license": "CC-BY 4.0",
+    "source": "https://bookdash.org/books/a-dancers-tale",
+    "published": true,
+    "created_at": "2025-01-01T00:00:00Z"
+  },
+  {
+    "story_id": "4a0e996f-ab27-4777-9251-10b8d809ff7d",
+    "title": "Dance, Mihlali!",
+    "age_range": "5-7",
+    "categories": [
+      "animals",
+      "friendship",
+      "learning",
+      "food"
+    ],
+    "tags": [
+      "bookdash"
+    ],
+    "s3_key": "stories/4a0e996f-ab27-4777-9251-10b8d809ff7d.json",
+    "thumbnail_url": "https://cdn.twinklepod.com/images/4a0e996f-ab27-4777-9251-10b8d809ff7d/page-1.jpg",
+    "duration_minutes": 18,
+    "page_count": 18,
+    "author": "Book Dash",
+    "license": "CC-BY 4.0",
+    "source": "https://bookdash.org/books/dance-mihlali",
+    "published": true,
+    "created_at": "2025-01-01T00:00:00Z"
+  },
+  {
+    "story_id": "4a2de90e-c48f-4df4-87fd-74c09a6b5d2a",
+    "title": "The Best Nest",
+    "age_range": "5-7",
+    "categories": [
+      "animals",
+      "bedtime",
+      "adventure",
+      "friendship",
+      "food"
+    ],
+    "tags": [
+      "bookdash"
+    ],
+    "s3_key": "stories/4a2de90e-c48f-4df4-87fd-74c09a6b5d2a.json",
+    "thumbnail_url": "https://cdn.twinklepod.com/images/4a2de90e-c48f-4df4-87fd-74c09a6b5d2a/page-1.jpg",
+    "duration_minutes": 18,
+    "page_count": 18,
+    "author": "Book Dash",
+    "license": "CC-BY 4.0",
+    "source": "https://bookdash.org/books/the-best-nest",
+    "published": true,
+    "created_at": "2025-01-01T00:00:00Z"
+  },
+  {
+    "story_id": "4bb32081-db9c-49d6-be2a-d7f21f5de07a",
+    "title": "A house for Mouse",
+    "age_range": "4-6",
+    "categories": [
+      "animals",
+      "friendship",
+      "food"
+    ],
+    "tags": [
+      "bookdash"
+    ],
+    "s3_key": "stories/4bb32081-db9c-49d6-be2a-d7f21f5de07a.json",
+    "thumbnail_url": "https://cdn.twinklepod.com/images/4bb32081-db9c-49d6-be2a-d7f21f5de07a/page-1.jpg",
+    "duration_minutes": 18,
+    "page_count": 18,
+    "author": "Book Dash",
+    "license": "CC-BY 4.0",
+    "source": "https://bookdash.org/books/a-house-for-mouse",
+    "published": true,
+    "created_at": "2025-01-01T00:00:00Z"
+  },
+  {
+    "story_id": "4be58d56-56a3-4171-a7de-4ab0909cd35d",
+    "title": "A Fish and a Gift",
+    "age_range": "5-7",
+    "categories": [
+      "animals",
+      "family",
+      "friendship",
+      "food"
+    ],
+    "tags": [
+      "bookdash"
+    ],
+    "s3_key": "stories/4be58d56-56a3-4171-a7de-4ab0909cd35d.json",
+    "thumbnail_url": "https://cdn.twinklepod.com/images/4be58d56-56a3-4171-a7de-4ab0909cd35d/page-1.jpg",
+    "duration_minutes": 18,
+    "page_count": 18,
+    "author": "Book Dash",
+    "license": "CC-BY 4.0",
+    "source": "https://bookdash.org/books/a-fish-and-a-gift",
+    "published": true,
+    "created_at": "2025-01-01T00:00:00Z"
+  },
+  {
+    "story_id": "4d6154e9-1015-4487-abb2-e37f26817f2b",
+    "title": "Lebo and Gogo's Tea Party",
+    "age_range": "5-7",
+    "categories": [
+      "animals",
+      "family",
+      "friendship",
+      "food"
+    ],
+    "tags": [
+      "bookdash"
+    ],
+    "s3_key": "stories/4d6154e9-1015-4487-abb2-e37f26817f2b.json",
+    "thumbnail_url": "https://cdn.twinklepod.com/images/4d6154e9-1015-4487-abb2-e37f26817f2b/page-1.jpg",
+    "duration_minutes": 18,
+    "page_count": 18,
+    "author": "Book Dash",
+    "license": "CC-BY 4.0",
+    "source": "https://bookdash.org/books/lebo-and-gogos-tea-party",
+    "published": true,
+    "created_at": "2025-01-01T00:00:00Z"
+  },
+  {
+    "story_id": "4eabde38-2faa-4cd8-b85e-b1e906560751",
+    "title": "Fifi and Teddy",
+    "age_range": "5-7",
+    "categories": [
+      "animals",
+      "family",
+      "friendship",
+      "emotions",
+      "food"
+    ],
+    "tags": [
+      "bookdash"
+    ],
+    "s3_key": "stories/4eabde38-2faa-4cd8-b85e-b1e906560751.json",
+    "thumbnail_url": "https://cdn.twinklepod.com/images/4eabde38-2faa-4cd8-b85e-b1e906560751/page-1.jpg",
+    "duration_minutes": 18,
+    "page_count": 18,
+    "author": "Book Dash",
+    "license": "CC-BY 4.0",
+    "source": "https://bookdash.org/books/fifi-and-teddy",
+    "published": true,
+    "created_at": "2025-01-01T00:00:00Z"
+  },
+  {
+    "story_id": "50bea853-8d8c-4787-ba9e-d7a7928273f6",
+    "title": "Tortoise finds his home",
+    "age_range": "5-7",
+    "categories": [
+      "animals",
+      "friendship",
+      "food"
+    ],
+    "tags": [
+      "bookdash"
+    ],
+    "s3_key": "stories/50bea853-8d8c-4787-ba9e-d7a7928273f6.json",
+    "thumbnail_url": "https://cdn.twinklepod.com/images/50bea853-8d8c-4787-ba9e-d7a7928273f6/page-1.jpg",
+    "duration_minutes": 18,
+    "page_count": 18,
+    "author": "Book Dash",
+    "license": "CC-BY 4.0",
+    "source": "https://bookdash.org/books/tortoise-finds-his-home",
+    "published": true,
+    "created_at": "2025-01-01T00:00:00Z"
+  },
+  {
+    "story_id": "518ddc2f-3740-4417-bf10-267e3a101f48",
+    "title": "Joanna's Grannies",
+    "age_range": "5-7",
+    "categories": [
+      "animals",
+      "friendship",
+      "emotions",
+      "food"
+    ],
+    "tags": [
+      "bookdash"
+    ],
+    "s3_key": "stories/518ddc2f-3740-4417-bf10-267e3a101f48.json",
+    "thumbnail_url": "https://cdn.twinklepod.com/images/518ddc2f-3740-4417-bf10-267e3a101f48/page-1.jpg",
+    "duration_minutes": 18,
+    "page_count": 18,
+    "author": "Book Dash",
+    "license": "CC-BY 4.0",
+    "source": "https://bookdash.org/books/joannas-grannies",
+    "published": true,
+    "created_at": "2025-01-01T00:00:00Z"
+  },
+  {
+    "story_id": "51a2490f-5bd5-49f6-8aa3-bf7f1bbaea0d",
+    "title": "Katiiti's Song",
+    "age_range": "5-7",
+    "categories": [
+      "animals",
+      "family",
+      "friendship",
+      "food"
+    ],
+    "tags": [
+      "bookdash"
+    ],
+    "s3_key": "stories/51a2490f-5bd5-49f6-8aa3-bf7f1bbaea0d.json",
+    "thumbnail_url": "https://cdn.twinklepod.com/images/51a2490f-5bd5-49f6-8aa3-bf7f1bbaea0d/page-1.jpg",
+    "duration_minutes": 18,
+    "page_count": 18,
+    "author": "Book Dash",
+    "license": "CC-BY 4.0",
+    "source": "https://bookdash.org/books/katiitis-song",
+    "published": true,
+    "created_at": "2025-01-01T00:00:00Z"
+  },
+  {
+    "story_id": "52e55c1d-dddf-4dc2-af27-9d848cf99b18",
+    "title": "Where's that cat?",
+    "age_range": "5-7",
+    "categories": [
+      "animals",
+      "friendship",
+      "food"
+    ],
+    "tags": [
+      "bookdash"
+    ],
+    "s3_key": "stories/52e55c1d-dddf-4dc2-af27-9d848cf99b18.json",
+    "thumbnail_url": "https://cdn.twinklepod.com/images/52e55c1d-dddf-4dc2-af27-9d848cf99b18/page-1.jpg",
+    "duration_minutes": 18,
+    "page_count": 18,
+    "author": "Book Dash",
+    "license": "CC-BY 4.0",
+    "source": "https://bookdash.org/books/wheres-that-cat",
+    "published": true,
+    "created_at": "2025-01-01T00:00:00Z"
+  },
+  {
+    "story_id": "5378fbb2-0731-4d2c-b23f-74ab734fabe4",
+    "title": "Lory Dory",
+    "age_range": "5-7",
+    "categories": [
+      "animals",
+      "bedtime",
+      "family",
+      "friendship",
+      "food"
+    ],
+    "tags": [
+      "bookdash"
+    ],
+    "s3_key": "stories/5378fbb2-0731-4d2c-b23f-74ab734fabe4.json",
+    "thumbnail_url": "https://cdn.twinklepod.com/images/5378fbb2-0731-4d2c-b23f-74ab734fabe4/page-1.jpg",
+    "duration_minutes": 18,
+    "page_count": 18,
+    "author": "Book Dash",
+    "license": "CC-BY 4.0",
+    "source": "https://bookdash.org/books/lory-dory",
+    "published": true,
+    "created_at": "2025-01-01T00:00:00Z"
+  },
+  {
+    "story_id": "5533b1ef-1192-4b63-9376-0d674970e58e",
+    "title": "Mrs Penguin's Perfect Palace",
+    "age_range": "5-7",
+    "categories": [
+      "animals",
+      "family",
+      "friendship",
+      "food"
+    ],
+    "tags": [
+      "bookdash"
+    ],
+    "s3_key": "stories/5533b1ef-1192-4b63-9376-0d674970e58e.json",
+    "thumbnail_url": "https://cdn.twinklepod.com/images/5533b1ef-1192-4b63-9376-0d674970e58e/page-1.jpg",
+    "duration_minutes": 17,
+    "page_count": 17,
+    "author": "Book Dash",
+    "license": "CC-BY 4.0",
+    "source": "https://bookdash.org/books/mrs-penguins-perfect-palace",
+    "published": true,
+    "created_at": "2025-01-01T00:00:00Z"
+  },
+  {
+    "story_id": "56806d57-4284-4c87-a71c-0270a1ea2496",
+    "title": "Sindiwe and the Fireflies",
+    "age_range": "5-7",
+    "categories": [
+      "animals",
+      "bedtime",
+      "family",
+      "adventure",
+      "friendship",
+      "fantasy",
+      "food"
+    ],
+    "tags": [
+      "bookdash"
+    ],
+    "s3_key": "stories/56806d57-4284-4c87-a71c-0270a1ea2496.json",
+    "thumbnail_url": "https://cdn.twinklepod.com/images/56806d57-4284-4c87-a71c-0270a1ea2496/page-1.jpg",
+    "duration_minutes": 18,
+    "page_count": 18,
+    "author": "Book Dash",
+    "license": "CC-BY 4.0",
+    "source": "https://bookdash.org/books/sindiwe-and-the-fireflies",
+    "published": true,
+    "created_at": "2025-01-01T00:00:00Z"
+  },
+  {
+    "story_id": "569df160-e153-4803-a16c-2ae6dd2e6e74",
+    "title": "Goldfish Genius",
+    "age_range": "5-7",
+    "categories": [
+      "animals",
+      "friendship",
+      "food"
+    ],
+    "tags": [
+      "bookdash"
+    ],
+    "s3_key": "stories/569df160-e153-4803-a16c-2ae6dd2e6e74.json",
+    "thumbnail_url": "https://cdn.twinklepod.com/images/569df160-e153-4803-a16c-2ae6dd2e6e74/page-1.jpg",
+    "duration_minutes": 18,
+    "page_count": 18,
+    "author": "Book Dash",
+    "license": "CC-BY 4.0",
+    "source": "https://bookdash.org/books/goldfish-genius",
+    "published": true,
+    "created_at": "2025-01-01T00:00:00Z"
+  },
+  {
+    "story_id": "58671cd7-ec3c-4036-8283-11ad4f5caf6d",
+    "title": "Shongololo's shoes",
+    "age_range": "5-7",
+    "categories": [
+      "animals",
+      "friendship",
+      "food"
+    ],
+    "tags": [
+      "bookdash"
+    ],
+    "s3_key": "stories/58671cd7-ec3c-4036-8283-11ad4f5caf6d.json",
+    "thumbnail_url": "https://cdn.twinklepod.com/images/58671cd7-ec3c-4036-8283-11ad4f5caf6d/page-1.jpg",
+    "duration_minutes": 18,
+    "page_count": 18,
+    "author": "Book Dash",
+    "license": "CC-BY 4.0",
+    "source": "https://bookdash.org/books/shongololos-shoes",
+    "published": true,
+    "created_at": "2025-01-01T00:00:00Z"
+  },
+  {
+    "story_id": "591de794-2037-4909-98c7-ea01b3841491",
+    "title": "Why Birds Sing at Dawn",
+    "age_range": "5-7",
+    "categories": [
+      "animals",
+      "family",
+      "friendship",
+      "emotions",
+      "fantasy",
+      "food"
+    ],
+    "tags": [
+      "bookdash"
+    ],
+    "s3_key": "stories/591de794-2037-4909-98c7-ea01b3841491.json",
+    "thumbnail_url": "https://cdn.twinklepod.com/images/591de794-2037-4909-98c7-ea01b3841491/page-1.jpg",
+    "duration_minutes": 18,
+    "page_count": 18,
+    "author": "Book Dash",
+    "license": "CC-BY 4.0",
+    "source": "https://bookdash.org/books/why-birds-sing-at-dawn",
+    "published": true,
+    "created_at": "2025-01-01T00:00:00Z"
+  },
+  {
+    "story_id": "5982e019-849d-445e-a942-6d1c762638e1",
+    "title": "Foxy Joxy Plays a Trick",
+    "age_range": "5-7",
+    "categories": [
+      "animals",
+      "friendship",
+      "food"
+    ],
+    "tags": [
+      "bookdash"
+    ],
+    "s3_key": "stories/5982e019-849d-445e-a942-6d1c762638e1.json",
+    "thumbnail_url": "https://cdn.twinklepod.com/images/5982e019-849d-445e-a942-6d1c762638e1/page-1.jpg",
+    "duration_minutes": 18,
+    "page_count": 18,
+    "author": "Book Dash",
+    "license": "CC-BY 4.0",
+    "source": "https://bookdash.org/books/foxy-joxy-plays-a-trick",
+    "published": true,
+    "created_at": "2025-01-01T00:00:00Z"
+  },
+  {
+    "story_id": "5a8f0a48-9388-4f3b-b35f-96722df7221b",
+    "title": "A very busy day!",
+    "age_range": "5-7",
+    "categories": [
+      "animals",
+      "family",
+      "friendship",
+      "food"
+    ],
+    "tags": [
+      "bookdash"
+    ],
+    "s3_key": "stories/5a8f0a48-9388-4f3b-b35f-96722df7221b.json",
+    "thumbnail_url": "https://cdn.twinklepod.com/images/5a8f0a48-9388-4f3b-b35f-96722df7221b/page-1.jpg",
+    "duration_minutes": 18,
+    "page_count": 18,
+    "author": "Book Dash",
+    "license": "CC-BY 4.0",
+    "source": "https://bookdash.org/books/a-very-busy-day",
+    "published": true,
+    "created_at": "2025-01-01T00:00:00Z"
+  },
+  {
+    "story_id": "5b208f05-f91a-4528-8ea0-bfda094ff8e2",
+    "title": "Mom's hands",
+    "age_range": "5-7",
+    "categories": [
+      "animals",
+      "friendship",
+      "emotions",
+      "learning",
+      "food"
+    ],
+    "tags": [
+      "bookdash"
+    ],
+    "s3_key": "stories/5b208f05-f91a-4528-8ea0-bfda094ff8e2.json",
+    "thumbnail_url": "https://cdn.twinklepod.com/images/5b208f05-f91a-4528-8ea0-bfda094ff8e2/page-1.jpg",
+    "duration_minutes": 18,
+    "page_count": 18,
+    "author": "Book Dash",
+    "license": "CC-BY 4.0",
+    "source": "https://bookdash.org/books/moms-hands",
+    "published": true,
+    "created_at": "2025-01-01T00:00:00Z"
+  },
+  {
+    "story_id": "5f45ec23-0181-4eda-9368-5729f607d1f2",
+    "title": "Small Bird's Big Adventure",
+    "age_range": "5-7",
+    "categories": [
+      "animals",
+      "friendship",
+      "food"
+    ],
+    "tags": [
+      "bookdash"
+    ],
+    "s3_key": "stories/5f45ec23-0181-4eda-9368-5729f607d1f2.json",
+    "thumbnail_url": "https://cdn.twinklepod.com/images/5f45ec23-0181-4eda-9368-5729f607d1f2/page-1.jpg",
+    "duration_minutes": 18,
+    "page_count": 18,
+    "author": "Book Dash",
+    "license": "CC-BY 4.0",
+    "source": "https://bookdash.org/books/small-birds-big-adventure",
+    "published": true,
+    "created_at": "2025-01-01T00:00:00Z"
+  },
+  {
+    "story_id": "5f714b2b-1b7d-43ad-b5d9-03bc14827748",
+    "title": "The lost laugh",
+    "age_range": "5-7",
+    "categories": [
+      "animals",
+      "friendship",
+      "emotions",
+      "food"
+    ],
+    "tags": [
+      "bookdash"
+    ],
+    "s3_key": "stories/5f714b2b-1b7d-43ad-b5d9-03bc14827748.json",
+    "thumbnail_url": "https://cdn.twinklepod.com/images/5f714b2b-1b7d-43ad-b5d9-03bc14827748/page-1.jpg",
+    "duration_minutes": 18,
+    "page_count": 18,
+    "author": "Book Dash",
+    "license": "CC-BY 4.0",
+    "source": "https://bookdash.org/books/the-lost-laugh",
+    "published": true,
+    "created_at": "2025-01-01T00:00:00Z"
+  },
+  {
+    "story_id": "60ecc114-ac96-45d8-b82f-70c062cdef9c",
+    "title": "The Great Tidy Up",
+    "age_range": "5-7",
+    "categories": [
+      "animals",
+      "family",
+      "friendship",
+      "food"
+    ],
+    "tags": [
+      "bookdash"
+    ],
+    "s3_key": "stories/60ecc114-ac96-45d8-b82f-70c062cdef9c.json",
+    "thumbnail_url": "https://cdn.twinklepod.com/images/60ecc114-ac96-45d8-b82f-70c062cdef9c/page-1.jpg",
+    "duration_minutes": 18,
+    "page_count": 18,
+    "author": "Book Dash",
+    "license": "CC-BY 4.0",
+    "source": "https://bookdash.org/books/the-great-tidy-up",
+    "published": true,
+    "created_at": "2025-01-01T00:00:00Z"
+  },
+  {
+    "story_id": "649592d0-e159-4d7e-9b0f-7fbd447b1dd0",
+    "title": "Just Like Me",
+    "age_range": "5-7",
+    "categories": [
+      "animals",
+      "friendship",
+      "food"
+    ],
+    "tags": [
+      "bookdash"
+    ],
+    "s3_key": "stories/649592d0-e159-4d7e-9b0f-7fbd447b1dd0.json",
+    "thumbnail_url": "https://cdn.twinklepod.com/images/649592d0-e159-4d7e-9b0f-7fbd447b1dd0/page-1.jpg",
+    "duration_minutes": 18,
+    "page_count": 18,
+    "author": "Book Dash",
+    "license": "CC-BY 4.0",
+    "source": "https://bookdash.org/books/just-like-me",
+    "published": true,
+    "created_at": "2025-01-01T00:00:00Z"
+  },
+  {
+    "story_id": "650d5e2f-9ebd-4d8f-bf63-7623707ca937",
+    "title": "Singing the Truth",
+    "age_range": "5-7",
+    "categories": [
+      "animals",
+      "family",
+      "friendship",
+      "food"
+    ],
+    "tags": [
+      "bookdash"
+    ],
+    "s3_key": "stories/650d5e2f-9ebd-4d8f-bf63-7623707ca937.json",
+    "thumbnail_url": "https://cdn.twinklepod.com/images/650d5e2f-9ebd-4d8f-bf63-7623707ca937/page-1.jpg",
+    "duration_minutes": 18,
+    "page_count": 18,
+    "author": "Book Dash",
+    "license": "CC-BY 4.0",
+    "source": "https://bookdash.org/books/singing-the-truth",
+    "published": true,
+    "created_at": "2025-01-01T00:00:00Z"
+  },
+  {
+    "story_id": "6575e71f-5f18-496c-9771-0b07a43f31de",
+    "title": "Sizwe's Smile",
+    "age_range": "5-7",
+    "categories": [
+      "animals",
+      "family",
+      "friendship",
+      "emotions",
+      "fantasy",
+      "food"
+    ],
+    "tags": [
+      "bookdash"
+    ],
+    "s3_key": "stories/6575e71f-5f18-496c-9771-0b07a43f31de.json",
+    "thumbnail_url": "https://cdn.twinklepod.com/images/6575e71f-5f18-496c-9771-0b07a43f31de/page-1.jpg",
+    "duration_minutes": 18,
+    "page_count": 18,
+    "author": "Book Dash",
+    "license": "CC-BY 4.0",
+    "source": "https://bookdash.org/books/sizwes-smile",
+    "published": true,
+    "created_at": "2025-01-01T00:00:00Z"
+  },
+  {
+    "story_id": "65c9e645-50ce-4f73-b1e8-2d598cecee85",
+    "title": "Lefa's Bath",
+    "age_range": "5-7",
+    "categories": [
+      "animals",
+      "friendship",
+      "learning",
+      "food"
+    ],
+    "tags": [
+      "bookdash"
+    ],
+    "s3_key": "stories/65c9e645-50ce-4f73-b1e8-2d598cecee85.json",
+    "thumbnail_url": "https://cdn.twinklepod.com/images/65c9e645-50ce-4f73-b1e8-2d598cecee85/page-1.jpg",
+    "duration_minutes": 18,
+    "page_count": 18,
+    "author": "Book Dash",
+    "license": "CC-BY 4.0",
+    "source": "https://bookdash.org/books/lefas-bath",
+    "published": true,
+    "created_at": "2025-01-01T00:00:00Z"
+  },
+  {
+    "story_id": "65d2591f-e663-46b4-aab3-8ce70f8d248f",
+    "title": "The Biscuit Jar Must Fall",
+    "age_range": "5-7",
+    "categories": [
+      "animals",
+      "friendship",
+      "food"
+    ],
+    "tags": [
+      "bookdash"
+    ],
+    "s3_key": "stories/65d2591f-e663-46b4-aab3-8ce70f8d248f.json",
+    "thumbnail_url": "https://cdn.twinklepod.com/images/65d2591f-e663-46b4-aab3-8ce70f8d248f/page-1.jpg",
+    "duration_minutes": 18,
+    "page_count": 18,
+    "author": "Book Dash",
+    "license": "CC-BY 4.0",
+    "source": "https://bookdash.org/books/the-biscuit-jar-must-fall",
+    "published": true,
+    "created_at": "2025-01-01T00:00:00Z"
+  },
+  {
+    "story_id": "66862067-4ae6-4b9a-a9e8-7fb05e66c138",
+    "title": "Yapo Saves The Day",
+    "age_range": "5-7",
+    "categories": [
+      "animals",
+      "adventure",
+      "friendship",
+      "emotions",
+      "food"
+    ],
+    "tags": [
+      "bookdash"
+    ],
+    "s3_key": "stories/66862067-4ae6-4b9a-a9e8-7fb05e66c138.json",
+    "thumbnail_url": "https://cdn.twinklepod.com/images/66862067-4ae6-4b9a-a9e8-7fb05e66c138/page-1.jpg",
+    "duration_minutes": 18,
+    "page_count": 18,
+    "author": "Book Dash",
+    "license": "CC-BY 4.0",
+    "source": "https://bookdash.org/books/yapo-saves-the-day",
+    "published": true,
+    "created_at": "2025-01-01T00:00:00Z"
+  },
+  {
+    "story_id": "6780c713-967a-40ce-ba9b-3c8120009207",
+    "title": "Circles",
+    "age_range": "5-7",
+    "categories": [
+      "animals",
+      "family",
+      "friendship",
+      "food"
+    ],
+    "tags": [
+      "bookdash"
+    ],
+    "s3_key": "stories/6780c713-967a-40ce-ba9b-3c8120009207.json",
+    "thumbnail_url": "https://cdn.twinklepod.com/images/6780c713-967a-40ce-ba9b-3c8120009207/page-1.jpg",
+    "duration_minutes": 18,
+    "page_count": 18,
+    "author": "Book Dash",
+    "license": "CC-BY 4.0",
+    "source": "https://bookdash.org/books/circles",
+    "published": true,
+    "created_at": "2025-01-01T00:00:00Z"
+  },
+  {
+    "story_id": "69271b40-5ac4-4627-ab01-35d576b778af",
+    "title": "What's happened to our water?",
+    "age_range": "5-7",
+    "categories": [
+      "animals",
+      "friendship",
+      "emotions",
+      "learning",
+      "food"
+    ],
+    "tags": [
+      "bookdash"
+    ],
+    "s3_key": "stories/69271b40-5ac4-4627-ab01-35d576b778af.json",
+    "thumbnail_url": "https://cdn.twinklepod.com/images/69271b40-5ac4-4627-ab01-35d576b778af/page-1.jpg",
+    "duration_minutes": 18,
+    "page_count": 18,
+    "author": "Book Dash",
+    "license": "CC-BY 4.0",
+    "source": "https://bookdash.org/books/whats-happened-to-our-water",
+    "published": true,
+    "created_at": "2025-01-01T00:00:00Z"
+  },
+  {
+    "story_id": "697641e8-3e7e-4d0c-8543-b167d2e5e3de",
+    "title": "Little Shoots",
+    "age_range": "5-7",
+    "categories": [
+      "animals",
+      "family",
+      "friendship",
+      "food"
+    ],
+    "tags": [
+      "bookdash"
+    ],
+    "s3_key": "stories/697641e8-3e7e-4d0c-8543-b167d2e5e3de.json",
+    "thumbnail_url": "https://cdn.twinklepod.com/images/697641e8-3e7e-4d0c-8543-b167d2e5e3de/page-1.jpg",
+    "duration_minutes": 18,
+    "page_count": 18,
+    "author": "Book Dash",
+    "license": "CC-BY 4.0",
+    "source": "https://bookdash.org/books/little-shoots",
+    "published": true,
+    "created_at": "2025-01-01T00:00:00Z"
+  },
+  {
+    "story_id": "699e882c-2be1-450f-9b4f-767b3028096a",
+    "title": "Mali's Friend",
+    "age_range": "5-7",
+    "categories": [
+      "animals",
+      "family",
+      "friendship",
+      "food"
+    ],
+    "tags": [
+      "bookdash"
+    ],
+    "s3_key": "stories/699e882c-2be1-450f-9b4f-767b3028096a.json",
+    "thumbnail_url": "https://cdn.twinklepod.com/images/699e882c-2be1-450f-9b4f-767b3028096a/page-1.jpg",
+    "duration_minutes": 1,
+    "page_count": 1,
+    "author": "Book Dash",
+    "license": "CC-BY 4.0",
+    "source": "https://bookdash.org/books/malis-friend",
+    "published": true,
+    "created_at": "2025-01-01T00:00:00Z"
+  },
+  {
+    "story_id": "6a8f2bae-c37d-4b60-ae23-c7abaaa3d77e",
+    "title": "Open the door",
+    "age_range": "5-7",
+    "categories": [
+      "animals",
+      "family",
+      "friendship",
+      "learning",
+      "fantasy",
+      "food"
+    ],
+    "tags": [
+      "bookdash"
+    ],
+    "s3_key": "stories/6a8f2bae-c37d-4b60-ae23-c7abaaa3d77e.json",
+    "thumbnail_url": "https://cdn.twinklepod.com/images/6a8f2bae-c37d-4b60-ae23-c7abaaa3d77e/page-1.jpg",
+    "duration_minutes": 18,
+    "page_count": 18,
+    "author": "Book Dash",
+    "license": "CC-BY 4.0",
+    "source": "https://bookdash.org/books/open-the-door",
+    "published": true,
+    "created_at": "2025-01-01T00:00:00Z"
+  },
+  {
+    "story_id": "6ba1ca34-6c05-4369-b0ad-7d528258158a",
+    "title": "Walking Together",
+    "age_range": "5-7",
+    "categories": [
+      "animals",
+      "adventure",
+      "friendship",
+      "food"
+    ],
+    "tags": [
+      "bookdash"
+    ],
+    "s3_key": "stories/6ba1ca34-6c05-4369-b0ad-7d528258158a.json",
+    "thumbnail_url": "https://cdn.twinklepod.com/images/6ba1ca34-6c05-4369-b0ad-7d528258158a/page-1.jpg",
+    "duration_minutes": 18,
+    "page_count": 18,
+    "author": "Book Dash",
+    "license": "CC-BY 4.0",
+    "source": "https://bookdash.org/books/walking-together",
+    "published": true,
+    "created_at": "2025-01-01T00:00:00Z"
+  },
+  {
+    "story_id": "6cb3a922-cfb8-4148-bc42-9e62160e6a95",
+    "title": "It's my birthday!",
+    "age_range": "5-7",
+    "categories": [
+      "animals",
+      "friendship",
+      "learning",
+      "food"
+    ],
+    "tags": [
+      "bookdash"
+    ],
+    "s3_key": "stories/6cb3a922-cfb8-4148-bc42-9e62160e6a95.json",
+    "thumbnail_url": "https://cdn.twinklepod.com/images/6cb3a922-cfb8-4148-bc42-9e62160e6a95/page-1.jpg",
+    "duration_minutes": 18,
+    "page_count": 18,
+    "author": "Book Dash",
+    "license": "CC-BY 4.0",
+    "source": "https://bookdash.org/books/its-my-birthday",
+    "published": true,
+    "created_at": "2025-01-01T00:00:00Z"
+  },
+  {
+    "story_id": "6cb96665-83ec-49e9-ad27-6858fce9bd87",
+    "title": "Come back, cat!",
+    "age_range": "5-7",
+    "categories": [
+      "animals",
+      "friendship",
+      "food"
+    ],
+    "tags": [
+      "bookdash"
+    ],
+    "s3_key": "stories/6cb96665-83ec-49e9-ad27-6858fce9bd87.json",
+    "thumbnail_url": "https://cdn.twinklepod.com/images/6cb96665-83ec-49e9-ad27-6858fce9bd87/page-1.jpg",
+    "duration_minutes": 19,
+    "page_count": 19,
+    "author": "Book Dash",
+    "license": "CC-BY 4.0",
+    "source": "https://bookdash.org/books/come-back-cat",
+    "published": true,
+    "created_at": "2025-01-01T00:00:00Z"
+  },
+  {
+    "story_id": "6cf73a58-6df3-49a9-9c3c-572ab25b684c",
+    "title": "Dance, Khuzwayo, dance!",
+    "age_range": "5-7",
+    "categories": [
+      "animals",
+      "friendship",
+      "emotions",
+      "food"
+    ],
+    "tags": [
+      "bookdash"
+    ],
+    "s3_key": "stories/6cf73a58-6df3-49a9-9c3c-572ab25b684c.json",
+    "thumbnail_url": "https://cdn.twinklepod.com/images/6cf73a58-6df3-49a9-9c3c-572ab25b684c/page-1.jpg",
+    "duration_minutes": 18,
+    "page_count": 18,
+    "author": "Book Dash",
+    "license": "CC-BY 4.0",
+    "source": "https://bookdash.org/books/dance-khuzwayo-dance",
+    "published": true,
+    "created_at": "2025-01-01T00:00:00Z"
+  },
+  {
+    "story_id": "6db161b4-fc34-48a9-bc88-535cf8c448e8",
+    "title": "Tone's Big Drop",
+    "age_range": "5-7",
+    "categories": [
+      "animals",
+      "adventure",
+      "friendship",
+      "food"
+    ],
+    "tags": [
+      "bookdash"
+    ],
+    "s3_key": "stories/6db161b4-fc34-48a9-bc88-535cf8c448e8.json",
+    "thumbnail_url": "https://cdn.twinklepod.com/images/6db161b4-fc34-48a9-bc88-535cf8c448e8/page-1.jpg",
+    "duration_minutes": 18,
+    "page_count": 18,
+    "author": "Book Dash",
+    "license": "CC-BY 4.0",
+    "source": "https://bookdash.org/books/tones-big-drop",
+    "published": true,
+    "created_at": "2025-01-01T00:00:00Z"
+  },
+  {
+    "story_id": "6e497d1c-f957-4e6a-a9e7-27606d658c6e",
+    "title": "I can dress myself!",
+    "age_range": "5-7",
+    "categories": [
+      "animals",
+      "friendship",
+      "food"
+    ],
+    "tags": [
+      "bookdash"
+    ],
+    "s3_key": "stories/6e497d1c-f957-4e6a-a9e7-27606d658c6e.json",
+    "thumbnail_url": "https://cdn.twinklepod.com/images/6e497d1c-f957-4e6a-a9e7-27606d658c6e/page-1.jpg",
+    "duration_minutes": 18,
+    "page_count": 18,
+    "author": "Book Dash",
+    "license": "CC-BY 4.0",
+    "source": "https://bookdash.org/books/i-can-dress-myself",
+    "published": true,
+    "created_at": "2025-01-01T00:00:00Z"
+  },
+  {
+    "story_id": "6efe1aff-0fcc-4f09-a2ef-2953c2b7a1c0",
+    "title": "How About You?",
+    "age_range": "3-6",
+    "categories": [
+      "general"
+    ],
+    "tags": [
+      "bookdash"
+    ],
+    "s3_key": "stories/6efe1aff-0fcc-4f09-a2ef-2953c2b7a1c0.json",
+    "thumbnail_url": "https://cdn.twinklepod.com/images/6efe1aff-0fcc-4f09-a2ef-2953c2b7a1c0/page-1.jpg",
+    "duration_minutes": 18,
+    "page_count": 18,
+    "author": "Book Dash",
+    "license": "CC-BY 4.0",
+    "source": "https://bookdash.org/books/how-about-you",
+    "published": true,
+    "created_at": "2025-01-01T00:00:00Z"
+  },
+  {
+    "story_id": "6f18f6fe-b1a3-4f3d-a835-e9d70055fe86",
+    "title": "Lara the Yellow Ladybird",
+    "age_range": "5-7",
+    "categories": [
+      "animals",
+      "friendship",
+      "food"
+    ],
+    "tags": [
+      "bookdash"
+    ],
+    "s3_key": "stories/6f18f6fe-b1a3-4f3d-a835-e9d70055fe86.json",
+    "thumbnail_url": "https://cdn.twinklepod.com/images/6f18f6fe-b1a3-4f3d-a835-e9d70055fe86/page-1.jpg",
+    "duration_minutes": 18,
+    "page_count": 18,
+    "author": "Book Dash",
+    "license": "CC-BY 4.0",
+    "source": "https://bookdash.org/books/lara-the-yellow-ladybird",
+    "published": true,
+    "created_at": "2025-01-01T00:00:00Z"
+  },
+  {
+    "story_id": "70534b32-4696-4582-9bc5-b5920b50e60b",
+    "title": "Springloaded",
+    "age_range": "5-7",
+    "categories": [
+      "animals",
+      "family",
+      "friendship",
+      "food"
+    ],
+    "tags": [
+      "bookdash"
+    ],
+    "s3_key": "stories/70534b32-4696-4582-9bc5-b5920b50e60b.json",
+    "thumbnail_url": "https://cdn.twinklepod.com/images/70534b32-4696-4582-9bc5-b5920b50e60b/page-1.jpg",
+    "duration_minutes": 18,
+    "page_count": 18,
+    "author": "Book Dash",
+    "license": "CC-BY 4.0",
+    "source": "https://bookdash.org/books/springloaded",
+    "published": true,
+    "created_at": "2025-01-01T00:00:00Z"
+  },
+  {
+    "story_id": "7158fd3f-43ad-4821-abdf-992743789e37",
+    "title": "Who takes the train?",
+    "age_range": "5-7",
+    "categories": [
+      "animals",
+      "friendship",
+      "food"
+    ],
+    "tags": [
+      "bookdash"
+    ],
+    "s3_key": "stories/7158fd3f-43ad-4821-abdf-992743789e37.json",
+    "thumbnail_url": "https://cdn.twinklepod.com/images/7158fd3f-43ad-4821-abdf-992743789e37/page-1.jpg",
+    "duration_minutes": 18,
+    "page_count": 18,
+    "author": "Book Dash",
+    "license": "CC-BY 4.0",
+    "source": "https://bookdash.org/books/who-takes-the-train",
+    "published": true,
+    "created_at": "2025-01-01T00:00:00Z"
+  },
+  {
+    "story_id": "719357fe-f869-4075-9cbf-f58279919fbf",
+    "title": "The Bounce",
+    "age_range": "5-7",
+    "categories": [
+      "animals",
+      "friendship",
+      "emotions",
+      "food"
+    ],
+    "tags": [
+      "bookdash"
+    ],
+    "s3_key": "stories/719357fe-f869-4075-9cbf-f58279919fbf.json",
+    "thumbnail_url": "https://cdn.twinklepod.com/images/719357fe-f869-4075-9cbf-f58279919fbf/page-1.jpg",
+    "duration_minutes": 17,
+    "page_count": 17,
+    "author": "Book Dash",
+    "license": "CC-BY 4.0",
+    "source": "https://bookdash.org/books/the-bounce",
+    "published": true,
+    "created_at": "2025-01-01T00:00:00Z"
+  },
+  {
+    "story_id": "722566e1-bca2-4425-9fe7-9ff8cf6f911d",
+    "title": "Whose shoe is this?",
+    "age_range": "5-7",
+    "categories": [
+      "animals",
+      "family",
+      "friendship",
+      "food"
+    ],
+    "tags": [
+      "bookdash"
+    ],
+    "s3_key": "stories/722566e1-bca2-4425-9fe7-9ff8cf6f911d.json",
+    "thumbnail_url": "https://cdn.twinklepod.com/images/722566e1-bca2-4425-9fe7-9ff8cf6f911d/page-1.jpg",
+    "duration_minutes": 18,
+    "page_count": 18,
+    "author": "Book Dash",
+    "license": "CC-BY 4.0",
+    "source": "https://bookdash.org/books/whose-shoe-is-this",
+    "published": true,
+    "created_at": "2025-01-01T00:00:00Z"
+  },
+  {
+    "story_id": "75bba98b-7411-4233-b513-4961bd9e382b",
+    "title": "Meerkat magic",
+    "age_range": "5-7",
+    "categories": [
+      "animals",
+      "adventure",
+      "friendship",
+      "emotions",
+      "fantasy",
+      "food"
+    ],
+    "tags": [
+      "bookdash"
+    ],
+    "s3_key": "stories/75bba98b-7411-4233-b513-4961bd9e382b.json",
+    "thumbnail_url": "https://cdn.twinklepod.com/images/75bba98b-7411-4233-b513-4961bd9e382b/page-1.jpg",
+    "duration_minutes": 18,
+    "page_count": 18,
+    "author": "Book Dash",
+    "license": "CC-BY 4.0",
+    "source": "https://bookdash.org/books/meerkat-magic",
+    "published": true,
+    "created_at": "2025-01-01T00:00:00Z"
+  },
+  {
+    "story_id": "7abdf23d-62c3-4360-af87-4febdc6de085",
+    "title": "Vuyo",
+    "age_range": "5-7",
+    "categories": [
+      "animals",
+      "friendship",
+      "food"
+    ],
+    "tags": [
+      "bookdash"
+    ],
+    "s3_key": "stories/7abdf23d-62c3-4360-af87-4febdc6de085.json",
+    "thumbnail_url": "https://cdn.twinklepod.com/images/7abdf23d-62c3-4360-af87-4febdc6de085/page-1.jpg",
+    "duration_minutes": 18,
+    "page_count": 18,
+    "author": "Book Dash",
+    "license": "CC-BY 4.0",
+    "source": "https://bookdash.org/books/vuyo",
+    "published": true,
+    "created_at": "2025-01-01T00:00:00Z"
+  },
+  {
+    "story_id": "7ae2e984-5651-4e95-9a5e-bd5e00fe3aaf",
+    "title": "Mom's Red Coat",
+    "age_range": "5-7",
+    "categories": [
+      "animals",
+      "friendship",
+      "emotions",
+      "food"
+    ],
+    "tags": [
+      "bookdash"
+    ],
+    "s3_key": "stories/7ae2e984-5651-4e95-9a5e-bd5e00fe3aaf.json",
+    "thumbnail_url": "https://cdn.twinklepod.com/images/7ae2e984-5651-4e95-9a5e-bd5e00fe3aaf/page-1.jpg",
+    "duration_minutes": 18,
+    "page_count": 18,
+    "author": "Book Dash",
+    "license": "CC-BY 4.0",
+    "source": "https://bookdash.org/books/moms-red-coat",
+    "published": true,
+    "created_at": "2025-01-01T00:00:00Z"
+  },
+  {
+    "story_id": "7c75ac5a-56bb-402c-ab26-2042fb22285c",
+    "title": "It's MY book!",
+    "age_range": "5-7",
+    "categories": [
+      "animals",
+      "friendship",
+      "emotions",
+      "learning",
+      "fantasy",
+      "food"
+    ],
+    "tags": [
+      "bookdash"
+    ],
+    "s3_key": "stories/7c75ac5a-56bb-402c-ab26-2042fb22285c.json",
+    "thumbnail_url": "https://cdn.twinklepod.com/images/7c75ac5a-56bb-402c-ab26-2042fb22285c/page-1.jpg",
+    "duration_minutes": 18,
+    "page_count": 18,
+    "author": "Book Dash",
+    "license": "CC-BY 4.0",
+    "source": "https://bookdash.org/books/its-my-book",
+    "published": true,
+    "created_at": "2025-01-01T00:00:00Z"
+  },
+  {
+    "story_id": "7cc1f60b-7281-4ead-b30d-bc53ebedad61",
+    "title": "Let's be Friends",
+    "age_range": "5-7",
+    "categories": [
+      "animals",
+      "friendship",
+      "food"
+    ],
+    "tags": [
+      "bookdash"
+    ],
+    "s3_key": "stories/7cc1f60b-7281-4ead-b30d-bc53ebedad61.json",
+    "thumbnail_url": "https://cdn.twinklepod.com/images/7cc1f60b-7281-4ead-b30d-bc53ebedad61/page-1.jpg",
+    "duration_minutes": 18,
+    "page_count": 18,
+    "author": "Book Dash",
+    "license": "CC-BY 4.0",
+    "source": "https://bookdash.org/books/lets-be-friends",
+    "published": true,
+    "created_at": "2025-01-01T00:00:00Z"
+  },
+  {
+    "story_id": "7d9f9536-600d-467e-bb93-652ce2ffda3a",
+    "title": "I'm the Colour of Honey",
+    "age_range": "5-7",
+    "categories": [
+      "animals",
+      "adventure",
+      "friendship",
+      "learning",
+      "food"
+    ],
+    "tags": [
+      "bookdash"
+    ],
+    "s3_key": "stories/7d9f9536-600d-467e-bb93-652ce2ffda3a.json",
+    "thumbnail_url": "https://cdn.twinklepod.com/images/7d9f9536-600d-467e-bb93-652ce2ffda3a/page-1.jpg",
+    "duration_minutes": 18,
+    "page_count": 18,
+    "author": "Book Dash",
+    "license": "CC-BY 4.0",
+    "source": "https://bookdash.org/books/im-the-colour-of-honey",
+    "published": true,
+    "created_at": "2025-01-01T00:00:00Z"
+  },
+  {
+    "story_id": "807056e9-7940-4423-9e1b-8695ef75985e",
+    "title": "How do you want your eggs?",
+    "age_range": "5-7",
+    "categories": [
+      "animals",
+      "friendship",
+      "learning",
+      "food"
+    ],
+    "tags": [
+      "bookdash"
+    ],
+    "s3_key": "stories/807056e9-7940-4423-9e1b-8695ef75985e.json",
+    "thumbnail_url": "https://cdn.twinklepod.com/images/807056e9-7940-4423-9e1b-8695ef75985e/page-1.jpg",
+    "duration_minutes": 18,
+    "page_count": 18,
+    "author": "Book Dash",
+    "license": "CC-BY 4.0",
+    "source": "https://bookdash.org/books/how-do-you-want-your-eggs",
+    "published": true,
+    "created_at": "2025-01-01T00:00:00Z"
+  },
+  {
+    "story_id": "8301ccfc-acf0-462b-a8fe-e9879d839623",
+    "title": "My Special Blankie",
+    "age_range": "5-7",
+    "categories": [
+      "animals",
+      "family",
+      "friendship",
+      "food"
+    ],
+    "tags": [
+      "bookdash"
+    ],
+    "s3_key": "stories/8301ccfc-acf0-462b-a8fe-e9879d839623.json",
+    "thumbnail_url": "https://cdn.twinklepod.com/images/8301ccfc-acf0-462b-a8fe-e9879d839623/page-1.jpg",
+    "duration_minutes": 18,
+    "page_count": 18,
+    "author": "Book Dash",
+    "license": "CC-BY 4.0",
+    "source": "https://bookdash.org/books/my-special-blankie",
+    "published": true,
+    "created_at": "2025-01-01T00:00:00Z"
+  },
+  {
+    "story_id": "84353b87-0f9e-499b-ae36-82fc7b2267cb",
+    "title": "Lonwabo's Recipes",
+    "age_range": "5-7",
+    "categories": [
+      "animals",
+      "bedtime",
+      "family",
+      "friendship",
+      "emotions",
+      "food"
+    ],
+    "tags": [
+      "bookdash"
+    ],
+    "s3_key": "stories/84353b87-0f9e-499b-ae36-82fc7b2267cb.json",
+    "thumbnail_url": "https://cdn.twinklepod.com/images/84353b87-0f9e-499b-ae36-82fc7b2267cb/page-1.jpg",
+    "duration_minutes": 33,
+    "page_count": 33,
+    "author": "Book Dash",
+    "license": "CC-BY 4.0",
+    "source": "https://bookdash.org/books/lonwabos-recipes",
+    "published": true,
+    "created_at": "2025-01-01T00:00:00Z"
+  },
+  {
+    "story_id": "8469f3c9-7306-4f8c-bd4a-000c22951737",
+    "title": "Baby Talk",
+    "age_range": "5-7",
+    "categories": [
+      "animals",
+      "family",
+      "friendship",
+      "food"
+    ],
+    "tags": [
+      "bookdash"
+    ],
+    "s3_key": "stories/8469f3c9-7306-4f8c-bd4a-000c22951737.json",
+    "thumbnail_url": "https://cdn.twinklepod.com/images/8469f3c9-7306-4f8c-bd4a-000c22951737/page-1.jpg",
+    "duration_minutes": 18,
+    "page_count": 18,
+    "author": "Book Dash",
+    "license": "CC-BY 4.0",
+    "source": "https://bookdash.org/books/baby-talk",
+    "published": true,
+    "created_at": "2025-01-01T00:00:00Z"
+  },
+  {
+    "story_id": "8539b152-94d9-4c89-93d4-0ed8ba3fcde0",
+    "title": "Rafiki's Style",
+    "age_range": "5-7",
+    "categories": [
+      "animals",
+      "bedtime",
+      "friendship",
+      "food"
+    ],
+    "tags": [
+      "bookdash"
+    ],
+    "s3_key": "stories/8539b152-94d9-4c89-93d4-0ed8ba3fcde0.json",
+    "thumbnail_url": "https://cdn.twinklepod.com/images/8539b152-94d9-4c89-93d4-0ed8ba3fcde0/page-1.jpg",
+    "duration_minutes": 18,
+    "page_count": 18,
+    "author": "Book Dash",
+    "license": "CC-BY 4.0",
+    "source": "https://bookdash.org/books/rafikis-style",
+    "published": true,
+    "created_at": "2025-01-01T00:00:00Z"
+  },
+  {
+    "story_id": "85ef1476-2453-436a-a753-2c55b675f6a8",
+    "title": "How do you sleep?",
+    "age_range": "5-7",
+    "categories": [
+      "animals",
+      "bedtime",
+      "friendship",
+      "food"
+    ],
+    "tags": [
+      "bookdash"
+    ],
+    "s3_key": "stories/85ef1476-2453-436a-a753-2c55b675f6a8.json",
+    "thumbnail_url": "https://cdn.twinklepod.com/images/85ef1476-2453-436a-a753-2c55b675f6a8/page-1.jpg",
+    "duration_minutes": 18,
+    "page_count": 18,
+    "author": "Book Dash",
+    "license": "CC-BY 4.0",
+    "source": "https://bookdash.org/books/how-do-you-sleep",
+    "published": true,
+    "created_at": "2025-01-01T00:00:00Z"
+  },
+  {
+    "story_id": "863f61ef-03d3-4e2d-850c-c0458c0b5dfe",
+    "title": "The Lion who Wouldn't Try",
+    "age_range": "5-7",
+    "categories": [
+      "animals",
+      "friendship",
+      "food"
+    ],
+    "tags": [
+      "bookdash"
+    ],
+    "s3_key": "stories/863f61ef-03d3-4e2d-850c-c0458c0b5dfe.json",
+    "thumbnail_url": "https://cdn.twinklepod.com/images/863f61ef-03d3-4e2d-850c-c0458c0b5dfe/page-1.jpg",
+    "duration_minutes": 17,
+    "page_count": 17,
+    "author": "Book Dash",
+    "license": "CC-BY 4.0",
+    "source": "https://bookdash.org/books/the-lion-who-wouldnt-try",
+    "published": true,
+    "created_at": "2025-01-01T00:00:00Z"
+  },
+  {
+    "story_id": "87c27c05-996d-4c1b-be54-742e0b3377eb",
+    "title": "Is There Anyone Like Me?",
+    "age_range": "5-7",
+    "categories": [
+      "animals",
+      "friendship",
+      "food"
+    ],
+    "tags": [
+      "bookdash"
+    ],
+    "s3_key": "stories/87c27c05-996d-4c1b-be54-742e0b3377eb.json",
+    "thumbnail_url": "https://cdn.twinklepod.com/images/87c27c05-996d-4c1b-be54-742e0b3377eb/page-1.jpg",
+    "duration_minutes": 18,
+    "page_count": 18,
+    "author": "Book Dash",
+    "license": "CC-BY 4.0",
+    "source": "https://bookdash.org/books/is-there-anyone-like-me",
+    "published": true,
+    "created_at": "2025-01-01T00:00:00Z"
+  },
+  {
+    "story_id": "87fec2d5-da37-4fd8-bc43-ea1ec43e6d33",
+    "title": "The best thing ever",
+    "age_range": "5-7",
+    "categories": [
+      "animals",
+      "bedtime",
+      "friendship",
+      "emotions",
+      "food"
+    ],
+    "tags": [
+      "bookdash"
+    ],
+    "s3_key": "stories/87fec2d5-da37-4fd8-bc43-ea1ec43e6d33.json",
+    "thumbnail_url": "https://cdn.twinklepod.com/images/87fec2d5-da37-4fd8-bc43-ea1ec43e6d33/page-1.jpg",
+    "duration_minutes": 18,
+    "page_count": 18,
+    "author": "Book Dash",
+    "license": "CC-BY 4.0",
+    "source": "https://bookdash.org/books/the-best-thing-ever",
+    "published": true,
+    "created_at": "2025-01-01T00:00:00Z"
+  },
+  {
+    "story_id": "8928d108-5911-4983-be16-613109822c0f",
+    "title": "MUD!",
+    "age_range": "5-7",
+    "categories": [
+      "animals",
+      "family",
+      "adventure",
+      "friendship",
+      "learning",
+      "food"
+    ],
+    "tags": [
+      "bookdash"
+    ],
+    "s3_key": "stories/8928d108-5911-4983-be16-613109822c0f.json",
+    "thumbnail_url": "https://cdn.twinklepod.com/images/8928d108-5911-4983-be16-613109822c0f/page-1.jpg",
+    "duration_minutes": 18,
+    "page_count": 18,
+    "author": "Book Dash",
+    "license": "CC-BY 4.0",
+    "source": "https://bookdash.org/books/mud",
+    "published": true,
+    "created_at": "2025-01-01T00:00:00Z"
+  },
+  {
+    "story_id": "8a544e0d-d06e-4b2c-bfae-216f2199a09a",
+    "title": "Palesa Can Walk!",
+    "age_range": "5-7",
+    "categories": [
+      "animals",
+      "bedtime",
+      "adventure",
+      "friendship",
+      "food"
+    ],
+    "tags": [
+      "bookdash"
+    ],
+    "s3_key": "stories/8a544e0d-d06e-4b2c-bfae-216f2199a09a.json",
+    "thumbnail_url": "https://cdn.twinklepod.com/images/8a544e0d-d06e-4b2c-bfae-216f2199a09a/page-1.jpg",
+    "duration_minutes": 18,
+    "page_count": 18,
+    "author": "Book Dash",
+    "license": "CC-BY 4.0",
+    "source": "https://bookdash.org/books/palesa-can-walk",
+    "published": true,
+    "created_at": "2025-01-01T00:00:00Z"
+  },
+  {
+    "story_id": "8b7c64d4-c471-4088-9851-4fc6d26b61b2",
+    "title": "The Lazy Ant",
+    "age_range": "5-7",
+    "categories": [
+      "animals",
+      "adventure",
+      "friendship",
+      "food"
+    ],
+    "tags": [
+      "bookdash"
+    ],
+    "s3_key": "stories/8b7c64d4-c471-4088-9851-4fc6d26b61b2.json",
+    "thumbnail_url": "https://cdn.twinklepod.com/images/8b7c64d4-c471-4088-9851-4fc6d26b61b2/page-1.jpg",
+    "duration_minutes": 18,
+    "page_count": 18,
+    "author": "Book Dash",
+    "license": "CC-BY 4.0",
+    "source": "https://bookdash.org/books/the-lazy-ant",
+    "published": true,
+    "created_at": "2025-01-01T00:00:00Z"
+  },
+  {
+    "story_id": "8bf2dc9e-c7c9-4b36-9f64-057e945b6ca5",
+    "title": "Thato's Birthday Surprise",
+    "age_range": "5-7",
+    "categories": [
+      "animals",
+      "friendship",
+      "food"
+    ],
+    "tags": [
+      "bookdash"
+    ],
+    "s3_key": "stories/8bf2dc9e-c7c9-4b36-9f64-057e945b6ca5.json",
+    "thumbnail_url": "https://cdn.twinklepod.com/images/8bf2dc9e-c7c9-4b36-9f64-057e945b6ca5/page-1.jpg",
+    "duration_minutes": 18,
+    "page_count": 18,
+    "author": "Book Dash",
+    "license": "CC-BY 4.0",
+    "source": "https://bookdash.org/books/thatos-birthday-surprise",
+    "published": true,
+    "created_at": "2025-01-01T00:00:00Z"
+  },
+  {
+    "story_id": "8c0feb39-033b-472d-8450-9f1da81473b2",
+    "title": "Little Ant's Big Plan",
+    "age_range": "5-7",
+    "categories": [
+      "animals",
+      "friendship",
+      "emotions",
+      "food"
+    ],
+    "tags": [
+      "bookdash"
+    ],
+    "s3_key": "stories/8c0feb39-033b-472d-8450-9f1da81473b2.json",
+    "thumbnail_url": "https://cdn.twinklepod.com/images/8c0feb39-033b-472d-8450-9f1da81473b2/page-1.jpg",
+    "duration_minutes": 18,
+    "page_count": 18,
+    "author": "Book Dash",
+    "license": "CC-BY 4.0",
+    "source": "https://bookdash.org/books/little-ants-big-plan",
+    "published": true,
+    "created_at": "2025-01-01T00:00:00Z"
+  },
+  {
+    "story_id": "8f0a515e-b09b-4afa-8585-621ed53015f3",
+    "title": "Let's Party!",
+    "age_range": "5-7",
+    "categories": [
+      "animals",
+      "friendship",
+      "learning",
+      "food"
+    ],
+    "tags": [
+      "bookdash"
+    ],
+    "s3_key": "stories/8f0a515e-b09b-4afa-8585-621ed53015f3.json",
+    "thumbnail_url": "https://cdn.twinklepod.com/images/8f0a515e-b09b-4afa-8585-621ed53015f3/page-1.jpg",
+    "duration_minutes": 18,
+    "page_count": 18,
+    "author": "Book Dash",
+    "license": "CC-BY 4.0",
+    "source": "https://bookdash.org/books/lets-party",
+    "published": true,
+    "created_at": "2025-01-01T00:00:00Z"
+  },
+  {
+    "story_id": "8f368185-ff42-45a3-b5a4-056dd3f3d6af",
+    "title": "Amahle wants to help!",
+    "age_range": "5-7",
+    "categories": [
+      "animals",
+      "family",
+      "friendship",
+      "learning",
+      "food"
+    ],
+    "tags": [
+      "bookdash"
+    ],
+    "s3_key": "stories/8f368185-ff42-45a3-b5a4-056dd3f3d6af.json",
+    "thumbnail_url": "https://cdn.twinklepod.com/images/8f368185-ff42-45a3-b5a4-056dd3f3d6af/page-1.jpg",
+    "duration_minutes": 18,
+    "page_count": 18,
+    "author": "Book Dash",
+    "license": "CC-BY 4.0",
+    "source": "https://bookdash.org/books/amahle-wants-to-help",
+    "published": true,
+    "created_at": "2025-01-01T00:00:00Z"
+  },
+  {
+    "story_id": "8f618528-46a0-4a25-9d9a-4f7de7b46ce5",
+    "title": "Tig's World",
+    "age_range": "5-7",
+    "categories": [
+      "animals",
+      "friendship",
+      "food"
+    ],
+    "tags": [
+      "bookdash"
+    ],
+    "s3_key": "stories/8f618528-46a0-4a25-9d9a-4f7de7b46ce5.json",
+    "thumbnail_url": "https://cdn.twinklepod.com/images/8f618528-46a0-4a25-9d9a-4f7de7b46ce5/page-1.jpg",
+    "duration_minutes": 18,
+    "page_count": 18,
+    "author": "Book Dash",
+    "license": "CC-BY 4.0",
+    "source": "https://bookdash.org/books/tigs-world",
+    "published": true,
+    "created_at": "2025-01-01T00:00:00Z"
+  },
+  {
+    "story_id": "8fce3f7d-9377-437c-bcdd-493f72a923e7",
+    "title": "Banzi's Busy Bees",
+    "age_range": "5-7",
+    "categories": [
+      "animals",
+      "family",
+      "friendship",
+      "emotions",
+      "learning",
+      "food"
+    ],
+    "tags": [
+      "bookdash"
+    ],
+    "s3_key": "stories/8fce3f7d-9377-437c-bcdd-493f72a923e7.json",
+    "thumbnail_url": "https://cdn.twinklepod.com/images/8fce3f7d-9377-437c-bcdd-493f72a923e7/page-1.jpg",
+    "duration_minutes": 18,
+    "page_count": 18,
+    "author": "Book Dash",
+    "license": "CC-BY 4.0",
+    "source": "https://bookdash.org/books/banzis-busy-bees",
+    "published": true,
+    "created_at": "2025-01-01T00:00:00Z"
+  },
+  {
+    "story_id": "8ff0c855-3bfb-4ad0-9b3d-1307272ab7ba",
+    "title": "Sindi and the Moon",
+    "age_range": "5-7",
+    "categories": [
+      "animals",
+      "bedtime",
+      "family",
+      "friendship",
+      "emotions",
+      "learning",
+      "food"
+    ],
+    "tags": [
+      "bookdash"
+    ],
+    "s3_key": "stories/8ff0c855-3bfb-4ad0-9b3d-1307272ab7ba.json",
+    "thumbnail_url": "https://cdn.twinklepod.com/images/8ff0c855-3bfb-4ad0-9b3d-1307272ab7ba/page-1.jpg",
+    "duration_minutes": 18,
+    "page_count": 18,
+    "author": "Book Dash",
+    "license": "CC-BY 4.0",
+    "source": "https://bookdash.org/books/sindi-and-the-moon",
+    "published": true,
+    "created_at": "2025-01-01T00:00:00Z"
+  },
+  {
+    "story_id": "90db309f-69e6-4876-9a8f-d8790503f252",
+    "title": "What's at the Park?",
+    "age_range": "5-7",
+    "categories": [
+      "animals",
+      "adventure",
+      "friendship",
+      "emotions",
+      "food"
+    ],
+    "tags": [
+      "bookdash"
+    ],
+    "s3_key": "stories/90db309f-69e6-4876-9a8f-d8790503f252.json",
+    "thumbnail_url": "https://cdn.twinklepod.com/images/90db309f-69e6-4876-9a8f-d8790503f252/page-1.jpg",
+    "duration_minutes": 18,
+    "page_count": 18,
+    "author": "Book Dash",
+    "license": "CC-BY 4.0",
+    "source": "https://bookdash.org/books/whats-at-the-park",
+    "published": true,
+    "created_at": "2025-01-01T00:00:00Z"
+  },
+  {
+    "story_id": "92ce48e4-9adf-40c3-a1ea-6debb20278c9",
+    "title": "Whose button is this?",
+    "age_range": "5-7",
+    "categories": [
+      "animals",
+      "adventure",
+      "friendship",
+      "food"
+    ],
+    "tags": [
+      "bookdash"
+    ],
+    "s3_key": "stories/92ce48e4-9adf-40c3-a1ea-6debb20278c9.json",
+    "thumbnail_url": "https://cdn.twinklepod.com/images/92ce48e4-9adf-40c3-a1ea-6debb20278c9/page-1.jpg",
+    "duration_minutes": 19,
+    "page_count": 19,
+    "author": "Book Dash",
+    "license": "CC-BY 4.0",
+    "source": "https://bookdash.org/books/whose-button-is-this",
+    "published": true,
+    "created_at": "2025-01-01T00:00:00Z"
+  },
+  {
+    "story_id": "9688d8be-ccda-4098-9e83-c8d3a06bd8c8",
+    "title": "Together We're Strong",
+    "age_range": "5-7",
+    "categories": [
+      "animals",
+      "bedtime",
+      "family",
+      "friendship",
+      "emotions",
+      "food"
+    ],
+    "tags": [
+      "bookdash"
+    ],
+    "s3_key": "stories/9688d8be-ccda-4098-9e83-c8d3a06bd8c8.json",
+    "thumbnail_url": "https://cdn.twinklepod.com/images/9688d8be-ccda-4098-9e83-c8d3a06bd8c8/page-1.jpg",
+    "duration_minutes": 18,
+    "page_count": 18,
+    "author": "Book Dash",
+    "license": "CC-BY 4.0",
+    "source": "https://bookdash.org/books/together-were-strong",
+    "published": true,
+    "created_at": "2025-01-01T00:00:00Z"
+  },
+  {
+    "story_id": "987b7a36-7b51-400d-8556-53fe77b06bea",
+    "title": "Unathi and the Dirty, Smelly Beast",
+    "age_range": "5-7",
+    "categories": [
+      "animals",
+      "friendship",
+      "food"
+    ],
+    "tags": [
+      "bookdash"
+    ],
+    "s3_key": "stories/987b7a36-7b51-400d-8556-53fe77b06bea.json",
+    "thumbnail_url": "https://cdn.twinklepod.com/images/987b7a36-7b51-400d-8556-53fe77b06bea/page-1.jpg",
+    "duration_minutes": 18,
+    "page_count": 18,
+    "author": "Book Dash",
+    "license": "CC-BY 4.0",
+    "source": "https://bookdash.org/books/unathi-and-the-dirty-smelly-beast",
+    "published": true,
+    "created_at": "2025-01-01T00:00:00Z"
+  },
+  {
+    "story_id": "98b1380b-0e25-4a2f-b94b-d56bb6615246",
+    "title": "The Very Tired Lioness",
+    "age_range": "5-7",
+    "categories": [
+      "animals",
+      "bedtime",
+      "family",
+      "friendship",
+      "food"
+    ],
+    "tags": [
+      "bookdash"
+    ],
+    "s3_key": "stories/98b1380b-0e25-4a2f-b94b-d56bb6615246.json",
+    "thumbnail_url": "https://cdn.twinklepod.com/images/98b1380b-0e25-4a2f-b94b-d56bb6615246/page-1.jpg",
+    "duration_minutes": 18,
+    "page_count": 18,
+    "author": "Book Dash",
+    "license": "CC-BY 4.0",
+    "source": "https://bookdash.org/books/the-very-tired-lioness",
+    "published": true,
+    "created_at": "2025-01-01T00:00:00Z"
+  },
+  {
+    "story_id": "9911b09c-8518-41ca-b625-4735edb0a355",
+    "title": "Look up!",
+    "age_range": "5-7",
+    "categories": [
+      "animals",
+      "friendship",
+      "food"
+    ],
+    "tags": [
+      "bookdash"
+    ],
+    "s3_key": "stories/9911b09c-8518-41ca-b625-4735edb0a355.json",
+    "thumbnail_url": "https://cdn.twinklepod.com/images/9911b09c-8518-41ca-b625-4735edb0a355/page-1.jpg",
+    "duration_minutes": 18,
+    "page_count": 18,
+    "author": "Book Dash",
+    "license": "CC-BY 4.0",
+    "source": "https://bookdash.org/books/look-up",
+    "published": true,
+    "created_at": "2025-01-01T00:00:00Z"
+  },
+  {
+    "story_id": "9cc37989-9639-499d-8b1e-b1e4f7da7a8d",
+    "title": "It Wasn't Me!",
+    "age_range": "5-7",
+    "categories": [
+      "animals",
+      "friendship",
+      "food"
+    ],
+    "tags": [
+      "bookdash"
+    ],
+    "s3_key": "stories/9cc37989-9639-499d-8b1e-b1e4f7da7a8d.json",
+    "thumbnail_url": "https://cdn.twinklepod.com/images/9cc37989-9639-499d-8b1e-b1e4f7da7a8d/page-1.jpg",
+    "duration_minutes": 18,
+    "page_count": 18,
+    "author": "Book Dash",
+    "license": "CC-BY 4.0",
+    "source": "https://bookdash.org/books/it-wasnt-me",
+    "published": true,
+    "created_at": "2025-01-01T00:00:00Z"
+  },
+  {
+    "story_id": "9eaacdcf-46d8-4d25-80d5-534bf2f683cd",
+    "title": "Why the owl never sleeps",
+    "age_range": "5-7",
+    "categories": [
+      "animals",
+      "bedtime",
+      "friendship",
+      "learning",
+      "food"
+    ],
+    "tags": [
+      "bookdash"
+    ],
+    "s3_key": "stories/9eaacdcf-46d8-4d25-80d5-534bf2f683cd.json",
+    "thumbnail_url": "https://cdn.twinklepod.com/images/9eaacdcf-46d8-4d25-80d5-534bf2f683cd/page-1.jpg",
+    "duration_minutes": 18,
+    "page_count": 18,
+    "author": "Book Dash",
+    "license": "CC-BY 4.0",
+    "source": "https://bookdash.org/books/why-the-owl-never-sleeps",
+    "published": true,
+    "created_at": "2025-01-01T00:00:00Z"
+  },
+  {
+    "story_id": "9ec72eaa-c9d6-4679-8f0e-d5fa38d5dbaf",
+    "title": "The Sea",
+    "age_range": "5-7",
+    "categories": [
+      "animals",
+      "friendship",
+      "food"
+    ],
+    "tags": [
+      "bookdash"
+    ],
+    "s3_key": "stories/9ec72eaa-c9d6-4679-8f0e-d5fa38d5dbaf.json",
+    "thumbnail_url": "https://cdn.twinklepod.com/images/9ec72eaa-c9d6-4679-8f0e-d5fa38d5dbaf/page-1.jpg",
+    "duration_minutes": 18,
+    "page_count": 18,
+    "author": "Book Dash",
+    "license": "CC-BY 4.0",
+    "source": "https://bookdash.org/books/the-sea",
+    "published": true,
+    "created_at": "2025-01-01T00:00:00Z"
+  },
+  {
+    "story_id": "9f146a43-bc21-48a9-861a-508ab209111c",
+    "title": "No!",
+    "age_range": "5-7",
+    "categories": [
+      "animals",
+      "adventure",
+      "friendship",
+      "food"
+    ],
+    "tags": [
+      "bookdash"
+    ],
+    "s3_key": "stories/9f146a43-bc21-48a9-861a-508ab209111c.json",
+    "thumbnail_url": "https://cdn.twinklepod.com/images/9f146a43-bc21-48a9-861a-508ab209111c/page-1.jpg",
+    "duration_minutes": 18,
+    "page_count": 18,
+    "author": "Book Dash",
+    "license": "CC-BY 4.0",
+    "source": "https://bookdash.org/books/no",
+    "published": true,
+    "created_at": "2025-01-01T00:00:00Z"
+  },
+  {
+    "story_id": "a039249f-a671-4537-b2a6-d4270b2e4df5",
+    "title": "O Rain Come",
+    "age_range": "5-7",
+    "categories": [
+      "animals",
+      "friendship",
+      "food"
+    ],
+    "tags": [
+      "bookdash"
+    ],
+    "s3_key": "stories/a039249f-a671-4537-b2a6-d4270b2e4df5.json",
+    "thumbnail_url": "https://cdn.twinklepod.com/images/a039249f-a671-4537-b2a6-d4270b2e4df5/page-1.jpg",
+    "duration_minutes": 18,
+    "page_count": 18,
+    "author": "Book Dash",
+    "license": "CC-BY 4.0",
+    "source": "https://bookdash.org/books/o-rain-come",
+    "published": true,
+    "created_at": "2025-01-01T00:00:00Z"
+  },
+  {
+    "story_id": "a1296d19-6c50-41d2-8139-3a99a1284878",
+    "title": "Zandi and Birdy Monster",
+    "age_range": "5-7",
+    "categories": [
+      "animals",
+      "friendship",
+      "fantasy",
+      "food"
+    ],
+    "tags": [
+      "bookdash"
+    ],
+    "s3_key": "stories/a1296d19-6c50-41d2-8139-3a99a1284878.json",
+    "thumbnail_url": "https://cdn.twinklepod.com/images/a1296d19-6c50-41d2-8139-3a99a1284878/page-1.jpg",
+    "duration_minutes": 18,
+    "page_count": 18,
+    "author": "Book Dash",
+    "license": "CC-BY 4.0",
+    "source": "https://bookdash.org/books/zandi-and-birdy-monster",
+    "published": true,
+    "created_at": "2025-01-01T00:00:00Z"
+  },
+  {
+    "story_id": "a1907f22-2209-48f2-9a74-c43fb9fea6bb",
+    "title": "Queen of Soweto",
+    "age_range": "5-7",
+    "categories": [
+      "animals",
+      "bedtime",
+      "family",
+      "friendship",
+      "emotions",
+      "learning",
+      "food"
+    ],
+    "tags": [
+      "bookdash"
+    ],
+    "s3_key": "stories/a1907f22-2209-48f2-9a74-c43fb9fea6bb.json",
+    "thumbnail_url": "https://cdn.twinklepod.com/images/a1907f22-2209-48f2-9a74-c43fb9fea6bb/page-1.jpg",
+    "duration_minutes": 18,
+    "page_count": 18,
+    "author": "Book Dash",
+    "license": "CC-BY 4.0",
+    "source": "https://bookdash.org/books/queen-of-soweto",
+    "published": true,
+    "created_at": "2025-01-01T00:00:00Z"
+  },
+  {
+    "story_id": "a26a9c33-b52b-4d0e-a1a9-847424effe17",
+    "title": "Mogau's Gift",
+    "age_range": "5-7",
+    "categories": [
+      "animals",
+      "friendship",
+      "food"
+    ],
+    "tags": [
+      "bookdash"
+    ],
+    "s3_key": "stories/a26a9c33-b52b-4d0e-a1a9-847424effe17.json",
+    "thumbnail_url": "https://cdn.twinklepod.com/images/a26a9c33-b52b-4d0e-a1a9-847424effe17/page-1.jpg",
+    "duration_minutes": 18,
+    "page_count": 18,
+    "author": "Book Dash",
+    "license": "CC-BY 4.0",
+    "source": "https://bookdash.org/books/mogaus-gift",
+    "published": true,
+    "created_at": "2025-01-01T00:00:00Z"
+  },
+  {
+    "story_id": "a27ee9fb-2dbc-4270-b244-dd6c4c80f450",
+    "title": "A Beautiful Day",
+    "age_range": "5-7",
+    "categories": [
+      "animals",
+      "friendship",
+      "food"
+    ],
+    "tags": [
+      "bookdash"
+    ],
+    "s3_key": "stories/a27ee9fb-2dbc-4270-b244-dd6c4c80f450.json",
+    "thumbnail_url": "https://cdn.twinklepod.com/images/a27ee9fb-2dbc-4270-b244-dd6c4c80f450/page-1.jpg",
+    "duration_minutes": 18,
+    "page_count": 18,
+    "author": "Book Dash",
+    "license": "CC-BY 4.0",
+    "source": "https://bookdash.org/books/a-beautiful-day",
+    "published": true,
+    "created_at": "2025-01-01T00:00:00Z"
+  },
+  {
+    "story_id": "a4c22119-49b0-49d5-a513-3690d201d26e",
+    "title": "The Cottonwool Doctor",
+    "age_range": "5-7",
+    "categories": [
+      "animals",
+      "bedtime",
+      "friendship",
+      "emotions",
+      "learning",
+      "food"
+    ],
+    "tags": [
+      "bookdash"
+    ],
+    "s3_key": "stories/a4c22119-49b0-49d5-a513-3690d201d26e.json",
+    "thumbnail_url": "https://cdn.twinklepod.com/images/a4c22119-49b0-49d5-a513-3690d201d26e/page-1.jpg",
+    "duration_minutes": 18,
+    "page_count": 18,
+    "author": "Book Dash",
+    "license": "CC-BY 4.0",
+    "source": "https://bookdash.org/books/the-cottonwool-doctor",
+    "published": true,
+    "created_at": "2025-01-01T00:00:00Z"
+  },
+  {
+    "story_id": "a5dfb22d-99f5-4f64-a7e1-59ac57f57986",
+    "title": "Matthew is up!",
+    "age_range": "5-7",
+    "categories": [
+      "animals",
+      "friendship",
+      "food"
+    ],
+    "tags": [
+      "bookdash"
+    ],
+    "s3_key": "stories/a5dfb22d-99f5-4f64-a7e1-59ac57f57986.json",
+    "thumbnail_url": "https://cdn.twinklepod.com/images/a5dfb22d-99f5-4f64-a7e1-59ac57f57986/page-1.jpg",
+    "duration_minutes": 18,
+    "page_count": 18,
+    "author": "Book Dash",
+    "license": "CC-BY 4.0",
+    "source": "https://bookdash.org/books/matthew-is-up",
+    "published": true,
+    "created_at": "2025-01-01T00:00:00Z"
+  },
+  {
+    "story_id": "a8681011-dbf7-464b-a0a7-2e421b2eb1a7",
+    "title": "Thuli's Tissue",
+    "age_range": "5-7",
+    "categories": [
+      "animals",
+      "friendship",
+      "learning",
+      "food"
+    ],
+    "tags": [
+      "bookdash"
+    ],
+    "s3_key": "stories/a8681011-dbf7-464b-a0a7-2e421b2eb1a7.json",
+    "thumbnail_url": "https://cdn.twinklepod.com/images/a8681011-dbf7-464b-a0a7-2e421b2eb1a7/page-1.jpg",
+    "duration_minutes": 18,
+    "page_count": 18,
+    "author": "Book Dash",
+    "license": "CC-BY 4.0",
+    "source": "https://bookdash.org/books/thulis-tissue",
+    "published": true,
+    "created_at": "2025-01-01T00:00:00Z"
+  },
+  {
+    "story_id": "a9599a65-2adb-43cd-9ecb-1e16c8b4232e",
+    "title": "Imagine",
+    "age_range": "5-7",
+    "categories": [
+      "animals",
+      "friendship",
+      "food"
+    ],
+    "tags": [
+      "bookdash"
+    ],
+    "s3_key": "stories/a9599a65-2adb-43cd-9ecb-1e16c8b4232e.json",
+    "thumbnail_url": "https://cdn.twinklepod.com/images/a9599a65-2adb-43cd-9ecb-1e16c8b4232e/page-1.jpg",
+    "duration_minutes": 18,
+    "page_count": 18,
+    "author": "Book Dash",
+    "license": "CC-BY 4.0",
+    "source": "https://bookdash.org/books/imagine",
+    "published": true,
+    "created_at": "2025-01-01T00:00:00Z"
+  },
+  {
+    "story_id": "a96d3905-cc09-42fb-9885-6c20c04243c1",
+    "title": "Ann-Nem-Oh-Nee finds Adventure",
+    "age_range": "5-7",
+    "categories": [
+      "animals",
+      "friendship",
+      "food"
+    ],
+    "tags": [
+      "bookdash"
+    ],
+    "s3_key": "stories/a96d3905-cc09-42fb-9885-6c20c04243c1.json",
+    "thumbnail_url": "https://cdn.twinklepod.com/images/a96d3905-cc09-42fb-9885-6c20c04243c1/page-1.jpg",
+    "duration_minutes": 1,
+    "page_count": 1,
+    "author": "Book Dash",
+    "license": "CC-BY 4.0",
+    "source": "https://bookdash.org/books/ann-nem-oh-nee-finds-adventure",
+    "published": true,
+    "created_at": "2025-01-01T00:00:00Z"
+  },
+  {
+    "story_id": "adb573a4-92f8-4c17-95b6-015a0148daab",
+    "title": "What's next?",
+    "age_range": "5-7",
+    "categories": [
+      "animals",
+      "family",
+      "friendship",
+      "emotions",
+      "learning",
+      "food"
+    ],
+    "tags": [
+      "bookdash"
+    ],
+    "s3_key": "stories/adb573a4-92f8-4c17-95b6-015a0148daab.json",
+    "thumbnail_url": "https://cdn.twinklepod.com/images/adb573a4-92f8-4c17-95b6-015a0148daab/page-1.jpg",
+    "duration_minutes": 18,
+    "page_count": 18,
+    "author": "Book Dash",
+    "license": "CC-BY 4.0",
+    "source": "https://bookdash.org/books/whats-next",
+    "published": true,
+    "created_at": "2025-01-01T00:00:00Z"
+  },
+  {
+    "story_id": "ae08a757-5168-450d-ba5f-bd6b264e6fb1",
+    "title": "Samoosas!",
+    "age_range": "5-7",
+    "categories": [
+      "animals",
+      "family",
+      "friendship",
+      "emotions",
+      "learning",
+      "food"
+    ],
+    "tags": [
+      "bookdash"
+    ],
+    "s3_key": "stories/ae08a757-5168-450d-ba5f-bd6b264e6fb1.json",
+    "thumbnail_url": "https://cdn.twinklepod.com/images/ae08a757-5168-450d-ba5f-bd6b264e6fb1/page-1.jpg",
+    "duration_minutes": 18,
+    "page_count": 18,
+    "author": "Book Dash",
+    "license": "CC-BY 4.0",
+    "source": "https://bookdash.org/books/samoosas",
+    "published": true,
+    "created_at": "2025-01-01T00:00:00Z"
+  },
+  {
+    "story_id": "aecc74e9-172e-4d32-ad0b-df9fe09fa52a",
+    "title": "Little Goat",
+    "age_range": "5-7",
+    "categories": [
+      "animals",
+      "friendship",
+      "food"
+    ],
+    "tags": [
+      "bookdash"
+    ],
+    "s3_key": "stories/aecc74e9-172e-4d32-ad0b-df9fe09fa52a.json",
+    "thumbnail_url": "https://cdn.twinklepod.com/images/aecc74e9-172e-4d32-ad0b-df9fe09fa52a/page-1.jpg",
+    "duration_minutes": 18,
+    "page_count": 18,
+    "author": "Book Dash",
+    "license": "CC-BY 4.0",
+    "source": "https://bookdash.org/books/little-goat",
+    "published": true,
+    "created_at": "2025-01-01T00:00:00Z"
+  },
+  {
+    "story_id": "b2097c75-d923-4598-9402-9f68861e9ca2",
+    "title": "A Very Important Tree",
+    "age_range": "5-7",
+    "categories": [
+      "animals",
+      "family",
+      "adventure",
+      "friendship",
+      "emotions",
+      "food"
+    ],
+    "tags": [
+      "bookdash"
+    ],
+    "s3_key": "stories/b2097c75-d923-4598-9402-9f68861e9ca2.json",
+    "thumbnail_url": "https://cdn.twinklepod.com/images/b2097c75-d923-4598-9402-9f68861e9ca2/page-1.jpg",
+    "duration_minutes": 17,
+    "page_count": 17,
+    "author": "Book Dash",
+    "license": "CC-BY 4.0",
+    "source": "https://bookdash.org/books/a-very-important-tree",
+    "published": true,
+    "created_at": "2025-01-01T00:00:00Z"
+  },
+  {
+    "story_id": "b22e6aaa-32bc-4c77-9705-e83978ef4e17",
+    "title": "Summertime Adventure",
+    "age_range": "5-7",
+    "categories": [
+      "animals",
+      "friendship",
+      "food"
+    ],
+    "tags": [
+      "bookdash"
+    ],
+    "s3_key": "stories/b22e6aaa-32bc-4c77-9705-e83978ef4e17.json",
+    "thumbnail_url": "https://cdn.twinklepod.com/images/b22e6aaa-32bc-4c77-9705-e83978ef4e17/page-1.jpg",
+    "duration_minutes": 18,
+    "page_count": 18,
+    "author": "Book Dash",
+    "license": "CC-BY 4.0",
+    "source": "https://bookdash.org/books/summertime-adventure",
+    "published": true,
+    "created_at": "2025-01-01T00:00:00Z"
+  },
+  {
+    "story_id": "b2b6179b-1978-4ca9-a8aa-ee812893b975",
+    "title": "Clever Pig",
+    "age_range": "5-7",
+    "categories": [
+      "animals",
+      "friendship",
+      "emotions",
+      "food"
+    ],
+    "tags": [
+      "bookdash"
+    ],
+    "s3_key": "stories/b2b6179b-1978-4ca9-a8aa-ee812893b975.json",
+    "thumbnail_url": "https://cdn.twinklepod.com/images/b2b6179b-1978-4ca9-a8aa-ee812893b975/page-1.jpg",
+    "duration_minutes": 18,
+    "page_count": 18,
+    "author": "Book Dash",
+    "license": "CC-BY 4.0",
+    "source": "https://bookdash.org/books/clever-pig",
+    "published": true,
+    "created_at": "2025-01-01T00:00:00Z"
+  },
+  {
+    "story_id": "b2e10487-3277-4a90-a0bf-8c7fd4265a01",
+    "title": "The Things That Really Matter",
+    "age_range": "5-7",
+    "categories": [
+      "animals",
+      "family",
+      "adventure",
+      "friendship",
+      "food"
+    ],
+    "tags": [
+      "bookdash"
+    ],
+    "s3_key": "stories/b2e10487-3277-4a90-a0bf-8c7fd4265a01.json",
+    "thumbnail_url": "https://cdn.twinklepod.com/images/b2e10487-3277-4a90-a0bf-8c7fd4265a01/page-1.jpg",
+    "duration_minutes": 18,
+    "page_count": 18,
+    "author": "Book Dash",
+    "license": "CC-BY 4.0",
+    "source": "https://bookdash.org/books/the-things-that-really-matter",
+    "published": true,
+    "created_at": "2025-01-01T00:00:00Z"
+  },
+  {
+    "story_id": "b4f0f152-7ee3-4ff3-9928-324352d99099",
+    "title": "Zibu and Zizo",
+    "age_range": "5-7",
+    "categories": [
+      "animals",
+      "family",
+      "friendship",
+      "food"
+    ],
+    "tags": [
+      "bookdash"
+    ],
+    "s3_key": "stories/b4f0f152-7ee3-4ff3-9928-324352d99099.json",
+    "thumbnail_url": "https://cdn.twinklepod.com/images/b4f0f152-7ee3-4ff3-9928-324352d99099/page-1.jpg",
+    "duration_minutes": 18,
+    "page_count": 18,
+    "author": "Book Dash",
+    "license": "CC-BY 4.0",
+    "source": "https://bookdash.org/books/zibu-and-zizo",
+    "published": true,
+    "created_at": "2025-01-01T00:00:00Z"
+  },
+  {
+    "story_id": "b5a01b5d-ab28-4b5c-8eaf-c77e55ea09f3",
+    "title": "Karabo's Question",
+    "age_range": "5-7",
+    "categories": [
+      "animals",
+      "family",
+      "adventure",
+      "friendship",
+      "learning",
+      "food"
+    ],
+    "tags": [
+      "bookdash"
+    ],
+    "s3_key": "stories/b5a01b5d-ab28-4b5c-8eaf-c77e55ea09f3.json",
+    "thumbnail_url": "https://cdn.twinklepod.com/images/b5a01b5d-ab28-4b5c-8eaf-c77e55ea09f3/page-1.jpg",
+    "duration_minutes": 18,
+    "page_count": 18,
+    "author": "Book Dash",
+    "license": "CC-BY 4.0",
+    "source": "https://bookdash.org/books/karabos-question",
+    "published": true,
+    "created_at": "2025-01-01T00:00:00Z"
+  },
+  {
+    "story_id": "b5dc5f0a-e34b-4541-b31c-86b9fdb22152",
+    "title": "Sam's Treasures",
+    "age_range": "5-7",
+    "categories": [
+      "animals",
+      "friendship",
+      "food"
+    ],
+    "tags": [
+      "bookdash"
+    ],
+    "s3_key": "stories/b5dc5f0a-e34b-4541-b31c-86b9fdb22152.json",
+    "thumbnail_url": "https://cdn.twinklepod.com/images/b5dc5f0a-e34b-4541-b31c-86b9fdb22152/page-1.jpg",
+    "duration_minutes": 18,
+    "page_count": 18,
+    "author": "Book Dash",
+    "license": "CC-BY 4.0",
+    "source": "https://bookdash.org/books/sams-treasures",
+    "published": true,
+    "created_at": "2025-01-01T00:00:00Z"
+  },
+  {
+    "story_id": "b6cdbf0a-d7fa-4cc7-bcc0-fb59e02aa485",
+    "title": "Miss Tiny Chef",
+    "age_range": "5-7",
+    "categories": [
+      "animals",
+      "friendship",
+      "emotions",
+      "learning",
+      "food"
+    ],
+    "tags": [
+      "bookdash"
+    ],
+    "s3_key": "stories/b6cdbf0a-d7fa-4cc7-bcc0-fb59e02aa485.json",
+    "thumbnail_url": "https://cdn.twinklepod.com/images/b6cdbf0a-d7fa-4cc7-bcc0-fb59e02aa485/page-1.jpg",
+    "duration_minutes": 18,
+    "page_count": 18,
+    "author": "Book Dash",
+    "license": "CC-BY 4.0",
+    "source": "https://bookdash.org/books/miss-tiny-chef",
+    "published": true,
+    "created_at": "2025-01-01T00:00:00Z"
+  },
+  {
+    "story_id": "b706490b-2ca9-42fb-bb54-1e85630a6588",
+    "title": "The Baby Book",
+    "age_range": "4-6",
+    "categories": [
+      "animals",
+      "bedtime",
+      "family",
+      "adventure",
+      "friendship",
+      "emotions",
+      "learning",
+      "food"
+    ],
+    "tags": [
+      "bookdash"
+    ],
+    "s3_key": "stories/b706490b-2ca9-42fb-bb54-1e85630a6588.json",
+    "thumbnail_url": "https://cdn.twinklepod.com/images/b706490b-2ca9-42fb-bb54-1e85630a6588/page-1.jpg",
+    "duration_minutes": 18,
+    "page_count": 18,
+    "author": "Book Dash",
+    "license": "CC-BY 4.0",
+    "source": "https://bookdash.org/books/the-baby-book",
+    "published": true,
+    "created_at": "2025-01-01T00:00:00Z"
+  },
+  {
+    "story_id": "b7e33061-b31b-4384-ba10-54098c939f87",
+    "title": "Julia Loves Books",
+    "age_range": "5-7",
+    "categories": [
+      "animals",
+      "friendship",
+      "emotions",
+      "learning",
+      "food"
+    ],
+    "tags": [
+      "bookdash"
+    ],
+    "s3_key": "stories/b7e33061-b31b-4384-ba10-54098c939f87.json",
+    "thumbnail_url": "https://cdn.twinklepod.com/images/b7e33061-b31b-4384-ba10-54098c939f87/page-1.jpg",
+    "duration_minutes": 18,
+    "page_count": 18,
+    "author": "Book Dash",
+    "license": "CC-BY 4.0",
+    "source": "https://bookdash.org/books/julia-loves-books",
+    "published": true,
+    "created_at": "2025-01-01T00:00:00Z"
+  },
+  {
+    "story_id": "b87e7e1e-79fe-47c3-8b23-db5a3c9fac2b",
+    "title": "My Dream in the Drawer",
+    "age_range": "4-6",
+    "categories": [
+      "animals",
+      "bedtime",
+      "friendship",
+      "food"
+    ],
+    "tags": [
+      "bookdash"
+    ],
+    "s3_key": "stories/b87e7e1e-79fe-47c3-8b23-db5a3c9fac2b.json",
+    "thumbnail_url": "https://cdn.twinklepod.com/images/b87e7e1e-79fe-47c3-8b23-db5a3c9fac2b/page-1.jpg",
+    "duration_minutes": 18,
+    "page_count": 18,
+    "author": "Book Dash",
+    "license": "CC-BY 4.0",
+    "source": "https://bookdash.org/books/my-dream-in-the-drawer",
+    "published": true,
+    "created_at": "2025-01-01T00:00:00Z"
+  },
+  {
+    "story_id": "b944254c-5083-4b4e-897e-9ac9867ca1c9",
+    "title": "There Must be a Rainbow",
+    "age_range": "5-7",
+    "categories": [
+      "animals",
+      "friendship",
+      "food"
+    ],
+    "tags": [
+      "bookdash"
+    ],
+    "s3_key": "stories/b944254c-5083-4b4e-897e-9ac9867ca1c9.json",
+    "thumbnail_url": "https://cdn.twinklepod.com/images/b944254c-5083-4b4e-897e-9ac9867ca1c9/page-1.jpg",
+    "duration_minutes": 18,
+    "page_count": 18,
+    "author": "Book Dash",
+    "license": "CC-BY 4.0",
+    "source": "https://bookdash.org/books/there-must-be-a-rainbow",
+    "published": true,
+    "created_at": "2025-01-01T00:00:00Z"
+  },
+  {
+    "story_id": "bb3a3833-7829-4833-b663-a0a1edac69d7",
+    "title": "Knight Times",
+    "age_range": "5-7",
+    "categories": [
+      "animals",
+      "bedtime",
+      "friendship",
+      "food"
+    ],
+    "tags": [
+      "bookdash"
+    ],
+    "s3_key": "stories/bb3a3833-7829-4833-b663-a0a1edac69d7.json",
+    "thumbnail_url": "https://cdn.twinklepod.com/images/bb3a3833-7829-4833-b663-a0a1edac69d7/page-1.jpg",
+    "duration_minutes": 18,
+    "page_count": 18,
+    "author": "Book Dash",
+    "license": "CC-BY 4.0",
+    "source": "https://bookdash.org/books/knight-times",
+    "published": true,
+    "created_at": "2025-01-01T00:00:00Z"
+  },
+  {
+    "story_id": "bbef86d0-d479-4a4d-aa3c-2645d7fff7fc",
+    "title": "Woof-woof!",
+    "age_range": "5-7",
+    "categories": [
+      "animals",
+      "friendship",
+      "food"
+    ],
+    "tags": [
+      "bookdash"
+    ],
+    "s3_key": "stories/bbef86d0-d479-4a4d-aa3c-2645d7fff7fc.json",
+    "thumbnail_url": "https://cdn.twinklepod.com/images/bbef86d0-d479-4a4d-aa3c-2645d7fff7fc/page-1.jpg",
+    "duration_minutes": 18,
+    "page_count": 18,
+    "author": "Book Dash",
+    "license": "CC-BY 4.0",
+    "source": "https://bookdash.org/books/woof-woof",
+    "published": true,
+    "created_at": "2025-01-01T00:00:00Z"
+  },
+  {
+    "story_id": "bccda6cd-1ecb-42b2-b93e-fa55307dc5bb",
+    "title": "Bathtub Safari",
+    "age_range": "5-7",
+    "categories": [
+      "animals",
+      "bedtime",
+      "friendship",
+      "food"
+    ],
+    "tags": [
+      "bookdash"
+    ],
+    "s3_key": "stories/bccda6cd-1ecb-42b2-b93e-fa55307dc5bb.json",
+    "thumbnail_url": "https://cdn.twinklepod.com/images/bccda6cd-1ecb-42b2-b93e-fa55307dc5bb/page-1.jpg",
+    "duration_minutes": 18,
+    "page_count": 18,
+    "author": "Book Dash",
+    "license": "CC-BY 4.0",
+    "source": "https://bookdash.org/books/bathtub-safari",
+    "published": true,
+    "created_at": "2025-01-01T00:00:00Z"
+  },
+  {
+    "story_id": "bd7522a2-f6c3-41c5-a98d-982e4bc2bd49",
+    "title": "Sbu's Special Shoes",
+    "age_range": "5-7",
+    "categories": [
+      "animals",
+      "family",
+      "friendship",
+      "food"
+    ],
+    "tags": [
+      "bookdash"
+    ],
+    "s3_key": "stories/bd7522a2-f6c3-41c5-a98d-982e4bc2bd49.json",
+    "thumbnail_url": "https://cdn.twinklepod.com/images/bd7522a2-f6c3-41c5-a98d-982e4bc2bd49/page-1.jpg",
+    "duration_minutes": 18,
+    "page_count": 18,
+    "author": "Book Dash",
+    "license": "CC-BY 4.0",
+    "source": "https://bookdash.org/books/sbus-special-shoes",
+    "published": true,
+    "created_at": "2025-01-01T00:00:00Z"
+  },
+  {
+    "story_id": "be32b726-baa4-4bc2-bf1a-7e9cf50ff03a",
+    "title": "How do you eat?",
+    "age_range": "5-7",
+    "categories": [
+      "animals",
+      "friendship",
+      "learning",
+      "food"
+    ],
+    "tags": [
+      "bookdash"
+    ],
+    "s3_key": "stories/be32b726-baa4-4bc2-bf1a-7e9cf50ff03a.json",
+    "thumbnail_url": "https://cdn.twinklepod.com/images/be32b726-baa4-4bc2-bf1a-7e9cf50ff03a/page-1.jpg",
+    "duration_minutes": 18,
+    "page_count": 18,
+    "author": "Book Dash",
+    "license": "CC-BY 4.0",
+    "source": "https://bookdash.org/books/how-do-you-eat",
+    "published": true,
+    "created_at": "2025-01-01T00:00:00Z"
+  },
+  {
+    "story_id": "c0acb423-d1b8-4847-a75c-e34de3350f83",
+    "title": "Amazing Daisy!",
+    "age_range": "5-7",
+    "categories": [
+      "animals",
+      "family",
+      "friendship",
+      "food"
+    ],
+    "tags": [
+      "bookdash"
+    ],
+    "s3_key": "stories/c0acb423-d1b8-4847-a75c-e34de3350f83.json",
+    "thumbnail_url": "https://cdn.twinklepod.com/images/c0acb423-d1b8-4847-a75c-e34de3350f83/page-1.jpg",
+    "duration_minutes": 18,
+    "page_count": 18,
+    "author": "Book Dash",
+    "license": "CC-BY 4.0",
+    "source": "https://bookdash.org/books/amazing-daisy",
+    "published": true,
+    "created_at": "2025-01-01T00:00:00Z"
+  },
+  {
+    "story_id": "c2aa3741-b9ca-4520-b87e-07908bb61e0a",
+    "title": "Tlotlego\u2019s Tea Party",
+    "age_range": "5-7",
+    "categories": [
+      "animals",
+      "family",
+      "friendship",
+      "food"
+    ],
+    "tags": [
+      "bookdash"
+    ],
+    "s3_key": "stories/c2aa3741-b9ca-4520-b87e-07908bb61e0a.json",
+    "thumbnail_url": "https://cdn.twinklepod.com/images/c2aa3741-b9ca-4520-b87e-07908bb61e0a/page-1.jpg",
+    "duration_minutes": 18,
+    "page_count": 18,
+    "author": "Book Dash",
+    "license": "CC-BY 4.0",
+    "source": "https://bookdash.org/books/tlotlegos-tea-party",
+    "published": true,
+    "created_at": "2025-01-01T00:00:00Z"
+  },
+  {
+    "story_id": "c32006d4-4198-44f3-a34f-6a1c62c5e0fc",
+    "title": "When I grow up",
+    "age_range": "5-7",
+    "categories": [
+      "animals",
+      "friendship",
+      "food"
+    ],
+    "tags": [
+      "bookdash"
+    ],
+    "s3_key": "stories/c32006d4-4198-44f3-a34f-6a1c62c5e0fc.json",
+    "thumbnail_url": "https://cdn.twinklepod.com/images/c32006d4-4198-44f3-a34f-6a1c62c5e0fc/page-1.jpg",
+    "duration_minutes": 18,
+    "page_count": 18,
+    "author": "Book Dash",
+    "license": "CC-BY 4.0",
+    "source": "https://bookdash.org/books/when-i-grow-up",
+    "published": true,
+    "created_at": "2025-01-01T00:00:00Z"
+  },
+  {
+    "story_id": "c426a7c8-3b76-4a5b-b089-bf4a9b6fe360",
+    "title": "There's a Fire on the Mountain",
+    "age_range": "5-7",
+    "categories": [
+      "animals",
+      "adventure",
+      "friendship",
+      "emotions",
+      "food"
+    ],
+    "tags": [
+      "bookdash"
+    ],
+    "s3_key": "stories/c426a7c8-3b76-4a5b-b089-bf4a9b6fe360.json",
+    "thumbnail_url": "https://cdn.twinklepod.com/images/c426a7c8-3b76-4a5b-b089-bf4a9b6fe360/page-1.jpg",
+    "duration_minutes": 18,
+    "page_count": 18,
+    "author": "Book Dash",
+    "license": "CC-BY 4.0",
+    "source": "https://bookdash.org/books/theres-a-fire-on-the-mountain",
+    "published": true,
+    "created_at": "2025-01-01T00:00:00Z"
+  },
+  {
+    "story_id": "c5fa2258-5079-4b15-beb7-2c75918b6009",
+    "title": "Nomvundla and the Chilli-Eating Contest",
+    "age_range": "5-7",
+    "categories": [
+      "animals",
+      "friendship",
+      "food"
+    ],
+    "tags": [
+      "bookdash"
+    ],
+    "s3_key": "stories/c5fa2258-5079-4b15-beb7-2c75918b6009.json",
+    "thumbnail_url": "https://cdn.twinklepod.com/images/c5fa2258-5079-4b15-beb7-2c75918b6009/page-1.jpg",
+    "duration_minutes": 18,
+    "page_count": 18,
+    "author": "Book Dash",
+    "license": "CC-BY 4.0",
+    "source": "https://bookdash.org/books/nomvundla-and-the-chilli-eating-contest",
+    "published": true,
+    "created_at": "2025-01-01T00:00:00Z"
+  },
+  {
+    "story_id": "c5ff0e24-00d9-48fd-9674-7aa29612fffd",
+    "title": "I Will Help You",
+    "age_range": "5-7",
+    "categories": [
+      "animals",
+      "family",
+      "friendship",
+      "food"
+    ],
+    "tags": [
+      "bookdash"
+    ],
+    "s3_key": "stories/c5ff0e24-00d9-48fd-9674-7aa29612fffd.json",
+    "thumbnail_url": "https://cdn.twinklepod.com/images/c5ff0e24-00d9-48fd-9674-7aa29612fffd/page-1.jpg",
+    "duration_minutes": 18,
+    "page_count": 18,
+    "author": "Book Dash",
+    "license": "CC-BY 4.0",
+    "source": "https://bookdash.org/books/i-will-help-you",
+    "published": true,
+    "created_at": "2025-01-01T00:00:00Z"
+  },
+  {
+    "story_id": "c7224777-96d9-4668-be42-a40b4dd03352",
+    "title": "The Great Cake Contest",
+    "age_range": "5-7",
+    "categories": [
+      "animals",
+      "friendship",
+      "emotions",
+      "food"
+    ],
+    "tags": [
+      "bookdash"
+    ],
+    "s3_key": "stories/c7224777-96d9-4668-be42-a40b4dd03352.json",
+    "thumbnail_url": "https://cdn.twinklepod.com/images/c7224777-96d9-4668-be42-a40b4dd03352/page-1.jpg",
+    "duration_minutes": 18,
+    "page_count": 18,
+    "author": "Book Dash",
+    "license": "CC-BY 4.0",
+    "source": "https://bookdash.org/books/the-great-cake-contest",
+    "published": true,
+    "created_at": "2025-01-01T00:00:00Z"
+  },
+  {
+    "story_id": "c74058d3-2360-4551-a28c-efe940221f93",
+    "title": "I don't want to go to sleep!",
+    "age_range": "5-7",
+    "categories": [
+      "animals",
+      "bedtime",
+      "friendship",
+      "food"
+    ],
+    "tags": [
+      "bookdash"
+    ],
+    "s3_key": "stories/c74058d3-2360-4551-a28c-efe940221f93.json",
+    "thumbnail_url": "https://cdn.twinklepod.com/images/c74058d3-2360-4551-a28c-efe940221f93/page-1.jpg",
+    "duration_minutes": 18,
+    "page_count": 18,
+    "author": "Book Dash",
+    "license": "CC-BY 4.0",
+    "source": "https://bookdash.org/books/i-dont-want-to-go-to-sleep",
+    "published": true,
+    "created_at": "2025-01-01T00:00:00Z"
+  },
+  {
+    "story_id": "c75ce2cb-667e-4475-b024-489fa9ce2708",
+    "title": "How to Tame a Monster",
+    "age_range": "5-7",
+    "categories": [
+      "animals",
+      "family",
+      "friendship",
+      "fantasy",
+      "food"
+    ],
+    "tags": [
+      "bookdash"
+    ],
+    "s3_key": "stories/c75ce2cb-667e-4475-b024-489fa9ce2708.json",
+    "thumbnail_url": "https://cdn.twinklepod.com/images/c75ce2cb-667e-4475-b024-489fa9ce2708/page-1.jpg",
+    "duration_minutes": 18,
+    "page_count": 18,
+    "author": "Book Dash",
+    "license": "CC-BY 4.0",
+    "source": "https://bookdash.org/books/how-to-tame-a-monster",
+    "published": true,
+    "created_at": "2025-01-01T00:00:00Z"
+  },
+  {
+    "story_id": "c8fb3c22-6545-4b7e-a5af-791d2f14421c",
+    "title": "The monster must go!",
+    "age_range": "5-7",
+    "categories": [
+      "animals",
+      "friendship",
+      "learning",
+      "fantasy",
+      "food"
+    ],
+    "tags": [
+      "bookdash"
+    ],
+    "s3_key": "stories/c8fb3c22-6545-4b7e-a5af-791d2f14421c.json",
+    "thumbnail_url": "https://cdn.twinklepod.com/images/c8fb3c22-6545-4b7e-a5af-791d2f14421c/page-1.jpg",
+    "duration_minutes": 18,
+    "page_count": 18,
+    "author": "Book Dash",
+    "license": "CC-BY 4.0",
+    "source": "https://bookdash.org/books/the-monster-must-go",
+    "published": true,
+    "created_at": "2025-01-01T00:00:00Z"
+  },
+  {
+    "story_id": "caf38a8a-ad51-4c4f-a921-e5c06823d52a",
+    "title": "Best Friends",
+    "age_range": "5-7",
+    "categories": [
+      "animals",
+      "friendship",
+      "learning",
+      "food"
+    ],
+    "tags": [
+      "bookdash"
+    ],
+    "s3_key": "stories/caf38a8a-ad51-4c4f-a921-e5c06823d52a.json",
+    "thumbnail_url": "https://cdn.twinklepod.com/images/caf38a8a-ad51-4c4f-a921-e5c06823d52a/page-1.jpg",
+    "duration_minutes": 18,
+    "page_count": 18,
+    "author": "Book Dash",
+    "license": "CC-BY 4.0",
+    "source": "https://bookdash.org/books/best-friends",
+    "published": true,
+    "created_at": "2025-01-01T00:00:00Z"
+  },
+  {
+    "story_id": "cb166be2-e4d1-4907-b677-b1e69649fc32",
+    "title": "Lions are Always Brave",
+    "age_range": "5-7",
+    "categories": [
+      "animals",
+      "friendship",
+      "emotions",
+      "food"
+    ],
+    "tags": [
+      "bookdash"
+    ],
+    "s3_key": "stories/cb166be2-e4d1-4907-b677-b1e69649fc32.json",
+    "thumbnail_url": "https://cdn.twinklepod.com/images/cb166be2-e4d1-4907-b677-b1e69649fc32/page-1.jpg",
+    "duration_minutes": 18,
+    "page_count": 18,
+    "author": "Book Dash",
+    "license": "CC-BY 4.0",
+    "source": "https://bookdash.org/books/lions-are-always-brave",
+    "published": true,
+    "created_at": "2025-01-01T00:00:00Z"
+  },
+  {
+    "story_id": "cca85992-871a-4bc4-aa8f-eeeac792c946",
+    "title": "Egg",
+    "age_range": "5-7",
+    "categories": [
+      "animals",
+      "adventure",
+      "friendship",
+      "food"
+    ],
+    "tags": [
+      "bookdash"
+    ],
+    "s3_key": "stories/cca85992-871a-4bc4-aa8f-eeeac792c946.json",
+    "thumbnail_url": "https://cdn.twinklepod.com/images/cca85992-871a-4bc4-aa8f-eeeac792c946/page-1.jpg",
+    "duration_minutes": 18,
+    "page_count": 18,
+    "author": "Book Dash",
+    "license": "CC-BY 4.0",
+    "source": "https://bookdash.org/books/egg",
+    "published": true,
+    "created_at": "2025-01-01T00:00:00Z"
+  },
+  {
+    "story_id": "d00b647b-5e7f-47cc-ac3e-88c2a3adaa4a",
+    "title": "What if...?",
+    "age_range": "5-7",
+    "categories": [
+      "animals",
+      "friendship",
+      "emotions",
+      "food"
+    ],
+    "tags": [
+      "bookdash"
+    ],
+    "s3_key": "stories/d00b647b-5e7f-47cc-ac3e-88c2a3adaa4a.json",
+    "thumbnail_url": "https://cdn.twinklepod.com/images/d00b647b-5e7f-47cc-ac3e-88c2a3adaa4a/page-1.jpg",
+    "duration_minutes": 18,
+    "page_count": 18,
+    "author": "Book Dash",
+    "license": "CC-BY 4.0",
+    "source": "https://bookdash.org/books/what-if",
+    "published": true,
+    "created_at": "2025-01-01T00:00:00Z"
+  },
+  {
+    "story_id": "d08387e9-8eb9-4f2a-ad27-dc69755a9586",
+    "title": "Brave Bora",
+    "age_range": "5-7",
+    "categories": [
+      "animals",
+      "bedtime",
+      "friendship",
+      "emotions",
+      "food"
+    ],
+    "tags": [
+      "bookdash"
+    ],
+    "s3_key": "stories/d08387e9-8eb9-4f2a-ad27-dc69755a9586.json",
+    "thumbnail_url": "https://cdn.twinklepod.com/images/d08387e9-8eb9-4f2a-ad27-dc69755a9586/page-1.jpg",
+    "duration_minutes": 18,
+    "page_count": 18,
+    "author": "Book Dash",
+    "license": "CC-BY 4.0",
+    "source": "https://bookdash.org/books/brave-bora",
+    "published": true,
+    "created_at": "2025-01-01T00:00:00Z"
+  },
+  {
+    "story_id": "d17f8015-4705-494a-b821-c7d532438a28",
+    "title": "Thuli, Special and the Secret",
+    "age_range": "5-7",
+    "categories": [
+      "animals",
+      "family",
+      "friendship",
+      "food"
+    ],
+    "tags": [
+      "bookdash"
+    ],
+    "s3_key": "stories/d17f8015-4705-494a-b821-c7d532438a28.json",
+    "thumbnail_url": "https://cdn.twinklepod.com/images/d17f8015-4705-494a-b821-c7d532438a28/page-1.jpg",
+    "duration_minutes": 18,
+    "page_count": 18,
+    "author": "Book Dash",
+    "license": "CC-BY 4.0",
+    "source": "https://bookdash.org/books/thuli-special-and-the-secret",
+    "published": true,
+    "created_at": "2025-01-01T00:00:00Z"
+  },
+  {
+    "story_id": "d210d4f9-bfa5-49bc-8aa4-621b49321025",
+    "title": "Londi the Dreaming Girl",
+    "age_range": "5-7",
+    "categories": [
+      "animals",
+      "bedtime",
+      "friendship",
+      "emotions",
+      "food"
+    ],
+    "tags": [
+      "bookdash"
+    ],
+    "s3_key": "stories/d210d4f9-bfa5-49bc-8aa4-621b49321025.json",
+    "thumbnail_url": "https://cdn.twinklepod.com/images/d210d4f9-bfa5-49bc-8aa4-621b49321025/page-1.jpg",
+    "duration_minutes": 18,
+    "page_count": 18,
+    "author": "Book Dash",
+    "license": "CC-BY 4.0",
+    "source": "https://bookdash.org/books/londi-the-dreaming-girl",
+    "published": true,
+    "created_at": "2025-01-01T00:00:00Z"
+  },
+  {
+    "story_id": "d28bc128-cba7-4df7-9616-08f70268fa7c",
+    "title": "Senzo and the Sun",
+    "age_range": "5-7",
+    "categories": [
+      "animals",
+      "family",
+      "friendship",
+      "food"
+    ],
+    "tags": [
+      "bookdash"
+    ],
+    "s3_key": "stories/d28bc128-cba7-4df7-9616-08f70268fa7c.json",
+    "thumbnail_url": "https://cdn.twinklepod.com/images/d28bc128-cba7-4df7-9616-08f70268fa7c/page-1.jpg",
+    "duration_minutes": 18,
+    "page_count": 18,
+    "author": "Book Dash",
+    "license": "CC-BY 4.0",
+    "source": "https://bookdash.org/books/senzo-and-the-sun",
+    "published": true,
+    "created_at": "2025-01-01T00:00:00Z"
+  },
+  {
+    "story_id": "d2f9c739-fd6d-4d1c-91a1-e5896d0d1f7c",
+    "title": "A Day Out",
+    "age_range": "5-7",
+    "categories": [
+      "animals",
+      "friendship",
+      "food"
+    ],
+    "tags": [
+      "bookdash"
+    ],
+    "s3_key": "stories/d2f9c739-fd6d-4d1c-91a1-e5896d0d1f7c.json",
+    "thumbnail_url": "https://cdn.twinklepod.com/images/d2f9c739-fd6d-4d1c-91a1-e5896d0d1f7c/page-1.jpg",
+    "duration_minutes": 18,
+    "page_count": 18,
+    "author": "Book Dash",
+    "license": "CC-BY 4.0",
+    "source": "https://bookdash.org/books/a-day-out",
+    "published": true,
+    "created_at": "2025-01-01T00:00:00Z"
+  },
+  {
+    "story_id": "d376f4ac-b434-4fbf-8e3e-7bc9a5048de1",
+    "title": "Shhhhh!",
+    "age_range": "5-7",
+    "categories": [
+      "animals",
+      "bedtime",
+      "family",
+      "friendship",
+      "food"
+    ],
+    "tags": [
+      "bookdash"
+    ],
+    "s3_key": "stories/d376f4ac-b434-4fbf-8e3e-7bc9a5048de1.json",
+    "thumbnail_url": "https://cdn.twinklepod.com/images/d376f4ac-b434-4fbf-8e3e-7bc9a5048de1/page-1.jpg",
+    "duration_minutes": 18,
+    "page_count": 18,
+    "author": "Book Dash",
+    "license": "CC-BY 4.0",
+    "source": "https://bookdash.org/books/shhhhh",
+    "published": true,
+    "created_at": "2025-01-01T00:00:00Z"
+  },
+  {
+    "story_id": "d44bbcd6-5e65-40e9-add7-58428ce69bdf",
+    "title": "Zanele sees numbers",
+    "age_range": "5-7",
+    "categories": [
+      "animals",
+      "friendship",
+      "learning",
+      "food"
+    ],
+    "tags": [
+      "bookdash"
+    ],
+    "s3_key": "stories/d44bbcd6-5e65-40e9-add7-58428ce69bdf.json",
+    "thumbnail_url": "https://cdn.twinklepod.com/images/d44bbcd6-5e65-40e9-add7-58428ce69bdf/page-1.jpg",
+    "duration_minutes": 18,
+    "page_count": 18,
+    "author": "Book Dash",
+    "license": "CC-BY 4.0",
+    "source": "https://bookdash.org/books/zanele-sees-numbers",
+    "published": true,
+    "created_at": "2025-01-01T00:00:00Z"
+  },
+  {
+    "story_id": "d61fffd9-b816-4320-a990-b65c4e0a3d81",
+    "title": "Look out, Luthando!",
+    "age_range": "5-7",
+    "categories": [
+      "animals",
+      "bedtime",
+      "friendship",
+      "food"
+    ],
+    "tags": [
+      "bookdash"
+    ],
+    "s3_key": "stories/d61fffd9-b816-4320-a990-b65c4e0a3d81.json",
+    "thumbnail_url": "https://cdn.twinklepod.com/images/d61fffd9-b816-4320-a990-b65c4e0a3d81/page-1.jpg",
+    "duration_minutes": 18,
+    "page_count": 18,
+    "author": "Book Dash",
+    "license": "CC-BY 4.0",
+    "source": "https://bookdash.org/books/look-out-luthando",
+    "published": true,
+    "created_at": "2025-01-01T00:00:00Z"
+  },
+  {
+    "story_id": "d99b3d92-e8d1-4af4-98bc-760d4999202d",
+    "title": "The boy who only ate pancakes",
+    "age_range": "5-7",
+    "categories": [
+      "animals",
+      "friendship",
+      "emotions",
+      "food"
+    ],
+    "tags": [
+      "bookdash"
+    ],
+    "s3_key": "stories/d99b3d92-e8d1-4af4-98bc-760d4999202d.json",
+    "thumbnail_url": "https://cdn.twinklepod.com/images/d99b3d92-e8d1-4af4-98bc-760d4999202d/page-1.jpg",
+    "duration_minutes": 18,
+    "page_count": 18,
+    "author": "Book Dash",
+    "license": "CC-BY 4.0",
+    "source": "https://bookdash.org/books/the-boy-who-only-ate-pancakes",
+    "published": true,
+    "created_at": "2025-01-01T00:00:00Z"
+  },
+  {
+    "story_id": "da253146-3259-4e95-af46-fd7156c19657",
+    "title": "Scared Tumi",
+    "age_range": "5-7",
+    "categories": [
+      "animals",
+      "friendship",
+      "emotions",
+      "food"
+    ],
+    "tags": [
+      "bookdash"
+    ],
+    "s3_key": "stories/da253146-3259-4e95-af46-fd7156c19657.json",
+    "thumbnail_url": "https://cdn.twinklepod.com/images/da253146-3259-4e95-af46-fd7156c19657/page-1.jpg",
+    "duration_minutes": 18,
+    "page_count": 18,
+    "author": "Book Dash",
+    "license": "CC-BY 4.0",
+    "source": "https://bookdash.org/books/scared-tumi",
+    "published": true,
+    "created_at": "2025-01-01T00:00:00Z"
+  },
+  {
+    "story_id": "dda280ad-f0ad-4500-883c-d5305f7e468f",
+    "title": "Ouma's amazing flowers",
+    "age_range": "5-7",
+    "categories": [
+      "animals",
+      "family",
+      "friendship",
+      "learning",
+      "food"
+    ],
+    "tags": [
+      "bookdash"
+    ],
+    "s3_key": "stories/dda280ad-f0ad-4500-883c-d5305f7e468f.json",
+    "thumbnail_url": "https://cdn.twinklepod.com/images/dda280ad-f0ad-4500-883c-d5305f7e468f/page-1.jpg",
+    "duration_minutes": 18,
+    "page_count": 18,
+    "author": "Book Dash",
+    "license": "CC-BY 4.0",
+    "source": "https://bookdash.org/books/oumas-amazing-flowers",
+    "published": true,
+    "created_at": "2025-01-01T00:00:00Z"
+  },
+  {
+    "story_id": "de0a771c-2bdf-4c6c-91e7-c226b7ad12b5",
+    "title": "Lost Toy",
+    "age_range": "5-7",
+    "categories": [
+      "animals",
+      "friendship",
+      "emotions",
+      "food"
+    ],
+    "tags": [
+      "bookdash"
+    ],
+    "s3_key": "stories/de0a771c-2bdf-4c6c-91e7-c226b7ad12b5.json",
+    "thumbnail_url": "https://cdn.twinklepod.com/images/de0a771c-2bdf-4c6c-91e7-c226b7ad12b5/page-1.jpg",
+    "duration_minutes": 18,
+    "page_count": 18,
+    "author": "Book Dash",
+    "license": "CC-BY 4.0",
+    "source": "https://bookdash.org/books/lost-toy",
+    "published": true,
+    "created_at": "2025-01-01T00:00:00Z"
+  },
+  {
+    "story_id": "deed3387-093f-42b1-a26d-5a371b6d781a",
+    "title": "Where is Lulu?",
+    "age_range": "5-7",
+    "categories": [
+      "animals",
+      "friendship",
+      "food"
+    ],
+    "tags": [
+      "bookdash"
+    ],
+    "s3_key": "stories/deed3387-093f-42b1-a26d-5a371b6d781a.json",
+    "thumbnail_url": "https://cdn.twinklepod.com/images/deed3387-093f-42b1-a26d-5a371b6d781a/page-1.jpg",
+    "duration_minutes": 18,
+    "page_count": 18,
+    "author": "Book Dash",
+    "license": "CC-BY 4.0",
+    "source": "https://bookdash.org/books/where-is-lulu",
+    "published": true,
+    "created_at": "2025-01-01T00:00:00Z"
+  },
+  {
+    "story_id": "df2f22bb-f910-4deb-8d47-43769fe5ab18",
+    "title": "You! Yes You!",
+    "age_range": "5-7",
+    "categories": [
+      "animals",
+      "friendship",
+      "fantasy",
+      "food"
+    ],
+    "tags": [
+      "bookdash"
+    ],
+    "s3_key": "stories/df2f22bb-f910-4deb-8d47-43769fe5ab18.json",
+    "thumbnail_url": "https://cdn.twinklepod.com/images/df2f22bb-f910-4deb-8d47-43769fe5ab18/page-1.jpg",
+    "duration_minutes": 18,
+    "page_count": 18,
+    "author": "Book Dash",
+    "license": "CC-BY 4.0",
+    "source": "https://bookdash.org/books/you-yes-you",
+    "published": true,
+    "created_at": "2025-01-01T00:00:00Z"
+  },
+  {
+    "story_id": "e0b124e8-f590-4e9e-a3b4-5a5258f298d2",
+    "title": "Grandpa's Gold",
+    "age_range": "5-7",
+    "categories": [
+      "animals",
+      "family",
+      "friendship",
+      "food"
+    ],
+    "tags": [
+      "bookdash"
+    ],
+    "s3_key": "stories/e0b124e8-f590-4e9e-a3b4-5a5258f298d2.json",
+    "thumbnail_url": "https://cdn.twinklepod.com/images/e0b124e8-f590-4e9e-a3b4-5a5258f298d2/page-1.jpg",
+    "duration_minutes": 18,
+    "page_count": 18,
+    "author": "Book Dash",
+    "license": "CC-BY 4.0",
+    "source": "https://bookdash.org/books/grandpas-gold",
+    "published": true,
+    "created_at": "2025-01-01T00:00:00Z"
+  },
+  {
+    "story_id": "e0bf5d25-a9bd-45af-883a-f17cbeed2fd4",
+    "title": "Feathered Friends",
+    "age_range": "5-7",
+    "categories": [
+      "animals",
+      "friendship",
+      "food"
+    ],
+    "tags": [
+      "bookdash"
+    ],
+    "s3_key": "stories/e0bf5d25-a9bd-45af-883a-f17cbeed2fd4.json",
+    "thumbnail_url": "https://cdn.twinklepod.com/images/e0bf5d25-a9bd-45af-883a-f17cbeed2fd4/page-1.jpg",
+    "duration_minutes": 18,
+    "page_count": 18,
+    "author": "Book Dash",
+    "license": "CC-BY 4.0",
+    "source": "https://bookdash.org/books/feathered-friends",
+    "published": true,
+    "created_at": "2025-01-01T00:00:00Z"
+  },
+  {
+    "story_id": "e10a0696-7905-4b97-91a0-8db2f34fa5e9",
+    "title": "An unexpected adventure",
+    "age_range": "5-7",
+    "categories": [
+      "animals",
+      "friendship",
+      "food"
+    ],
+    "tags": [
+      "bookdash"
+    ],
+    "s3_key": "stories/e10a0696-7905-4b97-91a0-8db2f34fa5e9.json",
+    "thumbnail_url": "https://cdn.twinklepod.com/images/e10a0696-7905-4b97-91a0-8db2f34fa5e9/page-1.jpg",
+    "duration_minutes": 18,
+    "page_count": 18,
+    "author": "Book Dash",
+    "license": "CC-BY 4.0",
+    "source": "https://bookdash.org/books/an-unexpected-adventure",
+    "published": true,
+    "created_at": "2025-01-01T00:00:00Z"
+  },
+  {
+    "story_id": "e12ba15b-5334-4bdd-8a01-63506f58b5af",
+    "title": "Sing to me",
+    "age_range": "5-7",
+    "categories": [
+      "animals",
+      "family",
+      "friendship",
+      "emotions",
+      "food"
+    ],
+    "tags": [
+      "bookdash"
+    ],
+    "s3_key": "stories/e12ba15b-5334-4bdd-8a01-63506f58b5af.json",
+    "thumbnail_url": "https://cdn.twinklepod.com/images/e12ba15b-5334-4bdd-8a01-63506f58b5af/page-1.jpg",
+    "duration_minutes": 18,
+    "page_count": 18,
+    "author": "Book Dash",
+    "license": "CC-BY 4.0",
+    "source": "https://bookdash.org/books/sing-to-me",
+    "published": true,
+    "created_at": "2025-01-01T00:00:00Z"
+  },
+  {
+    "story_id": "e463b6c0-5d64-4e27-bea6-b9e0dd547dd9",
+    "title": "Sleepy Mr Sloth",
+    "age_range": "5-7",
+    "categories": [
+      "animals",
+      "bedtime",
+      "adventure",
+      "friendship",
+      "food"
+    ],
+    "tags": [
+      "bookdash"
+    ],
+    "s3_key": "stories/e463b6c0-5d64-4e27-bea6-b9e0dd547dd9.json",
+    "thumbnail_url": "https://cdn.twinklepod.com/images/e463b6c0-5d64-4e27-bea6-b9e0dd547dd9/page-1.jpg",
+    "duration_minutes": 19,
+    "page_count": 19,
+    "author": "Book Dash",
+    "license": "CC-BY 4.0",
+    "source": "https://bookdash.org/books/sleepy-mr-sloth",
+    "published": true,
+    "created_at": "2025-01-01T00:00:00Z"
+  },
+  {
+    "story_id": "e5134119-020d-4bfa-8105-a937a176b365",
+    "title": "My Special Hair",
+    "age_range": "5-7",
+    "categories": [
+      "animals",
+      "friendship",
+      "food"
+    ],
+    "tags": [
+      "bookdash"
+    ],
+    "s3_key": "stories/e5134119-020d-4bfa-8105-a937a176b365.json",
+    "thumbnail_url": "https://cdn.twinklepod.com/images/e5134119-020d-4bfa-8105-a937a176b365/page-1.jpg",
+    "duration_minutes": 18,
+    "page_count": 18,
+    "author": "Book Dash",
+    "license": "CC-BY 4.0",
+    "source": "https://bookdash.org/books/my-special-hair",
+    "published": true,
+    "created_at": "2025-01-01T00:00:00Z"
+  },
+  {
+    "story_id": "e5b864aa-98eb-4ed1-b746-38e6506a083a",
+    "title": "Wiggle Jiggle",
+    "age_range": "5-7",
+    "categories": [
+      "animals",
+      "friendship",
+      "food"
+    ],
+    "tags": [
+      "bookdash"
+    ],
+    "s3_key": "stories/e5b864aa-98eb-4ed1-b746-38e6506a083a.json",
+    "thumbnail_url": "https://cdn.twinklepod.com/images/e5b864aa-98eb-4ed1-b746-38e6506a083a/page-1.jpg",
+    "duration_minutes": 18,
+    "page_count": 18,
+    "author": "Book Dash",
+    "license": "CC-BY 4.0",
+    "source": "https://bookdash.org/books/wiggle-jiggle",
+    "published": true,
+    "created_at": "2025-01-01T00:00:00Z"
+  },
+  {
+    "story_id": "e5fa6917-6ee1-4216-8216-fdc9148d6797",
+    "title": "Who Took My Shoe?",
+    "age_range": "5-7",
+    "categories": [
+      "animals",
+      "friendship",
+      "learning",
+      "food"
+    ],
+    "tags": [
+      "bookdash"
+    ],
+    "s3_key": "stories/e5fa6917-6ee1-4216-8216-fdc9148d6797.json",
+    "thumbnail_url": "https://cdn.twinklepod.com/images/e5fa6917-6ee1-4216-8216-fdc9148d6797/page-1.jpg",
+    "duration_minutes": 18,
+    "page_count": 18,
+    "author": "Book Dash",
+    "license": "CC-BY 4.0",
+    "source": "https://bookdash.org/books/who-took-my-shoe",
+    "published": true,
+    "created_at": "2025-01-01T00:00:00Z"
+  },
+  {
+    "story_id": "e825f3c6-2527-45a2-ae85-4d5a06b71689",
+    "title": "Searching for the Spirit of Spring",
+    "age_range": "5-7",
+    "categories": [
+      "animals",
+      "friendship",
+      "food"
+    ],
+    "tags": [
+      "bookdash"
+    ],
+    "s3_key": "stories/e825f3c6-2527-45a2-ae85-4d5a06b71689.json",
+    "thumbnail_url": "https://cdn.twinklepod.com/images/e825f3c6-2527-45a2-ae85-4d5a06b71689/page-1.jpg",
+    "duration_minutes": 18,
+    "page_count": 18,
+    "author": "Book Dash",
+    "license": "CC-BY 4.0",
+    "source": "https://bookdash.org/books/searching-for-the-spirit-of-spring",
+    "published": true,
+    "created_at": "2025-01-01T00:00:00Z"
+  },
+  {
+    "story_id": "e861d4dd-bbe8-43f9-9ed3-80200615f124",
+    "title": "The fish and chicken\u2019s wedding",
+    "age_range": "5-7",
+    "categories": [
+      "animals",
+      "bedtime",
+      "friendship",
+      "food"
+    ],
+    "tags": [
+      "bookdash"
+    ],
+    "s3_key": "stories/e861d4dd-bbe8-43f9-9ed3-80200615f124.json",
+    "thumbnail_url": "https://cdn.twinklepod.com/images/e861d4dd-bbe8-43f9-9ed3-80200615f124/page-1.jpg",
+    "duration_minutes": 1,
+    "page_count": 1,
+    "author": "Book Dash",
+    "license": "CC-BY 4.0",
+    "source": "https://bookdash.org/books/the-fish-and-chickens-wedding",
+    "published": true,
+    "created_at": "2025-01-01T00:00:00Z"
+  },
+  {
+    "story_id": "e9c72cec-6ae9-4276-ae28-e8589ab30ffa",
+    "title": "What's In The Pot?",
+    "age_range": "5-7",
+    "categories": [
+      "animals",
+      "family",
+      "friendship",
+      "food"
+    ],
+    "tags": [
+      "bookdash"
+    ],
+    "s3_key": "stories/e9c72cec-6ae9-4276-ae28-e8589ab30ffa.json",
+    "thumbnail_url": "https://cdn.twinklepod.com/images/e9c72cec-6ae9-4276-ae28-e8589ab30ffa/page-1.jpg",
+    "duration_minutes": 18,
+    "page_count": 18,
+    "author": "Book Dash",
+    "license": "CC-BY 4.0",
+    "source": "https://bookdash.org/books/whats-in-the-pot",
+    "published": true,
+    "created_at": "2025-01-01T00:00:00Z"
+  },
+  {
+    "story_id": "ec1b7260-d0dd-4f44-a530-d8a61d850d3d",
+    "title": "The New Road",
+    "age_range": "5-7",
+    "categories": [
+      "animals",
+      "adventure",
+      "friendship",
+      "emotions",
+      "food"
+    ],
+    "tags": [
+      "bookdash"
+    ],
+    "s3_key": "stories/ec1b7260-d0dd-4f44-a530-d8a61d850d3d.json",
+    "thumbnail_url": "https://cdn.twinklepod.com/images/ec1b7260-d0dd-4f44-a530-d8a61d850d3d/page-1.jpg",
+    "duration_minutes": 18,
+    "page_count": 18,
+    "author": "Book Dash",
+    "license": "CC-BY 4.0",
+    "source": "https://bookdash.org/books/the-new-road",
+    "published": true,
+    "created_at": "2025-01-01T00:00:00Z"
+  },
+  {
+    "story_id": "ec83c39a-c719-433f-9694-82c0adaf7fc7",
+    "title": "Grandpa Farouk's Garden",
+    "age_range": "5-7",
+    "categories": [
+      "animals",
+      "family",
+      "friendship",
+      "emotions",
+      "food"
+    ],
+    "tags": [
+      "bookdash"
+    ],
+    "s3_key": "stories/ec83c39a-c719-433f-9694-82c0adaf7fc7.json",
+    "thumbnail_url": "https://cdn.twinklepod.com/images/ec83c39a-c719-433f-9694-82c0adaf7fc7/page-1.jpg",
+    "duration_minutes": 18,
+    "page_count": 18,
+    "author": "Book Dash",
+    "license": "CC-BY 4.0",
+    "source": "https://bookdash.org/books/grandpa-farouks-garden",
+    "published": true,
+    "created_at": "2025-01-01T00:00:00Z"
+  },
+  {
+    "story_id": "ecc397d9-33bd-4644-95b0-c0b4eb57ad4f",
+    "title": "Come stay with me",
+    "age_range": "5-7",
+    "categories": [
+      "animals",
+      "family",
+      "friendship",
+      "food"
+    ],
+    "tags": [
+      "bookdash"
+    ],
+    "s3_key": "stories/ecc397d9-33bd-4644-95b0-c0b4eb57ad4f.json",
+    "thumbnail_url": "https://cdn.twinklepod.com/images/ecc397d9-33bd-4644-95b0-c0b4eb57ad4f/page-1.jpg",
+    "duration_minutes": 18,
+    "page_count": 18,
+    "author": "Book Dash",
+    "license": "CC-BY 4.0",
+    "source": "https://bookdash.org/books/come-stay-with-me",
+    "published": true,
+    "created_at": "2025-01-01T00:00:00Z"
+  },
+  {
+    "story_id": "ede53df8-4fd9-4eb4-b13a-4b59528bca59",
+    "title": "I Hate Winter",
+    "age_range": "5-7",
+    "categories": [
+      "animals",
+      "bedtime",
+      "friendship",
+      "emotions",
+      "learning",
+      "food"
+    ],
+    "tags": [
+      "bookdash"
+    ],
+    "s3_key": "stories/ede53df8-4fd9-4eb4-b13a-4b59528bca59.json",
+    "thumbnail_url": "https://cdn.twinklepod.com/images/ede53df8-4fd9-4eb4-b13a-4b59528bca59/page-1.jpg",
+    "duration_minutes": 18,
+    "page_count": 18,
+    "author": "Book Dash",
+    "license": "CC-BY 4.0",
+    "source": "https://bookdash.org/books/i-hate-winter",
+    "published": true,
+    "created_at": "2025-01-01T00:00:00Z"
+  },
+  {
+    "story_id": "f1b0e571-daab-4b6b-997b-96035e154857",
+    "title": "Lesedi's Sandbox",
+    "age_range": "5-7",
+    "categories": [
+      "animals",
+      "bedtime",
+      "family",
+      "friendship",
+      "emotions",
+      "fantasy",
+      "food"
+    ],
+    "tags": [
+      "bookdash"
+    ],
+    "s3_key": "stories/f1b0e571-daab-4b6b-997b-96035e154857.json",
+    "thumbnail_url": "https://cdn.twinklepod.com/images/f1b0e571-daab-4b6b-997b-96035e154857/page-1.jpg",
+    "duration_minutes": 18,
+    "page_count": 18,
+    "author": "Book Dash",
+    "license": "CC-BY 4.0",
+    "source": "https://bookdash.org/books/lesedis-sandbox",
+    "published": true,
+    "created_at": "2025-01-01T00:00:00Z"
+  },
+  {
+    "story_id": "f35e6be1-d433-43e2-990f-7a05e750246a",
+    "title": "A trip to the tap",
+    "age_range": "5-7",
+    "categories": [
+      "animals",
+      "family",
+      "friendship",
+      "learning",
+      "food"
+    ],
+    "tags": [
+      "bookdash"
+    ],
+    "s3_key": "stories/f35e6be1-d433-43e2-990f-7a05e750246a.json",
+    "thumbnail_url": "https://cdn.twinklepod.com/images/f35e6be1-d433-43e2-990f-7a05e750246a/page-1.jpg",
+    "duration_minutes": 18,
+    "page_count": 18,
+    "author": "Book Dash",
+    "license": "CC-BY 4.0",
+    "source": "https://bookdash.org/books/a-trip-to-the-tap",
+    "published": true,
+    "created_at": "2025-01-01T00:00:00Z"
+  },
+  {
+    "story_id": "f45c319a-c5a6-4381-aa36-3906b7fc9d77",
+    "title": "Let's have an inside day!",
+    "age_range": "5-7",
+    "categories": [
+      "animals",
+      "friendship",
+      "food"
+    ],
+    "tags": [
+      "bookdash"
+    ],
+    "s3_key": "stories/f45c319a-c5a6-4381-aa36-3906b7fc9d77.json",
+    "thumbnail_url": "https://cdn.twinklepod.com/images/f45c319a-c5a6-4381-aa36-3906b7fc9d77/page-1.jpg",
+    "duration_minutes": 1,
+    "page_count": 1,
+    "author": "Book Dash",
+    "license": "CC-BY 4.0",
+    "source": "https://bookdash.org/books/lets-have-an-inside-day",
+    "published": true,
+    "created_at": "2025-01-01T00:00:00Z"
+  },
+  {
+    "story_id": "f4869b02-964c-4e47-b05e-96edb3a84726",
+    "title": "Why is Nita Upside Down?",
+    "age_range": "4-6",
+    "categories": [
+      "general"
+    ],
+    "tags": [
+      "bookdash"
+    ],
+    "s3_key": "stories/f4869b02-964c-4e47-b05e-96edb3a84726.json",
+    "thumbnail_url": "https://cdn.twinklepod.com/images/f4869b02-964c-4e47-b05e-96edb3a84726/page-1.jpg",
+    "duration_minutes": 18,
+    "page_count": 18,
+    "author": "Book Dash",
+    "license": "CC-BY 4.0",
+    "source": "https://bookdash.org/books/why-is-nita-upside-down",
+    "published": true,
+    "created_at": "2025-01-01T00:00:00Z"
+  },
+  {
+    "story_id": "f6879478-6d2a-4c32-b624-9bd83f537e89",
+    "title": "My inside weather",
+    "age_range": "5-7",
+    "categories": [
+      "animals",
+      "friendship",
+      "food"
+    ],
+    "tags": [
+      "bookdash"
+    ],
+    "s3_key": "stories/f6879478-6d2a-4c32-b624-9bd83f537e89.json",
+    "thumbnail_url": "https://cdn.twinklepod.com/images/f6879478-6d2a-4c32-b624-9bd83f537e89/page-1.jpg",
+    "duration_minutes": 18,
+    "page_count": 18,
+    "author": "Book Dash",
+    "license": "CC-BY 4.0",
+    "source": "https://bookdash.org/books/my-inside-weather",
+    "published": true,
+    "created_at": "2025-01-01T00:00:00Z"
+  },
+  {
+    "story_id": "f760e9ad-90ab-4f82-a6b2-d1c44bc5806c",
+    "title": "Little Sock and the tiny creatures",
+    "age_range": "5-7",
+    "categories": [
+      "animals",
+      "friendship",
+      "food"
+    ],
+    "tags": [
+      "bookdash"
+    ],
+    "s3_key": "stories/f760e9ad-90ab-4f82-a6b2-d1c44bc5806c.json",
+    "thumbnail_url": "https://cdn.twinklepod.com/images/f760e9ad-90ab-4f82-a6b2-d1c44bc5806c/page-1.jpg",
+    "duration_minutes": 18,
+    "page_count": 18,
+    "author": "Book Dash",
+    "license": "CC-BY 4.0",
+    "source": "https://bookdash.org/books/little-sock-and-the-tiny-creatures",
+    "published": true,
+    "created_at": "2025-01-01T00:00:00Z"
+  },
+  {
+    "story_id": "fa481e45-d668-43fb-bc04-fe09278a2d0a",
+    "title": "Going Places",
+    "age_range": "5-7",
+    "categories": [
+      "animals",
+      "friendship",
+      "learning",
+      "fantasy",
+      "food"
+    ],
+    "tags": [
+      "bookdash"
+    ],
+    "s3_key": "stories/fa481e45-d668-43fb-bc04-fe09278a2d0a.json",
+    "thumbnail_url": "https://cdn.twinklepod.com/images/fa481e45-d668-43fb-bc04-fe09278a2d0a/page-1.jpg",
+    "duration_minutes": 18,
+    "page_count": 18,
+    "author": "Book Dash",
+    "license": "CC-BY 4.0",
+    "source": "https://bookdash.org/books/going-places",
+    "published": true,
+    "created_at": "2025-01-01T00:00:00Z"
+  },
+  {
+    "story_id": "fb0ec7b1-49a6-4ebe-b7d8-d6e1b9dda647",
+    "title": "Zenande's helping hands",
+    "age_range": "5-7",
+    "categories": [
+      "animals",
+      "family",
+      "friendship",
+      "emotions",
+      "learning",
+      "food"
+    ],
+    "tags": [
+      "bookdash"
+    ],
+    "s3_key": "stories/fb0ec7b1-49a6-4ebe-b7d8-d6e1b9dda647.json",
+    "thumbnail_url": "https://cdn.twinklepod.com/images/fb0ec7b1-49a6-4ebe-b7d8-d6e1b9dda647/page-1.jpg",
+    "duration_minutes": 18,
+    "page_count": 18,
+    "author": "Book Dash",
+    "license": "CC-BY 4.0",
+    "source": "https://bookdash.org/books/zenandes-helping-hands",
+    "published": true,
+    "created_at": "2025-01-01T00:00:00Z"
+  },
+  {
+    "story_id": "fb3d57d4-75bd-49b3-909b-f5e2fdac5ba5",
+    "title": "Who's that baby?",
+    "age_range": "5-7",
+    "categories": [
+      "animals",
+      "family",
+      "friendship",
+      "food"
+    ],
+    "tags": [
+      "bookdash"
+    ],
+    "s3_key": "stories/fb3d57d4-75bd-49b3-909b-f5e2fdac5ba5.json",
+    "thumbnail_url": "https://cdn.twinklepod.com/images/fb3d57d4-75bd-49b3-909b-f5e2fdac5ba5/page-1.jpg",
+    "duration_minutes": 18,
+    "page_count": 18,
+    "author": "Book Dash",
+    "license": "CC-BY 4.0",
+    "source": "https://bookdash.org/books/whos-that-baby",
+    "published": true,
+    "created_at": "2025-01-01T00:00:00Z"
+  },
+  {
+    "story_id": "fbcaefed-6b5e-47a3-a08a-2c15c3849343",
+    "title": "I want to!",
+    "age_range": "5-7",
+    "categories": [
+      "animals",
+      "friendship",
+      "food"
+    ],
+    "tags": [
+      "bookdash"
+    ],
+    "s3_key": "stories/fbcaefed-6b5e-47a3-a08a-2c15c3849343.json",
+    "thumbnail_url": "https://cdn.twinklepod.com/images/fbcaefed-6b5e-47a3-a08a-2c15c3849343/page-1.jpg",
+    "duration_minutes": 18,
+    "page_count": 18,
+    "author": "Book Dash",
+    "license": "CC-BY 4.0",
+    "source": "https://bookdash.org/books/i-want-to",
+    "published": true,
+    "created_at": "2025-01-01T00:00:00Z"
+  },
+  {
+    "story_id": "fdba77d8-e490-4d42-86e0-2af1c0a9da5b",
+    "title": "Dudu's Hat",
+    "age_range": "3-6",
+    "categories": [
+      "general"
+    ],
+    "tags": [
+      "bookdash"
+    ],
+    "s3_key": "stories/fdba77d8-e490-4d42-86e0-2af1c0a9da5b.json",
+    "thumbnail_url": "https://cdn.twinklepod.com/images/fdba77d8-e490-4d42-86e0-2af1c0a9da5b/page-1.jpg",
+    "duration_minutes": 18,
+    "page_count": 18,
+    "author": "Book Dash",
+    "license": "CC-BY 4.0",
+    "source": "https://bookdash.org/books/dudus-hat",
+    "published": true,
+    "created_at": "2025-01-01T00:00:00Z"
+  },
+  {
+    "story_id": "ffe2e45f-bfc9-4e28-ad18-c4bdfd6fc532",
+    "title": "The Rainbow Cloud",
+    "age_range": "3-6",
+    "categories": [
+      "general"
+    ],
+    "tags": [
+      "bookdash"
+    ],
+    "s3_key": "stories/ffe2e45f-bfc9-4e28-ad18-c4bdfd6fc532.json",
+    "thumbnail_url": "https://cdn.twinklepod.com/images/ffe2e45f-bfc9-4e28-ad18-c4bdfd6fc532/page-1.jpg",
+    "duration_minutes": 18,
+    "page_count": 18,
+    "author": "Book Dash",
+    "license": "CC-BY 4.0",
+    "source": "https://bookdash.org/books/the-rainbow-cloud",
+    "published": true,
+    "created_at": "2025-01-01T00:00:00Z"
+  }
+]

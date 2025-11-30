@@ -16,6 +16,13 @@ interface ApiStackProps extends cdk.StackProps {
     progress: string;
     events: string;
   };
+  tableNames: {
+    users: string;
+    children: string;
+    stories: string;
+    progress: string;
+    events: string;
+  };
 }
 
 export class ApiStack extends cdk.Stack {
@@ -24,7 +31,7 @@ export class ApiStack extends cdk.Stack {
   constructor(scope: Construct, id: string, props: ApiStackProps) {
     super(scope, id, props);
 
-    const { stage, userPoolId, userPoolClientId, tablesArns } = props;
+    const { stage, userPoolId, userPoolClientId, tablesArns, tableNames } = props;
 
     // Lambda execution role
     const lambdaRole = new iam.Role(this, 'LambdaRole', {
@@ -128,7 +135,7 @@ export class ApiStack extends cdk.Stack {
       code: lambda.Code.fromAsset('../api/dist'),
       role: lambdaRole,
       environment: {
-        DYNAMODB_STORIES_TABLE: `twinklepod-stories-${stage}`,
+        DYNAMODB_STORIES_TABLE: tableNames.stories,
       },
     });
 
@@ -138,7 +145,7 @@ export class ApiStack extends cdk.Stack {
       code: lambda.Code.fromAsset('../api/dist'),
       role: lambdaRole,
       environment: {
-        DYNAMODB_STORIES_TABLE: `twinklepod-stories-${stage}`,
+        DYNAMODB_STORIES_TABLE: tableNames.stories,
         S3_BUCKET_NAME: `twinklepod-stories-${stage}`,
       },
     });

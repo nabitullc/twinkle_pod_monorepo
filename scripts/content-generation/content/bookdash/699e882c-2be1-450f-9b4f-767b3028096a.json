@@ -1,0 +1,30 @@
+{
+  "story_id": "699e882c-2be1-450f-9b4f-767b3028096a",
+  "title": "Mali's Friend",
+  "pages": [
+    {
+      "index": 0,
+      "text": "",
+      "image": "https://d3lncscy0tzgzt.cloudfront.net/images/699e882c-2be1-450f-9b4f-767b3028096a/page-1.jpg"
+    }
+  ],
+  "age_range": "5-7",
+  "tags": [
+    "bookdash"
+  ],
+  "duration_minutes": 1,
+  "page_count": 1,
+  "author": "Book Dash",
+  "license": "CC-BY 4.0",
+  "source": "https://bookdash.org/books/malis-friend",
+  "categories": [
+    "animals",
+    "family",
+    "friendship",
+    "food"
+  ],
+  "created_at": "2025-01-01T00:00:00Z",
+  "s3_key": "stories/699e882c-2be1-450f-9b4f-767b3028096a.json",
+  "thumbnail_url": "https://d3lncscy0tzgzt.cloudfront.net/images/699e882c-2be1-450f-9b4f-767b3028096a/page-1.jpg",
+  "published": true
+}

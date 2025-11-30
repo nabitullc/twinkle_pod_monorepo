@@ -1,0 +1,114 @@
+{
+  "story_id": "65d2591f-e663-46b4-aab3-8ce70f8d248f",
+  "title": "The Biscuit Jar Must Fall",
+  "pages": [
+    {
+      "index": 0,
+      "text": "",
+      "image": "https://d3lncscy0tzgzt.cloudfront.net/images/65d2591f-e663-46b4-aab3-8ce70f8d248f/page-1.jpg"
+    },
+    {
+      "index": 1,
+      "text": "",
+      "image": "https://d3lncscy0tzgzt.cloudfront.net/images/65d2591f-e663-46b4-aab3-8ce70f8d248f/page-2.jpg"
+    },
+    {
+      "index": 2,
+      "text": "",
+      "image": "https://d3lncscy0tzgzt.cloudfront.net/images/65d2591f-e663-46b4-aab3-8ce70f8d248f/page-3.jpg"
+    },
+    {
+      "index": 3,
+      "text": "",
+      "image": "https://d3lncscy0tzgzt.cloudfront.net/images/65d2591f-e663-46b4-aab3-8ce70f8d248f/page-4.jpg"
+    },
+    {
+      "index": 4,
+      "text": "",
+      "image": "https://d3lncscy0tzgzt.cloudfront.net/images/65d2591f-e663-46b4-aab3-8ce70f8d248f/page-5.jpg"
+    },
+    {
+      "index": 5,
+      "text": "",
+      "image": "https://d3lncscy0tzgzt.cloudfront.net/images/65d2591f-e663-46b4-aab3-8ce70f8d248f/page-6.jpg"
+    },
+    {
+      "index": 6,
+      "text": "",
+      "image": "https://d3lncscy0tzgzt.cloudfront.net/images/65d2591f-e663-46b4-aab3-8ce70f8d248f/page-7.jpg"
+    },
+    {
+      "index": 7,
+      "text": "",
+      "image": "https://d3lncscy0tzgzt.cloudfront.net/images/65d2591f-e663-46b4-aab3-8ce70f8d248f/page-8.jpg"
+    },
+    {
+      "index": 8,
+      "text": "",
+      "image": "https://d3lncscy0tzgzt.cloudfront.net/images/65d2591f-e663-46b4-aab3-8ce70f8d248f/page-9.jpg"
+    },
+    {
+      "index": 9,
+      "text": "",
+      "image": "https://d3lncscy0tzgzt.cloudfront.net/images/65d2591f-e663-46b4-aab3-8ce70f8d248f/page-10.jpg"
+    },
+    {
+      "index": 10,
+      "text": "",
+      "image": "https://d3lncscy0tzgzt.cloudfront.net/images/65d2591f-e663-46b4-aab3-8ce70f8d248f/page-11.jpg"
+    },
+    {
+      "index": 11,
+      "text": "",
+      "image": "https://d3lncscy0tzgzt.cloudfront.net/images/65d2591f-e663-46b4-aab3-8ce70f8d248f/page-12.jpg"
+    },
+    {
+      "index": 12,
+      "text": "",
+      "image": "https://d3lncscy0tzgzt.cloudfront.net/images/65d2591f-e663-46b4-aab3-8ce70f8d248f/page-13.jpg"
+    },
+    {
+      "index": 13,
+      "text": "",
+      "image": "https://d3lncscy0tzgzt.cloudfront.net/images/65d2591f-e663-46b4-aab3-8ce70f8d248f/page-14.jpg"
+    },
+    {
+      "index": 14,
+      "text": "",
+      "image": "https://d3lncscy0tzgzt.cloudfront.net/images/65d2591f-e663-46b4-aab3-8ce70f8d248f/page-15.jpg"
+    },
+    {
+      "index": 15,
+      "text": "",
+      "image": "https://d3lncscy0tzgzt.cloudfront.net/images/65d2591f-e663-46b4-aab3-8ce70f8d248f/page-16.jpg"
+    },
+    {
+      "index": 16,
+      "text": "",
+      "image": "https://d3lncscy0tzgzt.cloudfront.net/images/65d2591f-e663-46b4-aab3-8ce70f8d248f/page-17.jpg"
+    },
+    {
+      "index": 17,
+      "text": "",
+      "image": "https://d3lncscy0tzgzt.cloudfront.net/images/65d2591f-e663-46b4-aab3-8ce70f8d248f/page-18.jpg"
+    }
+  ],
+  "age_range": "5-7",
+  "tags": [
+    "bookdash"
+  ],
+  "duration_minutes": 18,
+  "page_count": 18,
+  "author": "Book Dash",
+  "license": "CC-BY 4.0",
+  "source": "https://bookdash.org/books/the-biscuit-jar-must-fall",
+  "categories": [
+    "animals",
+    "friendship",
+    "food"
+  ],
+  "created_at": "2025-01-01T00:00:00Z",
+  "s3_key": "stories/65d2591f-e663-46b4-aab3-8ce70f8d248f.json",
+  "thumbnail_url": "https://d3lncscy0tzgzt.cloudfront.net/images/65d2591f-e663-46b4-aab3-8ce70f8d248f/page-1.jpg",
+  "published": true
+}

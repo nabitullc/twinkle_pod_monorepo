@@ -1,0 +1,115 @@
+{
+  "story_id": "65c9e645-50ce-4f73-b1e8-2d598cecee85",
+  "title": "Lefa's Bath",
+  "pages": [
+    {
+      "index": 0,
+      "text": "",
+      "image": "https://d3lncscy0tzgzt.cloudfront.net/images/65c9e645-50ce-4f73-b1e8-2d598cecee85/page-1.jpg"
+    },
+    {
+      "index": 1,
+      "text": "",
+      "image": "https://d3lncscy0tzgzt.cloudfront.net/images/65c9e645-50ce-4f73-b1e8-2d598cecee85/page-2.jpg"
+    },
+    {
+      "index": 2,
+      "text": "",
+      "image": "https://d3lncscy0tzgzt.cloudfront.net/images/65c9e645-50ce-4f73-b1e8-2d598cecee85/page-3.jpg"
+    },
+    {
+      "index": 3,
+      "text": "",
+      "image": "https://d3lncscy0tzgzt.cloudfront.net/images/65c9e645-50ce-4f73-b1e8-2d598cecee85/page-4.jpg"
+    },
+    {
+      "index": 4,
+      "text": "",
+      "image": "https://d3lncscy0tzgzt.cloudfront.net/images/65c9e645-50ce-4f73-b1e8-2d598cecee85/page-5.jpg"
+    },
+    {
+      "index": 5,
+      "text": "",
+      "image": "https://d3lncscy0tzgzt.cloudfront.net/images/65c9e645-50ce-4f73-b1e8-2d598cecee85/page-6.jpg"
+    },
+    {
+      "index": 6,
+      "text": "",
+      "image": "https://d3lncscy0tzgzt.cloudfront.net/images/65c9e645-50ce-4f73-b1e8-2d598cecee85/page-7.jpg"
+    },
+    {
+      "index": 7,
+      "text": "",
+      "image": "https://d3lncscy0tzgzt.cloudfront.net/images/65c9e645-50ce-4f73-b1e8-2d598cecee85/page-8.jpg"
+    },
+    {
+      "index": 8,
+      "text": "",
+      "image": "https://d3lncscy0tzgzt.cloudfront.net/images/65c9e645-50ce-4f73-b1e8-2d598cecee85/page-9.jpg"
+    },
+    {
+      "index": 9,
+      "text": "",
+      "image": "https://d3lncscy0tzgzt.cloudfront.net/images/65c9e645-50ce-4f73-b1e8-2d598cecee85/page-10.jpg"
+    },
+    {
+      "index": 10,
+      "text": "",
+      "image": "https://d3lncscy0tzgzt.cloudfront.net/images/65c9e645-50ce-4f73-b1e8-2d598cecee85/page-11.jpg"
+    },
+    {
+      "index": 11,
+      "text": "",
+      "image": "https://d3lncscy0tzgzt.cloudfront.net/images/65c9e645-50ce-4f73-b1e8-2d598cecee85/page-12.jpg"
+    },
+    {
+      "index": 12,
+      "text": "",
+      "image": "https://d3lncscy0tzgzt.cloudfront.net/images/65c9e645-50ce-4f73-b1e8-2d598cecee85/page-13.jpg"
+    },
+    {
+      "index": 13,
+      "text": "",
+      "image": "https://d3lncscy0tzgzt.cloudfront.net/images/65c9e645-50ce-4f73-b1e8-2d598cecee85/page-14.jpg"
+    },
+    {
+      "index": 14,
+      "text": "",
+      "image": "https://d3lncscy0tzgzt.cloudfront.net/images/65c9e645-50ce-4f73-b1e8-2d598cecee85/page-15.jpg"
+    },
+    {
+      "index": 15,
+      "text": "",
+      "image": "https://d3lncscy0tzgzt.cloudfront.net/images/65c9e645-50ce-4f73-b1e8-2d598cecee85/page-16.jpg"
+    },
+    {
+      "index": 16,
+      "text": "",
+      "image": "https://d3lncscy0tzgzt.cloudfront.net/images/65c9e645-50ce-4f73-b1e8-2d598cecee85/page-17.jpg"
+    },
+    {
+      "index": 17,
+      "text": "",
+      "image": "https://d3lncscy0tzgzt.cloudfront.net/images/65c9e645-50ce-4f73-b1e8-2d598cecee85/page-18.jpg"
+    }
+  ],
+  "age_range": "5-7",
+  "tags": [
+    "bookdash"
+  ],
+  "duration_minutes": 18,
+  "page_count": 18,
+  "author": "Book Dash",
+  "license": "CC-BY 4.0",
+  "source": "https://bookdash.org/books/lefas-bath",
+  "categories": [
+    "animals",
+    "friendship",
+    "learning",
+    "food"
+  ],
+  "created_at": "2025-01-01T00:00:00Z",
+  "s3_key": "stories/65c9e645-50ce-4f73-b1e8-2d598cecee85.json",
+  "thumbnail_url": "https://d3lncscy0tzgzt.cloudfront.net/images/65c9e645-50ce-4f73-b1e8-2d598cecee85/page-1.jpg",
+  "published": true
+}

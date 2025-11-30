@@ -11,9 +11,7 @@ import time
 
 # Story URLs to download
 STORY_URLS = [
-    "https://storyweaver.org.in/en/stories?level=1&sort=Ratings",
-    "https://storyweaver.org.in/en/stories?level=2&sort=Ratings",
-    "https://storyweaver.org.in/en/stories?level=3&sort=Ratings",
+    "https://storyweaver.org.in/en/stories?level=5&sort=Ratings",  # Level 5 only
 ]
 
 async def download_story(page, story_url, download_dir):
@@ -63,24 +61,32 @@ async def get_story_links(page, listing_url, limit=10):
     """Get story links from listing page"""
     print(f"\n🔍 Loading: {listing_url}")
     await page.goto(listing_url, wait_until="load", timeout=60000)
-    await page.wait_for_timeout(5000)  # Wait for React to render
+    
+    # Wait longer for React to render stories
+    print("  ⏳ Waiting for stories to load...")
+    await page.wait_for_timeout(10000)  # 10 seconds
     
     # Scroll to load more stories
-    for _ in range(3):
+    print("  📜 Scrolling to load more...")
+    for i in range(5):
         await page.evaluate("window.scrollTo(0, document.body.scrollHeight)")
-        await page.wait_for_timeout(2000)
+        await page.wait_for_timeout(3000)
+        print(f"    Scroll {i+1}/5")
     
-    # Find all story links
+    # Take screenshot to debug
+    await page.screenshot(path="debug-listing.png")
+    print("  📸 Screenshot saved: debug-listing.png")
+    
+    # Find all story links - simpler approach
     links = await page.evaluate("""
         () => {
             const storyLinks = [];
-            const anchors = document.querySelectorAll('a[href*="/stories/"]');
+            const anchors = Array.from(document.querySelectorAll('a'));
             anchors.forEach(a => {
-                const href = a.getAttribute('href');
-                if (href && href.match(/\\/stories\\/\\d+/)) {
-                    const fullUrl = href.startsWith('http') ? href : 'https://storyweaver.org.in' + href;
-                    if (!storyLinks.includes(fullUrl)) {
-                        storyLinks.push(fullUrl);
+                const href = a.href || a.getAttribute('href');
+                if (href && href.includes('/stories/') && href.match(/\\/stories\\/\\d+/)) {
+                    if (!storyLinks.includes(href)) {
+                        storyLinks.push(href);
                     }
                 }
             });

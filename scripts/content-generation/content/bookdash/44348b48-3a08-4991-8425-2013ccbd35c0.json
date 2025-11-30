@@ -1,0 +1,110 @@
+{
+  "story_id": "44348b48-3a08-4991-8425-2013ccbd35c0",
+  "title": "There's an alien in my house!",
+  "pages": [
+    {
+      "index": 0,
+      "text": "",
+      "image": "https://d3lncscy0tzgzt.cloudfront.net/images/44348b48-3a08-4991-8425-2013ccbd35c0/page-1.jpg"
+    },
+    {
+      "index": 1,
+      "text": "",
+      "image": "https://d3lncscy0tzgzt.cloudfront.net/images/44348b48-3a08-4991-8425-2013ccbd35c0/page-2.jpg"
+    },
+    {
+      "index": 2,
+      "text": "",
+      "image": "https://d3lncscy0tzgzt.cloudfront.net/images/44348b48-3a08-4991-8425-2013ccbd35c0/page-3.jpg"
+    },
+    {
+      "index": 3,
+      "text": "",
+      "image": "https://d3lncscy0tzgzt.cloudfront.net/images/44348b48-3a08-4991-8425-2013ccbd35c0/page-4.jpg"
+    },
+    {
+      "index": 4,
+      "text": "",
+      "image": "https://d3lncscy0tzgzt.cloudfront.net/images/44348b48-3a08-4991-8425-2013ccbd35c0/page-5.jpg"
+    },
+    {
+      "index": 5,
+      "text": "",
+      "image": "https://d3lncscy0tzgzt.cloudfront.net/images/44348b48-3a08-4991-8425-2013ccbd35c0/page-6.jpg"
+    },
+    {
+      "index": 6,
+      "text": "",
+      "image": "https://d3lncscy0tzgzt.cloudfront.net/images/44348b48-3a08-4991-8425-2013ccbd35c0/page-7.jpg"
+    },
+    {
+      "index": 7,
+      "text": "",
+      "image": "https://d3lncscy0tzgzt.cloudfront.net/images/44348b48-3a08-4991-8425-2013ccbd35c0/page-8.jpg"
+    },
+    {
+      "index": 8,
+      "text": "",
+      "image": "https://d3lncscy0tzgzt.cloudfront.net/images/44348b48-3a08-4991-8425-2013ccbd35c0/page-9.jpg"
+    },
+    {
+      "index": 9,
+      "text": "",
+      "image": "https://d3lncscy0tzgzt.cloudfront.net/images/44348b48-3a08-4991-8425-2013ccbd35c0/page-10.jpg"
+    },
+    {
+      "index": 10,
+      "text": "",
+      "image": "https://d3lncscy0tzgzt.cloudfront.net/images/44348b48-3a08-4991-8425-2013ccbd35c0/page-11.jpg"
+    },
+    {
+      "index": 11,
+      "text": "",
+      "image": "https://d3lncscy0tzgzt.cloudfront.net/images/44348b48-3a08-4991-8425-2013ccbd35c0/page-12.jpg"
+    },
+    {
+      "index": 12,
+      "text": "",
+      "image": "https://d3lncscy0tzgzt.cloudfront.net/images/44348b48-3a08-4991-8425-2013ccbd35c0/page-13.jpg"
+    },
+    {
+      "index": 13,
+      "text": "",
+      "image": "https://d3lncscy0tzgzt.cloudfront.net/images/44348b48-3a08-4991-8425-2013ccbd35c0/page-14.jpg"
+    },
+    {
+      "index": 14,
+      "text": "",
+      "image": "https://d3lncscy0tzgzt.cloudfront.net/images/44348b48-3a08-4991-8425-2013ccbd35c0/page-15.jpg"
+    },
+    {
+      "index": 15,
+      "text": "",
+      "image": "https://d3lncscy0tzgzt.cloudfront.net/images/44348b48-3a08-4991-8425-2013ccbd35c0/page-16.jpg"
+    },
+    {
+      "index": 16,
+      "text": "",
+      "image": "https://d3lncscy0tzgzt.cloudfront.net/images/44348b48-3a08-4991-8425-2013ccbd35c0/page-17.jpg"
+    }
+  ],
+  "age_range": "5-7",
+  "tags": [
+    "bookdash"
+  ],
+  "duration_minutes": 17,
+  "page_count": 17,
+  "author": "Book Dash",
+  "license": "CC-BY 4.0",
+  "source": "https://bookdash.org/books/theres-an-alien-in-my-house",
+  "categories": [
+    "animals",
+    "friendship",
+    "fantasy",
+    "food"
+  ],
+  "created_at": "2025-01-01T00:00:00Z",
+  "s3_key": "stories/44348b48-3a08-4991-8425-2013ccbd35c0.json",
+  "thumbnail_url": "https://d3lncscy0tzgzt.cloudfront.net/images/44348b48-3a08-4991-8425-2013ccbd35c0/page-1.jpg",
+  "published": true
+}

@@ -1,0 +1,29 @@
+{
+  "story_id": "a96d3905-cc09-42fb-9885-6c20c04243c1",
+  "title": "Ann-Nem-Oh-Nee finds Adventure",
+  "pages": [
+    {
+      "index": 0,
+      "text": "",
+      "image": "https://d3lncscy0tzgzt.cloudfront.net/images/a96d3905-cc09-42fb-9885-6c20c04243c1/page-1.jpg"
+    }
+  ],
+  "age_range": "5-7",
+  "tags": [
+    "bookdash"
+  ],
+  "duration_minutes": 1,
+  "page_count": 1,
+  "author": "Book Dash",
+  "license": "CC-BY 4.0",
+  "source": "https://bookdash.org/books/ann-nem-oh-nee-finds-adventure",
+  "categories": [
+    "animals",
+    "friendship",
+    "food"
+  ],
+  "created_at": "2025-01-01T00:00:00Z",
+  "s3_key": "stories/a96d3905-cc09-42fb-9885-6c20c04243c1.json",
+  "thumbnail_url": "https://d3lncscy0tzgzt.cloudfront.net/images/a96d3905-cc09-42fb-9885-6c20c04243c1/page-1.jpg",
+  "published": true
+}
