@@ -56,6 +56,12 @@ export class ApiStack extends cdk.Stack {
       resources: [`arn:aws:cognito-idp:${this.region}:${this.account}:userpool/${userPoolId}`],
     }));
 
+    // Grant S3 read permissions
+    lambdaRole.addToPolicy(new iam.PolicyStatement({
+      actions: ['s3:GetObject'],
+      resources: [`arn:aws:s3:::twinklepod-stories-${stage}/*`],
+    }));
+
     // Auth handlers
     const registerFn = new lambda.Function(this, 'RegisterFn', {
       runtime: lambda.Runtime.NODEJS_20_X,
