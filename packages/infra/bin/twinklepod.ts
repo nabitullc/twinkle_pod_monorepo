@@ -6,6 +6,7 @@ import { AuthStack } from '../lib/auth-stack';
 import { ApiStack } from '../lib/api-stack';
 import { AmplifyStack } from '../lib/amplify-stack';
 import { PipelineStack } from '../lib/pipeline-stack';
+import { Route53Stack } from '../lib/route53-stack';
 
 const app = new cdk.App();
 
@@ -14,6 +15,9 @@ const env = {
   account: process.env.CDK_DEFAULT_ACCOUNT,
   region: process.env.CDK_DEFAULT_REGION || 'us-east-1',
 };
+
+// Route 53 stack (shared across stages)
+const route53Stack = new Route53Stack(app, 'TwinklePod-Route53', { env });
 
 // Application stacks
 const storageStack = new StorageStack(app, `TwinklePod-Storage-${stage}`, { env, stage });
@@ -42,7 +46,7 @@ const apiStack = new ApiStack(app, `TwinklePod-Api-${stage}`, {
   },
 });
 
-// Amplify stack (depends on API and Auth)
+// Amplify stack (depends on API, Auth, and Route 53)
 // Temporarily hardcoded to break cross-stack reference during stage migration
 const apiUrl = stage === 'beta' 
   ? 'https://dkbdtxdkj0.execute-api.us-east-1.amazonaws.com/beta'
@@ -55,6 +59,7 @@ new AmplifyStack(app, `TwinklePod-Amplify-${stage}`, {
   userPoolId: authStack.userPoolId,
   userPoolClientId: authStack.userPoolClient.userPoolClientId,
   cloudfrontUrl: storageStack.cloudfrontUrl || '',
+  hostedZone: route53Stack.hostedZone,
 });
 
 // Pipeline stack (only for beta/prod, not for local dev)

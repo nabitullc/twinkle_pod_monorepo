@@ -1,5 +1,6 @@
 import * as cdk from 'aws-cdk-lib';
 import * as amplify from 'aws-cdk-lib/aws-amplify';
+import * as route53 from 'aws-cdk-lib/aws-route53';
 import { Construct } from 'constructs';
 
 interface AmplifyStackProps extends cdk.StackProps {
@@ -8,6 +9,7 @@ interface AmplifyStackProps extends cdk.StackProps {
   userPoolId: string;
   userPoolClientId: string;
   cloudfrontUrl: string;
+  hostedZone: route53.IHostedZone;
 }
 
 export class AmplifyStack extends cdk.Stack {
