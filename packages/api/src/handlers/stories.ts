@@ -12,22 +12,21 @@ export const list = async (event: APIGatewayProxyEvent): Promise<APIGatewayProxy
   try {
     const { category, age_range, page = '1', limit = '20' } = event.queryStringParameters || {};
     
+    let pk = 'PUBLISHED#true';
+    if (category) {
+      pk = `CATEGORY#${category}`;
+    } else if (age_range) {
+      pk = `AGE#${age_range}`;
+    }
+    
     const result = await docClient.send(new QueryCommand({
       TableName: TableNames.STORIES,
-      IndexName: 'published-index',
-      KeyConditionExpression: 'published = :published',
+      KeyConditionExpression: 'pk = :pk',
       ExpressionAttributeValues: {
-        ':published': true,
-        ...(category && { ':category': category }),
-        ...(age_range && { ':age': age_range }),
+        ':pk': pk,
       },
-      ...(category && {
-        FilterExpression: 'contains(categories, :category)',
-      }),
-      ...(age_range && {
-        FilterExpression: 'age_range = :age',
-      }),
       Limit: parseInt(limit),
+      ScanIndexForward: false, // newest first
     }));
 
     return success({
@@ -48,7 +47,10 @@ export const get = async (event: APIGatewayProxyEvent): Promise<APIGatewayProxyR
 
     const result = await docClient.send(new GetCommand({
       TableName: TableNames.STORIES,
-      Key: { story_id: storyId },
+      Key: { 
+        pk: storyId,
+        sk: storyId
+      },
     }));
 
     if (!result.Item) {
@@ -68,7 +70,7 @@ export const get = async (event: APIGatewayProxyEvent): Promise<APIGatewayProxyR
 
     return success({
       ...result.Item,
-      content_url: signedUrl,
+      s3_url: signedUrl,
     });
   } catch (err: any) {
     return error(err.message || 'Failed to get story', 500);
